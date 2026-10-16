@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-- 在线使用：打开仓库的 GitHub Pages 地址。
+- 在线使用：[打开国家电投练习题库](https://anonymouslbh.github.io/spic-question-bank/)。
 - 本地使用：下载整个仓库后，用 Chrome 或 Edge 打开 `index.html`。
 - 模拟考试：从首页进入“模拟考试”，A、B 两套卷各计时 60 分钟，交卷后自动判题。
 
