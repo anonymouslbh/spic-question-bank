@@ -1,0 +1,165 @@
+{
+  "sources": 17,
+  "newQuestions": 898,
+  "newMaterials": 17,
+  "newAnswers": 891,
+  "newPendingAnswers": 7,
+  "totalQuestions": 1575,
+  "totalAnswers": 1396,
+  "documents": [
+    {
+      "paper": 13,
+      "title": "国家电投一.pdf",
+      "path": "documents/13.pdf",
+      "pages": 23,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 14,
+      "title": "国电投三.pdf",
+      "path": "documents/14.pdf",
+      "pages": 22,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 15,
+      "title": "国电投二.pdf",
+      "path": "documents/15.pdf",
+      "pages": 16,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 16,
+      "title": "国电投第十一套(已优化)(OCR).pdf",
+      "path": "documents/16.pdf",
+      "pages": 24,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 17,
+      "title": "国电投第十套（优先看).pdf",
+      "path": "documents/17.pdf",
+      "pages": 21,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 18,
+      "title": "国电投第四套答案版.pdf",
+      "path": "documents/18.pdf",
+      "pages": 17,
+      "kind": "试卷",
+      "questionCount": 64,
+      "note": ""
+    },
+    {
+      "paper": 19,
+      "title": "截止26年1月国家电投企业文化学习资料.pdf",
+      "path": "documents/19.pdf",
+      "pages": 24,
+      "kind": "学习资料",
+      "questionCount": 0,
+      "note": "原文学习资料，可直接阅读全部24页。"
+    },
+    {
+      "paper": 20,
+      "title": "最新企业文化一套（优先必看）.pdf",
+      "path": "documents/20.pdf",
+      "pages": 4,
+      "kind": "试卷",
+      "questionCount": 12,
+      "note": ""
+    },
+    {
+      "paper": 21,
+      "title": "2020年国家电投招聘笔试题及答案解析（回忆版）.pdf",
+      "path": "documents/21.pdf",
+      "pages": 23,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 22,
+      "title": "2021年国家电投招聘笔试题及答案解析（回忆版）.pdf",
+      "path": "documents/22.pdf",
+      "pages": 21,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 23,
+      "title": "2022年国家电投招聘笔试题及答案解析（回忆版）.pdf",
+      "path": "documents/23.pdf",
+      "pages": 21,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 24,
+      "title": "2023年国家电投招聘笔试题及答案解析（回忆版）.pdf",
+      "path": "documents/24.pdf",
+      "pages": 21,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 25,
+      "title": "2024年国家电投招聘笔试题及答案解析（回忆版）.pdf",
+      "path": "documents/25.pdf",
+      "pages": 21,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    },
+    {
+      "paper": 26,
+      "title": "2025年国家电投招聘笔试题及答案解析（A卷；回忆版）.pdf",
+      "path": "documents/26.pdf",
+      "pages": 54,
+      "kind": "试卷",
+      "questionCount": 82,
+      "note": ""
+    },
+    {
+      "paper": 27,
+      "title": "2025年国家电投招聘笔试题及答案解析（B卷；回忆版）.pdf",
+      "path": "documents/27.pdf",
+      "pages": 53,
+      "kind": "试卷",
+      "questionCount": 80,
+      "note": ""
+    },
+    {
+      "paper": 28,
+      "title": "2026年国家电投招聘笔试题-答案解析（回忆版）.pdf",
+      "path": "documents/28.pdf",
+      "pages": 33,
+      "kind": "配套解析",
+      "questionCount": 0,
+      "note": "与2026题目卷合并，答案及解析对应60道题。"
+    },
+    {
+      "paper": 29,
+      "title": "2026年国家电投招聘笔试题（回忆版）.pdf",
+      "path": "documents/29.pdf",
+      "pages": 22,
+      "kind": "试卷",
+      "questionCount": 60,
+      "note": ""
+    }
+  ],
+  "newSimilarPairs": 455
+}

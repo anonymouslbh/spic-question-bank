@@ -1,0 +1,69 @@
+{
+  "question": "对照原题读取2012—2021年风电及光伏累计装机容量",
+  "type": "grouped bar",
+  "renderer": "Matplotlib PNG + SVG",
+  "range": [
+    0,
+    600
+  ],
+  "unit": "GW",
+  "palette": {
+    "风电": "#9983CA",
+    "光伏": "#B7DDE3"
+  },
+  "nonColorDistinction": "每年左柱风电、右柱光伏，柱顶直接标数值",
+  "source": "questions/P2-011-1.jpg",
+  "note": "年份按标题2012—2021年及10组柱形顺序补全；图例由题干2021年539.1GW和404.5GW确定；数值全部来自原图，非外部统计更新。",
+  "data": [
+    {
+      "year": 2012,
+      "wind": 120.7,
+      "solar": 15.8
+    },
+    {
+      "year": 2013,
+      "wind": 159.1,
+      "solar": 23.2
+    },
+    {
+      "year": 2014,
+      "wind": 198,
+      "solar": 40.3
+    },
+    {
+      "year": 2015,
+      "wind": 238.1,
+      "solar": 70.5
+    },
+    {
+      "year": 2016,
+      "wind": 282.9,
+      "solar": 100.5
+    },
+    {
+      "year": 2017,
+      "wind": 318.7,
+      "solar": 138.8
+    },
+    {
+      "year": 2018,
+      "wind": 369.9,
+      "solar": 179
+    },
+    {
+      "year": 2019,
+      "wind": 432.7,
+      "solar": 229.1
+    },
+    {
+      "year": 2020,
+      "wind": 487.3,
+      "solar": 306.5
+    },
+    {
+      "year": 2021,
+      "wind": 539.1,
+      "solar": 404.5
+    }
+  ]
+}

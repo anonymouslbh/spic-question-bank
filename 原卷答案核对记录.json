@@ -1,0 +1,4786 @@
+{
+  "edition": "2026-10-11-source-annotations-bulk-text",
+  "answerCount": 506,
+  "answers": {
+    "P1-001-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P1-001-1.jpg",
+      "note": ""
+    },
+    "P1-001-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P1-001-2.jpg",
+      "note": ""
+    },
+    "P1-001-3": {
+      "answer": "ABC",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P1-001-3.jpg",
+      "note": ""
+    },
+    "P1-001-4": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P1-001-4.jpg",
+      "note": ""
+    },
+    "P1-002-1": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P1-002-1.jpg",
+      "note": ""
+    },
+    "P1-002-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P1-002-2.jpg",
+      "note": ""
+    },
+    "P1-002-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P1-002-3.jpg",
+      "note": ""
+    },
+    "P1-002-4": {
+      "answer": "AC",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P1-002-4.jpg",
+      "note": ""
+    },
+    "P1-003-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P1-003-1.jpg",
+      "note": ""
+    },
+    "P1-003-2": {
+      "answer": "AC",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P1-003-2.jpg",
+      "note": ""
+    },
+    "P1-003-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P1-003-3.jpg",
+      "note": ""
+    },
+    "P1-003-4": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P1-003-4.jpg",
+      "note": ""
+    },
+    "P1-004-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P1-004-1.jpg",
+      "note": ""
+    },
+    "P1-004-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P1-004-2.jpg",
+      "note": ""
+    },
+    "P1-004-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P1-004-3.jpg",
+      "note": ""
+    },
+    "P1-005-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P1-005-1.jpg",
+      "note": ""
+    },
+    "P1-005-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P1-005-2.jpg",
+      "note": ""
+    },
+    "P1-005-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P1-005-3.jpg",
+      "note": ""
+    },
+    "P1-006-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P1-006-1.jpg",
+      "note": ""
+    },
+    "P1-006-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P1-006-2.jpg",
+      "note": ""
+    },
+    "P1-006-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P1-006-3.jpg",
+      "note": ""
+    },
+    "P1-007-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P1-007-1.jpg",
+      "note": ""
+    },
+    "P1-007-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P1-007-2.jpg",
+      "note": ""
+    },
+    "P1-007-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P1-007-3.jpg",
+      "note": ""
+    },
+    "P1-008-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P1-008-1.jpg",
+      "note": ""
+    },
+    "P1-008-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P1-008-2.jpg",
+      "note": ""
+    },
+    "P1-008-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P1-008-3.jpg",
+      "note": ""
+    },
+    "P1-009-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P1-009-1.jpg",
+      "note": ""
+    },
+    "P1-009-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P1-009-2.jpg",
+      "note": ""
+    },
+    "P1-009-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P1-009-3.jpg",
+      "note": ""
+    },
+    "P1-010-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P1-010-1.jpg",
+      "note": ""
+    },
+    "P1-010-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P1-010-2.jpg",
+      "note": ""
+    },
+    "P1-010-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P1-010-3.jpg",
+      "note": ""
+    },
+    "P1-011-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P1-011-2.jpg",
+      "note": ""
+    },
+    "P1-011-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P1-011-3.jpg",
+      "note": ""
+    },
+    "P1-012-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P1-012-1.jpg",
+      "note": ""
+    },
+    "P1-012-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P1-012-2.jpg",
+      "note": ""
+    },
+    "P1-012-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P1-012-3.jpg",
+      "note": ""
+    },
+    "P1-013-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P1-013-1.jpg",
+      "note": ""
+    },
+    "P1-013-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P1-013-2.jpg",
+      "note": ""
+    },
+    "P1-013-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P1-013-3.jpg",
+      "note": ""
+    },
+    "P1-014-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P1-014-1.jpg",
+      "note": ""
+    },
+    "P1-014-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P1-014-2.jpg",
+      "note": ""
+    },
+    "P1-014-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P1-014-3.jpg",
+      "note": ""
+    },
+    "P1-015-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P1-015-1.jpg",
+      "note": ""
+    },
+    "P1-015-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P1-015-2.jpg",
+      "note": ""
+    },
+    "P1-015-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P1-015-3.jpg",
+      "note": ""
+    },
+    "P1-016-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P1-016-1.jpg",
+      "note": ""
+    },
+    "P1-016-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P1-016-2.jpg",
+      "note": ""
+    },
+    "P1-016-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P1-016-3.jpg",
+      "note": ""
+    },
+    "P1-017-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P1-017-1.jpg",
+      "note": ""
+    },
+    "P1-017-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P1-017-2.jpg",
+      "note": ""
+    },
+    "P2-001-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 1,
+      "image": "questions/P2-001-1.jpg",
+      "note": "原卷写有 34251，但选项序列模糊，暂未对应到选项字母。"
+    },
+    "P2-001-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P2-001-2.jpg",
+      "note": ""
+    },
+    "P2-002-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P2-002-1.jpg",
+      "note": "按原卷红字 2/5 对应选项 B 录入；此处保留原卷参考答案。"
+    },
+    "P2-002-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 2,
+      "image": "questions/P2-002-2.jpg",
+      "note": ""
+    },
+    "P2-002-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 2,
+      "image": "questions/P2-002-3.jpg",
+      "note": ""
+    },
+    "P2-003-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 3,
+      "image": "questions/P2-003-1.jpg",
+      "note": ""
+    },
+    "P2-003-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 3,
+      "image": "questions/P2-003-2.jpg",
+      "note": ""
+    },
+    "P2-004-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 4,
+      "image": "questions/P2-004-1.jpg",
+      "note": "原卷有手写数字，数字与选项对应尚不清晰。"
+    },
+    "P2-004-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 4,
+      "image": "questions/P2-004-2.jpg",
+      "note": ""
+    },
+    "P2-005-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 5,
+      "image": "questions/P2-005-1.jpg",
+      "note": ""
+    },
+    "P2-005-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 5,
+      "image": "questions/P2-005-2.jpg",
+      "note": ""
+    },
+    "P2-006-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 6,
+      "image": "questions/P2-006-1.jpg",
+      "note": ""
+    },
+    "P2-006-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 6,
+      "image": "questions/P2-006-2.jpg",
+      "note": ""
+    },
+    "P2-007-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 7,
+      "image": "questions/P2-007-1.jpg",
+      "note": ""
+    },
+    "P2-007-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 7,
+      "image": "questions/P2-007-2.jpg",
+      "note": ""
+    },
+    "P2-008-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 8,
+      "image": "questions/P2-008-1.jpg",
+      "note": ""
+    },
+    "P2-008-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 8,
+      "image": "questions/P2-008-2.jpg",
+      "note": ""
+    },
+    "P2-009-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 9,
+      "image": "questions/P2-009-1.jpg",
+      "note": ""
+    },
+    "P2-009-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 9,
+      "image": "questions/P2-009-2.jpg",
+      "note": ""
+    },
+    "P2-010-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 10,
+      "image": "questions/P2-010-1.jpg",
+      "note": ""
+    },
+    "P2-010-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 10,
+      "image": "questions/P2-010-2.jpg",
+      "note": ""
+    },
+    "P2-011-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 11,
+      "image": "questions/P2-011-2.jpg",
+      "note": ""
+    },
+    "P2-012-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P2-012-1.jpg",
+      "note": ""
+    },
+    "P2-012-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P2-012-2.jpg",
+      "note": ""
+    },
+    "P2-013-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 13,
+      "image": "questions/P2-013-1.jpg",
+      "note": ""
+    },
+    "P2-013-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 13,
+      "image": "questions/P2-013-2.jpg",
+      "note": ""
+    },
+    "P2-014-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 14,
+      "image": "questions/P2-014-1.jpg",
+      "note": ""
+    },
+    "P2-014-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 14,
+      "image": "questions/P2-014-2.jpg",
+      "note": ""
+    },
+    "P2-015-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 15,
+      "image": "questions/P2-015-1.jpg",
+      "note": ""
+    },
+    "P2-015-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 15,
+      "image": "questions/P2-015-2.jpg",
+      "note": ""
+    },
+    "P2-016-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 16,
+      "image": "questions/P2-016-1.jpg",
+      "note": ""
+    },
+    "P2-016-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 16,
+      "image": "questions/P2-016-2.jpg",
+      "note": ""
+    },
+    "P2-017-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 17,
+      "image": "questions/P2-017-1.jpg",
+      "note": ""
+    },
+    "P2-017-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 17,
+      "image": "questions/P2-017-2.jpg",
+      "note": ""
+    },
+    "P2-018-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 18,
+      "image": "questions/P2-018-1.jpg",
+      "note": ""
+    },
+    "P2-018-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 18,
+      "image": "questions/P2-018-2.jpg",
+      "note": ""
+    },
+    "P2-019-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 19,
+      "image": "questions/P2-019-1.jpg",
+      "note": ""
+    },
+    "P2-019-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 19,
+      "image": "questions/P2-019-2.jpg",
+      "note": ""
+    },
+    "P2-020-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 20,
+      "image": "questions/P2-020-1.jpg",
+      "note": ""
+    },
+    "P2-020-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 20,
+      "image": "questions/P2-020-2.jpg",
+      "note": ""
+    },
+    "P2-020-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 20,
+      "image": "questions/P2-020-3.jpg",
+      "note": ""
+    },
+    "P2-021-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 21,
+      "image": "questions/P2-021-1.jpg",
+      "note": ""
+    },
+    "P2-021-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 21,
+      "image": "questions/P2-021-2.jpg",
+      "note": ""
+    },
+    "P2-021-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 21,
+      "image": "questions/P2-021-3.jpg",
+      "note": ""
+    },
+    "P2-022-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 22,
+      "image": "questions/P2-022-1.jpg",
+      "note": ""
+    },
+    "P2-022-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 22,
+      "image": "questions/P2-022-2.jpg",
+      "note": ""
+    },
+    "P2-022-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 22,
+      "image": "questions/P2-022-3.jpg",
+      "note": ""
+    },
+    "P2-023-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 23,
+      "image": "questions/P2-023-1.jpg",
+      "note": ""
+    },
+    "P2-023-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 23,
+      "image": "questions/P2-023-2.jpg",
+      "note": ""
+    },
+    "P2-023-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 23,
+      "image": "questions/P2-023-3.jpg",
+      "note": ""
+    },
+    "P2-024-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 24,
+      "image": "questions/P2-024-1.jpg",
+      "note": ""
+    },
+    "P2-024-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 24,
+      "image": "questions/P2-024-2.jpg",
+      "note": ""
+    },
+    "P2-024-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 24,
+      "image": "questions/P2-024-3.jpg",
+      "note": ""
+    },
+    "P2-025-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 25,
+      "image": "questions/P2-025-1.jpg",
+      "note": ""
+    },
+    "P3-001-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P3-001-1.jpg",
+      "note": ""
+    },
+    "P3-002-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P3-002-1.jpg",
+      "note": ""
+    },
+    "P3-003-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P3-003-1.jpg",
+      "note": ""
+    },
+    "P3-004-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P3-004-1.jpg",
+      "note": ""
+    },
+    "P3-005-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P3-005-1.jpg",
+      "note": ""
+    },
+    "P3-006-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P3-006-1.jpg",
+      "note": ""
+    },
+    "P3-007-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P3-007-1.jpg",
+      "note": ""
+    },
+    "P3-008-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P3-008-1.jpg",
+      "note": ""
+    },
+    "P3-009-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 9,
+      "image": "questions/P3-009-1.jpg",
+      "note": "原卷有手写排序数字，但选项序列模糊，暂未对应到选项字母。"
+    },
+    "P3-010-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P3-010-1.jpg",
+      "note": ""
+    },
+    "P3-011-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P3-011-1.jpg",
+      "note": ""
+    },
+    "P3-012-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P3-012-1.jpg",
+      "note": ""
+    },
+    "P3-013-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P3-013-1.jpg",
+      "note": ""
+    },
+    "P3-014-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P3-014-1.jpg",
+      "note": ""
+    },
+    "P3-015-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P3-015-1.jpg",
+      "note": ""
+    },
+    "P3-016-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P3-016-1.jpg",
+      "note": ""
+    },
+    "P3-017-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P3-017-1.jpg",
+      "note": ""
+    },
+    "P3-018-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P3-018-1.jpg",
+      "note": ""
+    },
+    "P3-019-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 19,
+      "image": "questions/P3-019-1.jpg",
+      "note": ""
+    },
+    "P3-020-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 20,
+      "image": "questions/P3-020-2.jpg",
+      "note": ""
+    },
+    "P3-021-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 21,
+      "image": "questions/P3-021-1.jpg",
+      "note": ""
+    },
+    "P3-021-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 21,
+      "image": "questions/P3-021-2.jpg",
+      "note": ""
+    },
+    "P3-022-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 22,
+      "image": "questions/P3-022-1.jpg",
+      "note": ""
+    },
+    "P3-022-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 22,
+      "image": "questions/P3-022-2.jpg",
+      "note": ""
+    },
+    "P3-023-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 23,
+      "image": "questions/P3-023-1.jpg",
+      "note": ""
+    },
+    "P3-023-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 23,
+      "image": "questions/P3-023-2.jpg",
+      "note": ""
+    },
+    "P3-024-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 24,
+      "image": "questions/P3-024-1.jpg",
+      "note": ""
+    },
+    "P3-025-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 25,
+      "image": "questions/P3-025-1.jpg",
+      "note": ""
+    },
+    "P3-026-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 26,
+      "image": "questions/P3-026-1.jpg",
+      "note": ""
+    },
+    "P3-027-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 27,
+      "image": "questions/P3-027-1.jpg",
+      "note": ""
+    },
+    "P3-028-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 28,
+      "image": "questions/P3-028-1.jpg",
+      "note": ""
+    },
+    "P3-029-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 29,
+      "image": "questions/P3-029-1.jpg",
+      "note": ""
+    },
+    "P3-030-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 30,
+      "image": "questions/P3-030-1.jpg",
+      "note": ""
+    },
+    "P3-031-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 31,
+      "image": "questions/P3-031-1.jpg",
+      "note": ""
+    },
+    "P3-032-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 32,
+      "image": "questions/P3-032-1.jpg",
+      "note": ""
+    },
+    "P3-033-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 33,
+      "image": "questions/P3-033-1.jpg",
+      "note": ""
+    },
+    "P3-034-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 34,
+      "image": "questions/P3-034-1.jpg",
+      "note": ""
+    },
+    "P3-035-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 35,
+      "image": "questions/P3-035-1.jpg",
+      "note": ""
+    },
+    "P3-036-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 36,
+      "image": "questions/P3-036-1.jpg",
+      "note": ""
+    },
+    "P3-037-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 37,
+      "image": "questions/P3-037-1.jpg",
+      "note": ""
+    },
+    "P3-038-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 38,
+      "image": "questions/P3-038-1.jpg",
+      "note": ""
+    },
+    "P3-039-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 39,
+      "image": "questions/P3-039-1.jpg",
+      "note": ""
+    },
+    "P3-040-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 40,
+      "image": "questions/P3-040-1.jpg",
+      "note": ""
+    },
+    "P3-041-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 41,
+      "image": "questions/P3-041-1.jpg",
+      "note": ""
+    },
+    "P3-042-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 42,
+      "image": "questions/P3-042-1.jpg",
+      "note": ""
+    },
+    "P3-043-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 43,
+      "image": "questions/P3-043-1.jpg",
+      "note": ""
+    },
+    "P3-044-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 44,
+      "image": "questions/P3-044-1.jpg",
+      "note": ""
+    },
+    "P3-045-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 45,
+      "image": "questions/P3-045-1.jpg",
+      "note": ""
+    },
+    "P3-046-1": {
+      "answer": "ACD",
+      "source": "原卷手写/标注参考答案",
+      "page": 46,
+      "image": "questions/P3-046-1.jpg",
+      "note": ""
+    },
+    "P3-047-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 47,
+      "image": "questions/P3-047-1.jpg",
+      "note": ""
+    },
+    "P3-048-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 48,
+      "image": "questions/P3-048-1.jpg",
+      "note": ""
+    },
+    "P3-049-1": {
+      "answer": "CD",
+      "source": "原卷手写/标注参考答案",
+      "page": 49,
+      "image": "questions/P3-049-1.jpg",
+      "note": ""
+    },
+    "P3-050-1": {
+      "answer": "ABD",
+      "source": "原卷手写/标注参考答案",
+      "page": 50,
+      "image": "questions/P3-050-1.jpg",
+      "note": ""
+    },
+    "P3-051-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 51,
+      "image": "questions/P3-051-1.jpg",
+      "note": ""
+    },
+    "P3-052-1": {
+      "answer": "BC",
+      "source": "原卷手写/标注参考答案",
+      "page": 52,
+      "image": "questions/P3-052-1.jpg",
+      "note": ""
+    },
+    "P3-053-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 53,
+      "image": "questions/P3-053-1.jpg",
+      "note": "本题有两个空，原卷只清晰勾选了 B，缺少另一空的完整答案。"
+    },
+    "P3-054-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 54,
+      "image": "questions/P3-054-1.jpg",
+      "note": ""
+    },
+    "P3-055-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 55,
+      "image": "questions/P3-055-1.jpg",
+      "note": ""
+    },
+    "P3-056-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 56,
+      "image": "questions/P3-056-1.jpg",
+      "note": ""
+    },
+    "P4-001-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P4-001-1.jpg",
+      "note": ""
+    },
+    "P4-002-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P4-002-1.jpg",
+      "note": ""
+    },
+    "P4-003-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P4-003-1.jpg",
+      "note": ""
+    },
+    "P4-004-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P4-004-1.jpg",
+      "note": ""
+    },
+    "P4-005-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P4-005-1.jpg",
+      "note": ""
+    },
+    "P4-006-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P4-006-1.jpg",
+      "note": ""
+    },
+    "P4-007-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P4-007-1.jpg",
+      "note": ""
+    },
+    "P4-008-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P4-008-1.jpg",
+      "note": ""
+    },
+    "P4-009-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P4-009-1.jpg",
+      "note": ""
+    },
+    "P4-010-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P4-010-1.jpg",
+      "note": ""
+    },
+    "P4-011-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P4-011-1.jpg",
+      "note": ""
+    },
+    "P4-012-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P4-012-1.jpg",
+      "note": ""
+    },
+    "P4-013-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P4-013-1.jpg",
+      "note": ""
+    },
+    "P4-014-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P4-014-1.jpg",
+      "note": ""
+    },
+    "P4-015-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P4-015-1.jpg",
+      "note": ""
+    },
+    "P4-016-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P4-016-1.jpg",
+      "note": ""
+    },
+    "P4-017-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P4-017-1.jpg",
+      "note": ""
+    },
+    "P4-018-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P4-018-1.jpg",
+      "note": ""
+    },
+    "P4-019-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 19,
+      "image": "questions/P4-019-1.jpg",
+      "note": ""
+    },
+    "P4-020-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P4-020-1.jpg",
+      "note": ""
+    },
+    "P4-021-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P4-021-1.jpg",
+      "note": ""
+    },
+    "P4-022-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P4-022-1.jpg",
+      "note": ""
+    },
+    "P4-023-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 23,
+      "image": "questions/P4-023-1.jpg",
+      "note": ""
+    },
+    "P4-024-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 24,
+      "image": "questions/P4-024-1.jpg",
+      "note": ""
+    },
+    "P4-025-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 25,
+      "image": "questions/P4-025-1.jpg",
+      "note": ""
+    },
+    "P4-026-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 26,
+      "image": "questions/P4-026-1.jpg",
+      "note": ""
+    },
+    "P4-027-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 27,
+      "image": "questions/P4-027-1.jpg",
+      "note": ""
+    },
+    "P4-028-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 28,
+      "image": "questions/P4-028-2.jpg",
+      "note": ""
+    },
+    "P4-029-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 29,
+      "image": "questions/P4-029-1.jpg",
+      "note": ""
+    },
+    "P4-029-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 29,
+      "image": "questions/P4-029-2.jpg",
+      "note": ""
+    },
+    "P4-029-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 29,
+      "image": "questions/P4-029-3.jpg",
+      "note": ""
+    },
+    "P4-030-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 30,
+      "image": "questions/P4-030-1.jpg",
+      "note": ""
+    },
+    "P4-030-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 30,
+      "image": "questions/P4-030-2.jpg",
+      "note": ""
+    },
+    "P4-031-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 31,
+      "image": "questions/P4-031-1.jpg",
+      "note": ""
+    },
+    "P4-031-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 31,
+      "image": "questions/P4-031-2.jpg",
+      "note": ""
+    },
+    "P4-032-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 32,
+      "image": "questions/P4-032-1.jpg",
+      "note": ""
+    },
+    "P4-033-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 33,
+      "image": "questions/P4-033-1.jpg",
+      "note": ""
+    },
+    "P4-034-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 34,
+      "image": "questions/P4-034-1.jpg",
+      "note": ""
+    },
+    "P4-035-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 35,
+      "image": "questions/P4-035-1.jpg",
+      "note": ""
+    },
+    "P4-036-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 36,
+      "image": "questions/P4-036-1.jpg",
+      "note": ""
+    },
+    "P4-037-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 37,
+      "image": "questions/P4-037-1.jpg",
+      "note": ""
+    },
+    "P4-038-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 38,
+      "image": "questions/P4-038-1.jpg",
+      "note": ""
+    },
+    "P4-039-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 39,
+      "image": "questions/P4-039-1.jpg",
+      "note": ""
+    },
+    "P4-040-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 40,
+      "image": "questions/P4-040-1.jpg",
+      "note": ""
+    },
+    "P4-041-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 41,
+      "image": "questions/P4-041-1.jpg",
+      "note": ""
+    },
+    "P4-042-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 42,
+      "image": "questions/P4-042-1.jpg",
+      "note": ""
+    },
+    "P4-043-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 43,
+      "image": "questions/P4-043-1.jpg",
+      "note": "原卷标注 A，但图 A 对应选项 C；标注所指图号或选项号仍需确认。"
+    },
+    "P4-044-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 44,
+      "image": "questions/P4-044-1.jpg",
+      "note": ""
+    },
+    "P4-045-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 45,
+      "image": "questions/P4-045-1.jpg",
+      "note": ""
+    },
+    "P4-046-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 46,
+      "image": "questions/P4-046-1.jpg",
+      "note": ""
+    },
+    "P4-047-1": {
+      "answer": "BCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 47,
+      "image": "questions/P4-047-1.jpg",
+      "note": ""
+    },
+    "P4-048-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 48,
+      "image": "questions/P4-048-1.jpg",
+      "note": ""
+    },
+    "P4-049-1": {
+      "answer": "BD",
+      "source": "原卷手写/标注参考答案",
+      "page": 49,
+      "image": "questions/P4-049-1.jpg",
+      "note": ""
+    },
+    "P4-050-1": {
+      "answer": "BCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 50,
+      "image": "questions/P4-050-1.jpg",
+      "note": ""
+    },
+    "P4-051-1": {
+      "answer": "AC",
+      "source": "原卷手写/标注参考答案",
+      "page": 51,
+      "image": "questions/P4-051-1.jpg",
+      "note": ""
+    },
+    "P4-052-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 52,
+      "image": "questions/P4-052-1.jpg",
+      "note": ""
+    },
+    "P4-053-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 53,
+      "image": "questions/P4-053-1.jpg",
+      "note": ""
+    },
+    "P4-054-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 54,
+      "image": "questions/P4-054-1.jpg",
+      "note": ""
+    },
+    "P4-055-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 55,
+      "image": "questions/P4-055-1.jpg",
+      "note": ""
+    },
+    "P4-056-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 56,
+      "image": "questions/P4-056-1.jpg",
+      "note": ""
+    },
+    "P4-057-1": {
+      "answer": "AC",
+      "source": "原卷手写/标注参考答案",
+      "page": 57,
+      "image": "questions/P4-057-1.jpg",
+      "note": ""
+    },
+    "P5-002-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P5-002-1.jpg",
+      "note": ""
+    },
+    "P5-002-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P5-002-2.jpg",
+      "note": ""
+    },
+    "P5-002-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P5-002-3.jpg",
+      "note": ""
+    },
+    "P5-003-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P5-003-1.jpg",
+      "note": ""
+    },
+    "P5-003-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P5-003-2.jpg",
+      "note": ""
+    },
+    "P5-003-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P5-003-3.jpg",
+      "note": ""
+    },
+    "P5-004-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P5-004-1.jpg",
+      "note": ""
+    },
+    "P5-004-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P5-004-2.jpg",
+      "note": ""
+    },
+    "P5-004-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P5-004-3.jpg",
+      "note": ""
+    },
+    "P5-005-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P5-005-1.jpg",
+      "note": ""
+    },
+    "P5-005-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P5-005-2.jpg",
+      "note": ""
+    },
+    "P5-005-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P5-005-3.jpg",
+      "note": ""
+    },
+    "P5-005-4": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P5-005-4.jpg",
+      "note": ""
+    },
+    "P5-006-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P5-006-2.jpg",
+      "note": ""
+    },
+    "P5-006-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P5-006-3.jpg",
+      "note": ""
+    },
+    "P5-007-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P5-007-1.jpg",
+      "note": ""
+    },
+    "P5-007-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P5-007-2.jpg",
+      "note": ""
+    },
+    "P5-007-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P5-007-3.jpg",
+      "note": ""
+    },
+    "P5-008-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P5-008-1.jpg",
+      "note": ""
+    },
+    "P5-008-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P5-008-2.jpg",
+      "note": ""
+    },
+    "P5-008-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P5-008-3.jpg",
+      "note": ""
+    },
+    "P5-009-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P5-009-1.jpg",
+      "note": ""
+    },
+    "P5-009-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P5-009-2-figure.jpg",
+      "note": "已将同一截图中的两道题分别对应答案。"
+    },
+    "P5-009-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P5-009-3.jpg",
+      "note": ""
+    },
+    "P5-010-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P5-010-1.jpg",
+      "note": ""
+    },
+    "P5-010-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P5-010-2.jpg",
+      "note": ""
+    },
+    "P5-010-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P5-010-3.jpg",
+      "note": ""
+    },
+    "P5-011-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P5-011-1.jpg",
+      "note": ""
+    },
+    "P5-011-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P5-011-2.jpg",
+      "note": ""
+    },
+    "P5-011-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P5-011-3.jpg",
+      "note": ""
+    },
+    "P5-012-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P5-012-2.jpg",
+      "note": ""
+    },
+    "P5-012-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P5-012-3.jpg",
+      "note": ""
+    },
+    "P5-012-4": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P5-012-4.jpg",
+      "note": ""
+    },
+    "P5-013-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P5-013-1.jpg",
+      "note": ""
+    },
+    "P5-013-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P5-013-2.jpg",
+      "note": ""
+    },
+    "P6-002-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 2,
+      "image": "questions/P6-002-1.jpg",
+      "note": ""
+    },
+    "P6-002-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 2,
+      "image": "questions/P6-002-2.jpg",
+      "note": ""
+    },
+    "P6-002-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 2,
+      "image": "questions/P6-002-3.jpg",
+      "note": ""
+    },
+    "P6-003-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 3,
+      "image": "questions/P6-003-1.jpg",
+      "note": ""
+    },
+    "P6-003-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 3,
+      "image": "questions/P6-003-2.jpg",
+      "note": ""
+    },
+    "P6-003-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 3,
+      "image": "questions/P6-003-3.jpg",
+      "note": ""
+    },
+    "P6-004-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 4,
+      "image": "questions/P6-004-1.jpg",
+      "note": ""
+    },
+    "P6-004-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 4,
+      "image": "questions/P6-004-2.jpg",
+      "note": ""
+    },
+    "P6-004-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 4,
+      "image": "questions/P6-004-3.jpg",
+      "note": ""
+    },
+    "P6-005-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 5,
+      "image": "questions/P6-005-1.jpg",
+      "note": ""
+    },
+    "P6-005-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 5,
+      "image": "questions/P6-005-2.jpg",
+      "note": ""
+    },
+    "P6-005-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 5,
+      "image": "questions/P6-005-3.jpg",
+      "note": ""
+    },
+    "P6-006-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 6,
+      "image": "questions/P6-006-1.jpg",
+      "note": ""
+    },
+    "P6-006-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 6,
+      "image": "questions/P6-006-3.jpg",
+      "note": ""
+    },
+    "P6-007-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 7,
+      "image": "questions/P6-007-1.jpg",
+      "note": ""
+    },
+    "P6-007-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 7,
+      "image": "questions/P6-007-2.jpg",
+      "note": ""
+    },
+    "P6-007-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 7,
+      "image": "questions/P6-007-3.jpg",
+      "note": ""
+    },
+    "P6-008-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 8,
+      "image": "questions/P6-008-1.jpg",
+      "note": ""
+    },
+    "P6-008-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 8,
+      "image": "questions/P6-008-2.jpg",
+      "note": ""
+    },
+    "P6-008-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 8,
+      "image": "questions/P6-008-3.jpg",
+      "note": ""
+    },
+    "P6-009-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 9,
+      "image": "questions/P6-009-1.jpg",
+      "note": ""
+    },
+    "P6-009-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 9,
+      "image": "questions/P6-009-2.jpg",
+      "note": ""
+    },
+    "P6-009-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 9,
+      "image": "questions/P6-009-3.jpg",
+      "note": ""
+    },
+    "P6-010-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 10,
+      "image": "questions/P6-010-1.jpg",
+      "note": ""
+    },
+    "P6-010-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 10,
+      "image": "questions/P6-010-2.jpg",
+      "note": ""
+    },
+    "P6-010-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 10,
+      "image": "questions/P6-010-3.jpg",
+      "note": ""
+    },
+    "P6-011-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 11,
+      "image": "questions/P6-011-1.jpg",
+      "note": ""
+    },
+    "P6-011-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 11,
+      "image": "questions/P6-011-2.jpg",
+      "note": ""
+    },
+    "P6-011-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 11,
+      "image": "questions/P6-011-3.jpg",
+      "note": ""
+    },
+    "P6-012-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P6-012-1.jpg",
+      "note": ""
+    },
+    "P6-012-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P6-012-2.jpg",
+      "note": ""
+    },
+    "P6-012-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P6-012-3.jpg",
+      "note": ""
+    },
+    "P6-013-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 13,
+      "image": "questions/P6-013-1.jpg",
+      "note": ""
+    },
+    "P6-013-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 13,
+      "image": "questions/P6-013-2.jpg",
+      "note": ""
+    },
+    "P6-013-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 13,
+      "image": "questions/P6-013-3.jpg",
+      "note": ""
+    },
+    "P6-014-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 14,
+      "image": "questions/P6-014-1.jpg",
+      "note": ""
+    },
+    "P6-014-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 14,
+      "image": "questions/P6-014-2.jpg",
+      "note": ""
+    },
+    "P6-014-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 14,
+      "image": "questions/P6-014-3.jpg",
+      "note": ""
+    },
+    "P6-015-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 15,
+      "image": "questions/P6-015-1.jpg",
+      "note": ""
+    },
+    "P6-015-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 15,
+      "image": "questions/P6-015-2.jpg",
+      "note": ""
+    },
+    "P6-016-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 16,
+      "image": "questions/P6-016-1.jpg",
+      "note": ""
+    },
+    "P6-016-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 16,
+      "image": "questions/P6-016-2.jpg",
+      "note": ""
+    },
+    "P6-017-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 17,
+      "image": "questions/P6-017-1.jpg",
+      "note": ""
+    },
+    "P6-017-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 17,
+      "image": "questions/P6-017-2.jpg",
+      "note": ""
+    },
+    "P6-017-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 17,
+      "image": "questions/P6-017-3.jpg",
+      "note": ""
+    },
+    "P6-018-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 18,
+      "image": "questions/P6-018-1.jpg",
+      "note": ""
+    },
+    "P6-018-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 18,
+      "image": "questions/P6-018-2.jpg",
+      "note": ""
+    },
+    "P6-018-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 18,
+      "image": "questions/P6-018-3.jpg",
+      "note": ""
+    },
+    "P6-019-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 19,
+      "image": "questions/P6-019-1.jpg",
+      "note": ""
+    },
+    "P6-019-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 19,
+      "image": "questions/P6-019-2.jpg",
+      "note": ""
+    },
+    "P7-001-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 1,
+      "image": "questions/P7-001-1.jpg",
+      "note": ""
+    },
+    "P7-001-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 1,
+      "image": "questions/P7-001-2.jpg",
+      "note": ""
+    },
+    "P7-001-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 1,
+      "image": "questions/P7-001-3.jpg",
+      "note": ""
+    },
+    "P7-002-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 2,
+      "image": "questions/P7-002-1.jpg",
+      "note": ""
+    },
+    "P7-002-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 2,
+      "image": "questions/P7-002-2.jpg",
+      "note": ""
+    },
+    "P7-002-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 2,
+      "image": "questions/P7-002-3.jpg",
+      "note": ""
+    },
+    "P7-003-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 3,
+      "image": "questions/P7-003-1.jpg",
+      "note": ""
+    },
+    "P7-003-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 3,
+      "image": "questions/P7-003-2.jpg",
+      "note": ""
+    },
+    "P7-003-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 3,
+      "image": "questions/P7-003-3.jpg",
+      "note": ""
+    },
+    "P7-003-4": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 3,
+      "image": "questions/P7-003-4.jpg",
+      "note": ""
+    },
+    "P7-004-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 4,
+      "image": "questions/P7-004-1.jpg",
+      "note": ""
+    },
+    "P7-004-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 4,
+      "image": "questions/P7-004-2.jpg",
+      "note": ""
+    },
+    "P7-004-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P7-004-3.jpg",
+      "note": ""
+    },
+    "P7-005-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 5,
+      "image": "questions/P7-005-1.jpg",
+      "note": ""
+    },
+    "P7-005-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 5,
+      "image": "questions/P7-005-3.jpg",
+      "note": ""
+    },
+    "P7-006-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 6,
+      "image": "questions/P7-006-1.jpg",
+      "note": ""
+    },
+    "P7-006-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 6,
+      "image": "questions/P7-006-2.jpg",
+      "note": ""
+    },
+    "P7-007-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 7,
+      "image": "questions/P7-007-1.jpg",
+      "note": ""
+    },
+    "P7-007-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 7,
+      "image": "questions/P7-007-2.jpg",
+      "note": ""
+    },
+    "P7-008-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P7-008-1.jpg",
+      "note": ""
+    },
+    "P7-008-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P7-008-2.jpg",
+      "note": ""
+    },
+    "P7-009-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 9,
+      "image": "questions/P7-009-1.jpg",
+      "note": ""
+    },
+    "P7-009-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P7-009-2.jpg",
+      "note": ""
+    },
+    "P7-010-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P7-010-1.jpg",
+      "note": ""
+    },
+    "P7-010-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P7-010-2.jpg",
+      "note": ""
+    },
+    "P7-011-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 11,
+      "image": "questions/P7-011-1.jpg",
+      "note": ""
+    },
+    "P7-011-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 11,
+      "image": "questions/P7-011-2.jpg",
+      "note": ""
+    },
+    "P7-012-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P7-012-1.jpg",
+      "note": ""
+    },
+    "P7-012-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P7-012-2.jpg",
+      "note": ""
+    },
+    "P7-013-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 13,
+      "image": "questions/P7-013-1.jpg",
+      "note": ""
+    },
+    "P7-013-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P7-013-2.jpg",
+      "note": ""
+    },
+    "P7-014-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P7-014-1.jpg",
+      "note": ""
+    },
+    "P7-014-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 14,
+      "image": "questions/P7-014-2.jpg",
+      "note": ""
+    },
+    "P7-015-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P7-015-3.jpg",
+      "note": ""
+    },
+    "P7-016-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 16,
+      "image": "questions/P7-016-1.jpg",
+      "note": ""
+    },
+    "P7-016-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 16,
+      "image": "questions/P7-016-2.jpg",
+      "note": ""
+    },
+    "P7-016-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 16,
+      "image": "questions/P7-016-3.jpg",
+      "note": ""
+    },
+    "P7-017-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 17,
+      "image": "questions/P7-017-1.jpg",
+      "note": ""
+    },
+    "P7-017-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 17,
+      "image": "questions/P7-017-2.jpg",
+      "note": ""
+    },
+    "P7-018-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 18,
+      "image": "questions/P7-018-1.jpg",
+      "note": ""
+    },
+    "P7-018-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 18,
+      "image": "questions/P7-018-2.jpg",
+      "note": ""
+    },
+    "P7-019-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 19,
+      "image": "questions/P7-019-1.jpg",
+      "note": ""
+    },
+    "P7-019-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 19,
+      "image": "questions/P7-019-2.jpg",
+      "note": ""
+    },
+    "P7-020-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 20,
+      "image": "questions/P7-020-1.jpg",
+      "note": ""
+    },
+    "P7-020-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 20,
+      "image": "questions/P7-020-2.jpg",
+      "note": ""
+    },
+    "P7-021-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 21,
+      "image": "questions/P7-021-1.jpg",
+      "note": ""
+    },
+    "P7-021-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P7-021-2.jpg",
+      "note": ""
+    },
+    "P7-021-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 21,
+      "image": "questions/P7-021-3.jpg",
+      "note": ""
+    },
+    "P7-022-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 22,
+      "image": "questions/P7-022-1.jpg",
+      "note": ""
+    },
+    "P7-022-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 22,
+      "image": "questions/P7-022-2.jpg",
+      "note": ""
+    },
+    "P7-023-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 23,
+      "image": "questions/P7-023-1.jpg",
+      "note": ""
+    },
+    "P7-023-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 23,
+      "image": "questions/P7-023-2.jpg",
+      "note": ""
+    },
+    "P7-023-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 23,
+      "image": "questions/P7-023-3.jpg",
+      "note": ""
+    },
+    "P7-024-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 24,
+      "image": "questions/P7-024-1.jpg",
+      "note": ""
+    },
+    "P7-024-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 24,
+      "image": "questions/P7-024-2.jpg",
+      "note": ""
+    },
+    "P7-025-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 25,
+      "image": "questions/P7-025-1.jpg",
+      "note": ""
+    },
+    "P7-025-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 25,
+      "image": "questions/P7-025-2.jpg",
+      "note": ""
+    },
+    "P7-026-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 26,
+      "image": "questions/P7-026-1.jpg",
+      "note": ""
+    },
+    "P7-026-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 26,
+      "image": "questions/P7-026-2.jpg",
+      "note": ""
+    },
+    "P7-027-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 27,
+      "image": "questions/P7-027-1.jpg",
+      "note": ""
+    },
+    "P7-027-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 27,
+      "image": "questions/P7-027-2.jpg",
+      "note": ""
+    },
+    "P8-001-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P8-001-1.jpg",
+      "note": ""
+    },
+    "P8-001-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P8-001-2.jpg",
+      "note": ""
+    },
+    "P8-002-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P8-002-1.jpg",
+      "note": ""
+    },
+    "P8-002-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P8-002-2.jpg",
+      "note": ""
+    },
+    "P8-003-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P8-003-1.jpg",
+      "note": ""
+    },
+    "P8-003-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P8-003-2.jpg",
+      "note": ""
+    },
+    "P8-004-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P8-004-1.jpg",
+      "note": ""
+    },
+    "P8-004-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P8-004-2.jpg",
+      "note": ""
+    },
+    "P8-005-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P8-005-1.jpg",
+      "note": ""
+    },
+    "P8-005-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 5,
+      "image": "questions/P8-005-2.jpg",
+      "note": "原卷标注 A，但图 A 对应选项 B；标注所指图号或选项号仍需确认。"
+    },
+    "P8-006-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P8-006-1.jpg",
+      "note": ""
+    },
+    "P8-006-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P8-006-2.jpg",
+      "note": ""
+    },
+    "P8-007-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P8-007-1.jpg",
+      "note": ""
+    },
+    "P8-007-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P8-007-2.jpg",
+      "note": ""
+    },
+    "P8-008-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P8-008-1.jpg",
+      "note": ""
+    },
+    "P8-009-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P8-009-1.jpg",
+      "note": ""
+    },
+    "P8-009-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P8-009-3.jpg",
+      "note": ""
+    },
+    "P8-010-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P8-010-1.jpg",
+      "note": ""
+    },
+    "P8-010-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P8-010-2.jpg",
+      "note": ""
+    },
+    "P8-011-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P8-011-1.jpg",
+      "note": ""
+    },
+    "P8-012-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P8-012-1.jpg",
+      "note": ""
+    },
+    "P8-012-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P8-012-2.jpg",
+      "note": ""
+    },
+    "P8-013-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P8-013-1.jpg",
+      "note": ""
+    },
+    "P8-013-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P8-013-2.jpg",
+      "note": ""
+    },
+    "P8-013-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P8-013-3.jpg",
+      "note": ""
+    },
+    "P8-014-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P8-014-1.jpg",
+      "note": ""
+    },
+    "P8-014-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P8-014-2.jpg",
+      "note": ""
+    },
+    "P8-015-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P8-015-1.jpg",
+      "note": ""
+    },
+    "P8-015-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P8-015-2.jpg",
+      "note": ""
+    },
+    "P8-016-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P8-016-1.jpg",
+      "note": ""
+    },
+    "P8-016-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P8-016-2.jpg",
+      "note": ""
+    },
+    "P8-017-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P8-017-1.jpg",
+      "note": ""
+    },
+    "P8-017-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P8-017-2.jpg",
+      "note": ""
+    },
+    "P8-018-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P8-018-1.jpg",
+      "note": ""
+    },
+    "P8-018-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P8-018-2.jpg",
+      "note": ""
+    },
+    "P8-019-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 19,
+      "image": "questions/P8-019-1.jpg",
+      "note": ""
+    },
+    "P8-019-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 19,
+      "image": "questions/P8-019-2.jpg",
+      "note": "原卷标注 C，但图 C 对应选项 A；标注所指图号或选项号仍需确认。"
+    },
+    "P8-020-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P8-020-1.jpg",
+      "note": ""
+    },
+    "P8-020-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P8-020-2.jpg",
+      "note": ""
+    },
+    "P8-021-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P8-021-1.jpg",
+      "note": ""
+    },
+    "P8-021-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P8-021-2.jpg",
+      "note": ""
+    },
+    "P8-022-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P8-022-1.jpg",
+      "note": ""
+    },
+    "P8-022-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P8-022-2.jpg",
+      "note": ""
+    },
+    "P8-023-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 23,
+      "image": "questions/P8-023-1.jpg",
+      "note": ""
+    },
+    "P8-023-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 23,
+      "image": "questions/P8-023-2.jpg",
+      "note": ""
+    },
+    "P8-024-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 24,
+      "image": "questions/P8-024-1.jpg",
+      "note": ""
+    },
+    "P8-024-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 24,
+      "image": "questions/P8-024-2.jpg",
+      "note": ""
+    },
+    "P8-025-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 25,
+      "image": "questions/P8-025-1.jpg",
+      "note": ""
+    },
+    "P8-026-1": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 26,
+      "image": "questions/P8-026-1.jpg",
+      "note": ""
+    },
+    "P8-026-2": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 26,
+      "image": "questions/P8-026-2.jpg",
+      "note": ""
+    },
+    "P8-027-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 27,
+      "image": "questions/P8-027-1.jpg",
+      "note": ""
+    },
+    "P8-027-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 27,
+      "image": "questions/P8-027-2.jpg",
+      "note": ""
+    },
+    "P8-027-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 27,
+      "image": "questions/P8-027-3.jpg",
+      "note": ""
+    },
+    "P8-028-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 28,
+      "image": "questions/P8-028-1.jpg",
+      "note": ""
+    },
+    "P8-028-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 28,
+      "image": "questions/P8-028-2.jpg",
+      "note": ""
+    },
+    "P8-029-1": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 29,
+      "image": "questions/P8-029-1.jpg",
+      "note": ""
+    },
+    "P8-029-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 29,
+      "image": "questions/P8-029-2.jpg",
+      "note": ""
+    },
+    "P8-030-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 30,
+      "image": "questions/P8-030-1.jpg",
+      "note": ""
+    },
+    "P8-030-2": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 30,
+      "image": "questions/P8-030-2.jpg",
+      "note": ""
+    },
+    "P8-031-1": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 31,
+      "image": "questions/P8-031-1.jpg",
+      "note": ""
+    },
+    "P8-032-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 32,
+      "image": "questions/P8-032-1.jpg",
+      "note": ""
+    },
+    "P8-032-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 32,
+      "image": "questions/P8-032-2.jpg",
+      "note": ""
+    },
+    "P8-033-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 33,
+      "image": "questions/P8-033-1.jpg",
+      "note": ""
+    },
+    "P8-034-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 34,
+      "image": "questions/P8-034-1.jpg",
+      "note": ""
+    },
+    "P8-034-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 34,
+      "image": "questions/P8-034-2.jpg",
+      "note": ""
+    },
+    "P8-035-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 35,
+      "image": "questions/P8-035-1.jpg",
+      "note": ""
+    },
+    "P8-035-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 35,
+      "image": "questions/P8-035-2.jpg",
+      "note": ""
+    },
+    "P8-036-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 36,
+      "image": "questions/P8-036-1.jpg",
+      "note": ""
+    },
+    "P9-001-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P9-001-1.jpg",
+      "note": ""
+    },
+    "P9-002-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P9-002-1.jpg",
+      "note": ""
+    },
+    "P9-002-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P9-002-2.jpg",
+      "note": ""
+    },
+    "P9-003-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P9-003-1.jpg",
+      "note": ""
+    },
+    "P9-003-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P9-003-2.jpg",
+      "note": ""
+    },
+    "P9-004-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P9-004-1.jpg",
+      "note": ""
+    },
+    "P9-004-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P9-004-3.jpg",
+      "note": ""
+    },
+    "P9-005-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P9-005-1.jpg",
+      "note": ""
+    },
+    "P9-005-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P9-005-2.jpg",
+      "note": ""
+    },
+    "P9-006-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P9-006-1.jpg",
+      "note": ""
+    },
+    "P9-006-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P9-006-2.jpg",
+      "note": ""
+    },
+    "P9-007-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P9-007-1.jpg",
+      "note": ""
+    },
+    "P9-007-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P9-007-2.jpg",
+      "note": ""
+    },
+    "P9-008-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P9-008-1.jpg",
+      "note": ""
+    },
+    "P9-010-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 10,
+      "image": "questions/P9-010-1.jpg",
+      "note": ""
+    },
+    "P9-011-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 11,
+      "image": "questions/P9-011-1.jpg",
+      "note": ""
+    },
+    "P9-011-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 11,
+      "image": "questions/P9-011-2.jpg",
+      "note": ""
+    },
+    "P9-012-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P9-012-1.jpg",
+      "note": ""
+    },
+    "P9-012-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P9-012-2.jpg",
+      "note": ""
+    },
+    "P9-012-3": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 12,
+      "image": "questions/P9-012-3.jpg",
+      "note": ""
+    },
+    "P9-013-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P9-013-1.jpg",
+      "note": ""
+    },
+    "P9-013-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P9-013-2.jpg",
+      "note": ""
+    },
+    "P9-014-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P9-014-1.jpg",
+      "note": ""
+    },
+    "P9-014-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P9-014-2.jpg",
+      "note": ""
+    },
+    "P9-015-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P9-015-1.jpg",
+      "note": ""
+    },
+    "P9-015-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P9-015-2.jpg",
+      "note": ""
+    },
+    "P9-016-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P9-016-1.jpg",
+      "note": ""
+    },
+    "P9-016-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P9-016-2.jpg",
+      "note": ""
+    },
+    "P9-017-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P9-017-1.jpg",
+      "note": ""
+    },
+    "P9-017-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P9-017-2.jpg",
+      "note": ""
+    },
+    "P9-018-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P9-018-1.jpg",
+      "note": ""
+    },
+    "P9-018-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P9-018-2.jpg",
+      "note": ""
+    },
+    "P9-019-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 19,
+      "image": "questions/P9-019-1.jpg",
+      "note": ""
+    },
+    "P9-020-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P9-020-1.jpg",
+      "note": ""
+    },
+    "P9-020-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P9-020-2.jpg",
+      "note": ""
+    },
+    "P9-021-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P9-021-1.jpg",
+      "note": ""
+    },
+    "P9-021-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P9-021-2.jpg",
+      "note": ""
+    },
+    "P9-022-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P9-022-1.jpg",
+      "note": ""
+    },
+    "P9-022-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P9-022-2.jpg",
+      "note": ""
+    },
+    "P9-023-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 23,
+      "image": "questions/P9-023-1.jpg",
+      "note": ""
+    },
+    "P9-023-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 23,
+      "image": "questions/P9-023-2.jpg",
+      "note": ""
+    },
+    "P9-024-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 24,
+      "image": "questions/P9-024-1.jpg",
+      "note": ""
+    },
+    "P9-024-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 24,
+      "image": "questions/P9-024-2.jpg",
+      "note": ""
+    },
+    "P9-025-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 25,
+      "image": "questions/P9-025-1.jpg",
+      "note": ""
+    },
+    "P9-026-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 26,
+      "image": "questions/P9-026-1.jpg",
+      "note": ""
+    },
+    "P9-027-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 27,
+      "image": "questions/P9-027-1.jpg",
+      "note": ""
+    },
+    "P9-027-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 27,
+      "image": "questions/P9-027-2.jpg",
+      "note": ""
+    },
+    "P9-028-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 28,
+      "image": "questions/P9-028-1.jpg",
+      "note": ""
+    },
+    "P9-028-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 28,
+      "image": "questions/P9-028-2.jpg",
+      "note": ""
+    },
+    "P9-029-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 29,
+      "image": "questions/P9-029-1.jpg",
+      "note": ""
+    },
+    "P9-029-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 29,
+      "image": "questions/P9-029-2.jpg",
+      "note": ""
+    },
+    "P9-030-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 30,
+      "image": "questions/P9-030-1.jpg",
+      "note": ""
+    },
+    "P9-030-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 30,
+      "image": "questions/P9-030-2.jpg",
+      "note": ""
+    },
+    "P9-031-1": {
+      "answer": "ABCE",
+      "source": "原卷手写/标注参考答案",
+      "page": 31,
+      "image": "questions/P9-031-1.jpg",
+      "note": ""
+    },
+    "P9-031-2": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 31,
+      "image": "questions/P9-031-2.jpg",
+      "note": ""
+    },
+    "P9-032-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 32,
+      "image": "questions/P9-032-1.jpg",
+      "note": ""
+    },
+    "P9-032-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 32,
+      "image": "questions/P9-032-2.jpg",
+      "note": ""
+    },
+    "P9-033-1": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 33,
+      "image": "questions/P9-033-1.jpg",
+      "note": ""
+    },
+    "P9-033-2": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 33,
+      "image": "questions/P9-033-2.jpg",
+      "note": ""
+    },
+    "P9-034-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 34,
+      "image": "questions/P9-034-1.jpg",
+      "note": ""
+    },
+    "P9-034-2": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 34,
+      "image": "questions/P9-034-2.jpg",
+      "note": ""
+    },
+    "P10-001-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P10-001-1.jpg",
+      "note": ""
+    },
+    "P10-001-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P10-001-2.jpg",
+      "note": ""
+    },
+    "P10-001-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P10-001-3.jpg",
+      "note": ""
+    },
+    "P10-001-4": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P10-001-4.jpg",
+      "note": ""
+    },
+    "P10-002-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P10-002-1.jpg",
+      "note": ""
+    },
+    "P10-002-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P10-002-3.jpg",
+      "note": ""
+    },
+    "P10-002-4": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P10-002-4.jpg",
+      "note": ""
+    },
+    "P10-002-5": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P10-002-5.jpg",
+      "note": ""
+    },
+    "P10-003-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P10-003-1.jpg",
+      "note": ""
+    },
+    "P10-003-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P10-003-2.jpg",
+      "note": ""
+    },
+    "P10-003-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P10-003-3.jpg",
+      "note": ""
+    },
+    "P10-003-4": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P10-003-4.jpg",
+      "note": ""
+    },
+    "P10-004-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P10-004-1.jpg",
+      "note": ""
+    },
+    "P10-004-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P10-004-2.jpg",
+      "note": ""
+    },
+    "P10-004-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P10-004-3.jpg",
+      "note": ""
+    },
+    "P10-004-4": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P10-004-4.jpg",
+      "note": ""
+    },
+    "P10-005-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P10-005-1.jpg",
+      "note": ""
+    },
+    "P10-005-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P10-005-3.jpg",
+      "note": ""
+    },
+    "P10-005-4": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P10-005-4.jpg",
+      "note": ""
+    },
+    "P10-006-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P10-006-1.jpg",
+      "note": ""
+    },
+    "P10-006-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P10-006-2.jpg",
+      "note": ""
+    },
+    "P10-006-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P10-006-3.jpg",
+      "note": ""
+    },
+    "P10-007-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P10-007-1.jpg",
+      "note": ""
+    },
+    "P10-007-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P10-007-2.jpg",
+      "note": ""
+    },
+    "P10-007-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P10-007-3.jpg",
+      "note": ""
+    },
+    "P10-007-4": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P10-007-4.jpg",
+      "note": ""
+    },
+    "P10-008-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P10-008-1.jpg",
+      "note": ""
+    },
+    "P10-008-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P10-008-2.jpg",
+      "note": ""
+    },
+    "P10-008-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P10-008-3.jpg",
+      "note": ""
+    },
+    "P10-008-4": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P10-008-4.jpg",
+      "note": ""
+    },
+    "P10-009-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P10-009-1.jpg",
+      "note": ""
+    },
+    "P10-009-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P10-009-2.jpg",
+      "note": ""
+    },
+    "P10-010-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P10-010-1.jpg",
+      "note": ""
+    },
+    "P10-010-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P10-010-2.jpg",
+      "note": ""
+    },
+    "P10-010-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P10-010-3.jpg",
+      "note": ""
+    },
+    "P10-011-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P10-011-1.jpg",
+      "note": ""
+    },
+    "P10-011-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P10-011-2.jpg",
+      "note": ""
+    },
+    "P10-011-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P10-011-3.jpg",
+      "note": ""
+    },
+    "P10-011-4": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P10-011-4.jpg",
+      "note": ""
+    },
+    "P10-012-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P10-012-1.jpg",
+      "note": ""
+    },
+    "P10-012-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P10-012-2.jpg",
+      "note": ""
+    },
+    "P10-012-4": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P10-012-4.jpg",
+      "note": ""
+    },
+    "P10-012-5": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P10-012-5.jpg",
+      "note": ""
+    },
+    "P10-013-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P10-013-1.jpg",
+      "note": ""
+    },
+    "P10-013-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P10-013-2.jpg",
+      "note": ""
+    },
+    "P10-013-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P10-013-3.jpg",
+      "note": ""
+    },
+    "P10-013-4": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P10-013-4.jpg",
+      "note": ""
+    },
+    "P10-013-5": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P10-013-5.jpg",
+      "note": ""
+    },
+    "P10-014-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P10-014-1.jpg",
+      "note": ""
+    },
+    "P10-014-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P10-014-2.jpg",
+      "note": ""
+    },
+    "P10-014-3": {
+      "answer": "ACDE",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P10-014-3.jpg",
+      "note": ""
+    },
+    "P10-014-4": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P10-014-4.jpg",
+      "note": ""
+    },
+    "P10-015-1": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P10-015-1.jpg",
+      "note": ""
+    },
+    "P10-015-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P10-015-2.jpg",
+      "note": ""
+    },
+    "P10-015-3": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P10-015-3.jpg",
+      "note": ""
+    },
+    "P10-015-4": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P10-015-4.jpg",
+      "note": ""
+    },
+    "P10-016-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P10-016-1.jpg",
+      "note": ""
+    },
+    "P10-016-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P10-016-2.jpg",
+      "note": ""
+    },
+    "P10-016-3": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P10-016-3.jpg",
+      "note": ""
+    },
+    "P10-016-4": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P10-016-4.jpg",
+      "note": ""
+    },
+    "P11-001-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P11-001-1.jpg",
+      "note": ""
+    },
+    "P11-001-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P11-001-2.jpg",
+      "note": ""
+    },
+    "P11-001-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P11-001-3.jpg",
+      "note": ""
+    },
+    "P11-002-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P11-002-1.jpg",
+      "note": ""
+    },
+    "P11-002-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P11-002-2.jpg",
+      "note": ""
+    },
+    "P11-003-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P11-003-1.jpg",
+      "note": ""
+    },
+    "P11-003-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P11-003-2.jpg",
+      "note": ""
+    },
+    "P11-004-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P11-004-1.jpg",
+      "note": ""
+    },
+    "P11-004-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P11-004-2.jpg",
+      "note": ""
+    },
+    "P11-004-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P11-004-3.jpg",
+      "note": ""
+    },
+    "P11-005-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P11-005-1.jpg",
+      "note": ""
+    },
+    "P11-005-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P11-005-2.jpg",
+      "note": ""
+    },
+    "P11-006-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P11-006-1.jpg",
+      "note": ""
+    },
+    "P11-006-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P11-006-2.jpg",
+      "note": ""
+    },
+    "P11-006-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P11-006-3.jpg",
+      "note": ""
+    },
+    "P11-007-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P11-007-1.jpg",
+      "note": ""
+    },
+    "P11-007-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P11-007-2.jpg",
+      "note": ""
+    },
+    "P11-007-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P11-007-3.jpg",
+      "note": ""
+    },
+    "P11-008-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P11-008-1.jpg",
+      "note": ""
+    },
+    "P11-008-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P11-008-2.jpg",
+      "note": ""
+    },
+    "P11-008-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P11-008-3.jpg",
+      "note": ""
+    },
+    "P11-009-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P11-009-1.jpg",
+      "note": ""
+    },
+    "P11-009-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P11-009-2.jpg",
+      "note": ""
+    },
+    "P11-010-1": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 10,
+      "image": "questions/P11-010-1.jpg",
+      "note": "原卷圈选图 A，但截图中的选项列表不完整，暂不能确定对应选项字母。"
+    },
+    "P11-010-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P11-010-3.jpg",
+      "note": ""
+    },
+    "P11-011-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P11-011-2.jpg",
+      "note": ""
+    },
+    "P11-011-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P11-011-3.jpg",
+      "note": ""
+    },
+    "P11-012-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P11-012-1.jpg",
+      "note": ""
+    },
+    "P11-012-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P11-012-2.jpg",
+      "note": ""
+    },
+    "P11-012-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P11-012-3.jpg",
+      "note": ""
+    },
+    "P11-013-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P11-013-1.jpg",
+      "note": ""
+    },
+    "P11-013-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P11-013-2.jpg",
+      "note": ""
+    },
+    "P11-013-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P11-013-3.jpg",
+      "note": ""
+    },
+    "P11-014-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P11-014-1.jpg",
+      "note": ""
+    },
+    "P11-014-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P11-014-2.jpg",
+      "note": ""
+    },
+    "P11-014-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P11-014-3.jpg",
+      "note": ""
+    },
+    "P11-015-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P11-015-1.jpg",
+      "note": ""
+    },
+    "P11-015-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P11-015-2.jpg",
+      "note": ""
+    },
+    "P11-015-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P11-015-3.jpg",
+      "note": ""
+    },
+    "P11-016-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P11-016-1.jpg",
+      "note": ""
+    },
+    "P11-016-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P11-016-2.jpg",
+      "note": ""
+    },
+    "P11-016-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P11-016-3.jpg",
+      "note": ""
+    },
+    "P11-017-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P11-017-1.jpg",
+      "note": ""
+    },
+    "P11-017-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P11-017-2.jpg",
+      "note": ""
+    },
+    "P11-017-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P11-017-3.jpg",
+      "note": ""
+    },
+    "P11-018-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P11-018-1.jpg",
+      "note": ""
+    },
+    "P11-018-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P11-018-2.jpg",
+      "note": ""
+    },
+    "P11-018-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P11-018-3.jpg",
+      "note": ""
+    },
+    "P11-019-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 19,
+      "image": "questions/P11-019-1.jpg",
+      "note": ""
+    },
+    "P11-019-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 19,
+      "image": "questions/P11-019-2.jpg",
+      "note": ""
+    },
+    "P11-019-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 19,
+      "image": "questions/P11-019-3.jpg",
+      "note": ""
+    },
+    "P11-020-1": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P11-020-1.jpg",
+      "note": ""
+    },
+    "P11-020-2": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P11-020-2.jpg",
+      "note": ""
+    },
+    "P11-020-3": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P11-020-3.jpg",
+      "note": ""
+    },
+    "P11-021-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P11-021-1.jpg",
+      "note": ""
+    },
+    "P11-021-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P11-021-2.jpg",
+      "note": ""
+    },
+    "P11-021-3": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P11-021-3.jpg",
+      "note": ""
+    },
+    "P11-021-4": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P11-021-4.jpg",
+      "note": ""
+    },
+    "P11-022-1": {
+      "answer": "BCDE",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P11-022-1.jpg",
+      "note": ""
+    },
+    "P11-022-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P11-022-2.jpg",
+      "note": ""
+    },
+    "P12-001-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P12-001-1.jpg",
+      "note": ""
+    },
+    "P12-001-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P12-001-2.jpg",
+      "note": ""
+    },
+    "P12-001-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 1,
+      "image": "questions/P12-001-3.jpg",
+      "note": ""
+    },
+    "P12-002-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P12-002-1.jpg",
+      "note": ""
+    },
+    "P12-002-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P12-002-2.jpg",
+      "note": ""
+    },
+    "P12-002-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 2,
+      "image": "questions/P12-002-3.jpg",
+      "note": ""
+    },
+    "P12-003-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P12-003-1.jpg",
+      "note": ""
+    },
+    "P12-003-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 3,
+      "image": "questions/P12-003-2.jpg",
+      "note": ""
+    },
+    "P12-004-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P12-004-1.jpg",
+      "note": ""
+    },
+    "P12-004-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P12-004-2.jpg",
+      "note": ""
+    },
+    "P12-004-3": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 4,
+      "image": "questions/P12-004-3.jpg",
+      "note": ""
+    },
+    "P12-005-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P12-005-1.jpg",
+      "note": ""
+    },
+    "P12-005-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P12-005-2.jpg",
+      "note": ""
+    },
+    "P12-005-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 5,
+      "image": "questions/P12-005-3.jpg",
+      "note": ""
+    },
+    "P12-006-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P12-006-1.jpg",
+      "note": ""
+    },
+    "P12-006-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 6,
+      "image": "questions/P12-006-2.jpg",
+      "note": ""
+    },
+    "P12-007-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P12-007-1.jpg",
+      "note": ""
+    },
+    "P12-007-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 7,
+      "image": "questions/P12-007-2.jpg",
+      "note": ""
+    },
+    "P12-008-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P12-008-1.jpg",
+      "note": ""
+    },
+    "P12-008-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 8,
+      "image": "questions/P12-008-2.jpg",
+      "note": ""
+    },
+    "P12-009-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P12-009-1.jpg",
+      "note": ""
+    },
+    "P12-009-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 9,
+      "image": "questions/P12-009-2.jpg",
+      "note": ""
+    },
+    "P12-010-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 10,
+      "image": "questions/P12-010-1.jpg",
+      "note": ""
+    },
+    "P12-011-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P12-011-1.jpg",
+      "note": ""
+    },
+    "P12-011-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P12-011-2.jpg",
+      "note": ""
+    },
+    "P12-011-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 11,
+      "image": "questions/P12-011-3.jpg",
+      "note": ""
+    },
+    "P12-012-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P12-012-1.jpg",
+      "note": ""
+    },
+    "P12-012-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P12-012-2.jpg",
+      "note": ""
+    },
+    "P12-012-4": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 12,
+      "image": "questions/P12-012-4.jpg",
+      "note": ""
+    },
+    "P12-013-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P12-013-1.jpg",
+      "note": ""
+    },
+    "P12-013-2": {
+      "answer": "",
+      "source": "原卷答案待确认",
+      "page": 13,
+      "image": "questions/P12-013-2.jpg",
+      "note": ""
+    },
+    "P12-013-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 13,
+      "image": "questions/P12-013-3.jpg",
+      "note": ""
+    },
+    "P12-014-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P12-014-1.jpg",
+      "note": ""
+    },
+    "P12-014-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 14,
+      "image": "questions/P12-014-2.jpg",
+      "note": ""
+    },
+    "P12-015-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P12-015-1.jpg",
+      "note": ""
+    },
+    "P12-015-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P12-015-2.jpg",
+      "note": ""
+    },
+    "P12-015-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 15,
+      "image": "questions/P12-015-3.jpg",
+      "note": ""
+    },
+    "P12-016-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P12-016-1.jpg",
+      "note": ""
+    },
+    "P12-016-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P12-016-2.jpg",
+      "note": ""
+    },
+    "P12-016-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 16,
+      "image": "questions/P12-016-3.jpg",
+      "note": ""
+    },
+    "P12-017-1": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P12-017-1.jpg",
+      "note": ""
+    },
+    "P12-017-2": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P12-017-2.jpg",
+      "note": ""
+    },
+    "P12-017-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 17,
+      "image": "questions/P12-017-3.jpg",
+      "note": ""
+    },
+    "P12-018-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P12-018-1.jpg",
+      "note": ""
+    },
+    "P12-018-2": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P12-018-2.jpg",
+      "note": ""
+    },
+    "P12-018-3": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 18,
+      "image": "questions/P12-018-3.jpg",
+      "note": ""
+    },
+    "P12-019-1": {
+      "answer": "D",
+      "source": "原卷手写/标注参考答案",
+      "page": 19,
+      "image": "questions/P12-019-1.jpg",
+      "note": ""
+    },
+    "P12-019-2": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 19,
+      "image": "questions/P12-019-2.jpg",
+      "note": ""
+    },
+    "P12-019-3": {
+      "answer": "ACDE",
+      "source": "原卷手写/标注参考答案",
+      "page": 19,
+      "image": "questions/P12-019-3.jpg",
+      "note": ""
+    },
+    "P12-020-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P12-020-1.jpg",
+      "note": ""
+    },
+    "P12-020-2": {
+      "answer": "C",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P12-020-2.jpg",
+      "note": ""
+    },
+    "P12-020-3": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P12-020-3.jpg",
+      "note": ""
+    },
+    "P12-020-4": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 20,
+      "image": "questions/P12-020-4.jpg",
+      "note": ""
+    },
+    "P12-021-1": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P12-021-1.jpg",
+      "note": ""
+    },
+    "P12-021-2": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P12-021-2.jpg",
+      "note": ""
+    },
+    "P12-021-3": {
+      "answer": "B",
+      "source": "原卷手写/标注参考答案",
+      "page": 21,
+      "image": "questions/P12-021-3.jpg",
+      "note": ""
+    },
+    "P12-022-1": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P12-022-1.jpg",
+      "note": ""
+    },
+    "P12-022-2": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P12-022-2.jpg",
+      "note": ""
+    },
+    "P12-022-3": {
+      "answer": "ABCD",
+      "source": "原卷手写/标注参考答案",
+      "page": 22,
+      "image": "questions/P12-022-3.jpg",
+      "note": ""
+    },
+    "P12-023-1": {
+      "answer": "A",
+      "source": "原卷手写/标注参考答案",
+      "page": 23,
+      "image": "questions/P12-023-1.jpg",
+      "note": ""
+    },
+    "P5-009-4": {
+      "answer": "D",
+      "source": "原卷第9页第二题旁补写D，已与上方图形题B分开对应",
+      "page": 9,
+      "image": "questions/P5-009-4.jpg",
+      "note": "已将同一截图中的两道题分别对应答案。"
+    }
+  },
+  "activeAnswerCount": 505,
+  "userRemovedQuestions": [
+    "P2-001-2",
+    "P4-028-2",
+    "P4-029-3"
+  ]
+}

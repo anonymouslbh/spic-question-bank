@@ -1,0 +1,167 @@
+{
+  "summary": {
+    "reviewedEntries": 98,
+    "groups": 15,
+    "groupedEntries": 49,
+    "additionalHidden": 34,
+    "remainingWhenDeduplicated": 64,
+    "method": "逐图核对题面及选项，并检查跨页续图；通用题干不用于判定图形相同。",
+    "questionsAndAnswersPreserved": true
+  },
+  "groups": [
+    {
+      "members": [
+        "P1-006-1",
+        "N16-010-1"
+      ],
+      "representative": "P1-006-1",
+      "description": "心形、太阳等封闭图形",
+      "groupId": "D220"
+    },
+    {
+      "members": [
+        "P1-009-3",
+        "P2-007-1",
+        "P10-012-2",
+        "P12-012-2",
+        "N13-012-2",
+        "N15-012-2"
+      ],
+      "representative": "P1-009-3",
+      "description": "九宫格三角形与箭头",
+      "groupId": "D221"
+    },
+    {
+      "members": [
+        "P1-014-3",
+        "N17-010-3"
+      ],
+      "representative": "P1-014-3",
+      "description": "横竖线与黑白端点",
+      "groupId": "D222"
+    },
+    {
+      "members": [
+        "P2-008-2",
+        "P10-002-1",
+        "N15-002-1"
+      ],
+      "representative": "P2-008-2",
+      "description": "椭圆、矩形、星形等组合",
+      "groupId": "D223"
+    },
+    {
+      "members": [
+        "P3-003-1",
+        "P5-009-2",
+        "P8-009-1",
+        "P12-001-3",
+        "N13-001-3",
+        "N16-011-2"
+      ],
+      "representative": "P3-003-1",
+      "description": "多边形内部线段",
+      "groupId": "D224"
+    },
+    {
+      "members": [
+        "P3-026-1",
+        "P5-005-4",
+        "P9-004-1"
+      ],
+      "representative": "P3-026-1",
+      "description": "缺角方格与黑块移动",
+      "groupId": "D225"
+    },
+    {
+      "members": [
+        "P4-024-1",
+        "P9-019-1"
+      ],
+      "representative": "P4-024-1",
+      "description": "九宫格空心与实心星星",
+      "groupId": "D226"
+    },
+    {
+      "members": [
+        "P4-033-1",
+        "P6-016-1",
+        "P6-016-2",
+        "P11-003-2",
+        "N14-003-2"
+      ],
+      "representative": "P4-033-1",
+      "description": "直线交叉与交点",
+      "groupId": "D227"
+    },
+    {
+      "members": [
+        "P4-043-1",
+        "P7-005-1",
+        "N29-010"
+      ],
+      "representative": "P4-043-1",
+      "description": "四列方格中的黑条变化",
+      "groupId": "D228"
+    },
+    {
+      "members": [
+        "P6-003-3",
+        "P11-005-2",
+        "P12-003-1",
+        "N13-003-1",
+        "N14-005-2",
+        "N17-011-2"
+      ],
+      "representative": "P6-003-3",
+      "description": "密集圆点方阵中的三个黑点",
+      "groupId": "D229"
+    },
+    {
+      "members": [
+        "N25-033",
+        "P7-020-1"
+      ],
+      "representative": "N25-033",
+      "description": "三乘三方格黑圆点",
+      "groupId": "D230"
+    },
+    {
+      "members": [
+        "P7-022-2",
+        "P11-010-1",
+        "N14-010-1"
+      ],
+      "representative": "N14-010-1",
+      "description": "四乘四方格黑块",
+      "groupId": "D231"
+    },
+    {
+      "members": [
+        "P10-005-1",
+        "N15-005-1"
+      ],
+      "representative": "P10-005-1",
+      "description": "圆形内部线段数量",
+      "groupId": "D232"
+    },
+    {
+      "members": [
+        "N29-012",
+        "N17-005-1"
+      ],
+      "representative": "N29-012",
+      "description": "九宫格小符号位置变化",
+      "groupId": "D233"
+    },
+    {
+      "members": [
+        "P8-019-2",
+        "N29-019"
+      ],
+      "representative": "P8-019-2",
+      "description": "九宫格空心与实心圆点",
+      "groupId": "D234"
+    }
+  ]
+}

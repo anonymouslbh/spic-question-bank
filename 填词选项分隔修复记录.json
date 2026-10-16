@@ -1,0 +1,1295 @@
+[
+  {
+    "id": "N21-002",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "提高关上"
+      },
+      {
+        "key": "B",
+        "text": "打扮拴住"
+      },
+      {
+        "key": "C",
+        "text": "武装拢住"
+      },
+      {
+        "key": "D",
+        "text": "提升守住"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "提高、关上"
+      },
+      {
+        "key": "B",
+        "text": "打扮、拴住"
+      },
+      {
+        "key": "C",
+        "text": "武装、拢住"
+      },
+      {
+        "key": "D",
+        "text": "提升、守住"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N21-002-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N21-004",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "难道 散发 凝结"
+      },
+      {
+        "key": "B",
+        "text": "何尝 散发 凝聚"
+      },
+      {
+        "key": "C",
+        "text": "何尝 焕发 凝聚"
+      },
+      {
+        "key": "D",
+        "text": "何曾 焕发 凝结"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "难道、散发、凝结"
+      },
+      {
+        "key": "B",
+        "text": "何尝、散发、凝聚"
+      },
+      {
+        "key": "C",
+        "text": "何尝、焕发、凝聚"
+      },
+      {
+        "key": "D",
+        "text": "何曾、焕发、凝结"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N21-004-q-3.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N22-001",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "向往 迷惑 编织"
+      },
+      {
+        "key": "B",
+        "text": "向往 迷失 编造"
+      },
+      {
+        "key": "C",
+        "text": "神往 迷惑 编造"
+      },
+      {
+        "key": "D",
+        "text": "神往 迷失 编织"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "向往、迷惑、编织"
+      },
+      {
+        "key": "B",
+        "text": "向往、迷失、编造"
+      },
+      {
+        "key": "C",
+        "text": "神往、迷惑、编造"
+      },
+      {
+        "key": "D",
+        "text": "神往、迷失、编织"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N22-001-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N22-002",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "手忙脚乱 纷至沓来 沉渣泛起"
+      },
+      {
+        "key": "B",
+        "text": "不知所措 风起云涌 东山再起"
+      },
+      {
+        "key": "C",
+        "text": "手足无措 蜂拥而至 卷土重来"
+      },
+      {
+        "key": "D",
+        "text": "无所适从 此起彼伏 死灰复燃"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "手忙脚乱、纷至沓来、沉渣泛起"
+      },
+      {
+        "key": "B",
+        "text": "不知所措、风起云涌、东山再起"
+      },
+      {
+        "key": "C",
+        "text": "手足无措、蜂拥而至、卷土重来"
+      },
+      {
+        "key": "D",
+        "text": "无所适从、此起彼伏、死灰复燃"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N22-002-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N22-003",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "随机性 坚强 超载"
+      },
+      {
+        "key": "B",
+        "text": "必然性 虚弱 背离"
+      },
+      {
+        "key": "C",
+        "text": "偶然性 脆弱 超出"
+      },
+      {
+        "key": "D",
+        "text": "随意性 顽强 违背"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "随机性、坚强、超载"
+      },
+      {
+        "key": "B",
+        "text": "必然性、虚弱、背离"
+      },
+      {
+        "key": "C",
+        "text": "偶然性、脆弱、超出"
+      },
+      {
+        "key": "D",
+        "text": "随意性、顽强、违背"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N22-003-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N22-004",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "残酷  加剧"
+      },
+      {
+        "key": "B",
+        "text": "残酷  加大"
+      },
+      {
+        "key": "C",
+        "text": "激烈  加剧"
+      },
+      {
+        "key": "D",
+        "text": "激烈 加大"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "残酷、加剧"
+      },
+      {
+        "key": "B",
+        "text": "残酷、加大"
+      },
+      {
+        "key": "C",
+        "text": "激烈、加剧"
+      },
+      {
+        "key": "D",
+        "text": "激烈、加大"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N22-004-q-3.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N22-005",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "严格 平分秋色"
+      },
+      {
+        "key": "B",
+        "text": "严谨 三足鼎立"
+      },
+      {
+        "key": "C",
+        "text": "严密 等量齐观"
+      },
+      {
+        "key": "D",
+        "text": "严肃 并驾齐驱"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "严格、平分秋色"
+      },
+      {
+        "key": "B",
+        "text": "严谨、三足鼎立"
+      },
+      {
+        "key": "C",
+        "text": "严密、等量齐观"
+      },
+      {
+        "key": "D",
+        "text": "严肃、并驾齐驱"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N22-005-q-3.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N23-001",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "不言而喻现实约会"
+      },
+      {
+        "key": "B",
+        "text": "实至名归 宣告 碰撞"
+      },
+      {
+        "key": "C",
+        "text": "当仁不让 体现 较量"
+      },
+      {
+        "key": "D",
+        "text": "当之无愧 昭示邂逅"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "不言而喻、现实、约会"
+      },
+      {
+        "key": "B",
+        "text": "实至名归、宣告、碰撞"
+      },
+      {
+        "key": "C",
+        "text": "当仁不让、体现、较量"
+      },
+      {
+        "key": "D",
+        "text": "当之无愧、昭示、邂逅"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N23-001-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N23-002",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "约束监管推波助澜"
+      },
+      {
+        "key": "B",
+        "text": "控制打压助纣为虐"
+      },
+      {
+        "key": "C",
+        "text": "调控监督出尔反尔"
+      },
+      {
+        "key": "D",
+        "text": "监督操纵适得其反"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "约束监管、推波助澜"
+      },
+      {
+        "key": "B",
+        "text": "控制打压、助纣为虐"
+      },
+      {
+        "key": "C",
+        "text": "调控监督、出尔反尔"
+      },
+      {
+        "key": "D",
+        "text": "监督操纵、适得其反"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N23-002-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N23-003",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "错落有致 贴合"
+      },
+      {
+        "key": "B",
+        "text": "拔地而起 契合"
+      },
+      {
+        "key": "C",
+        "text": "鳞次栉比 适合"
+      },
+      {
+        "key": "D",
+        "text": "美轮美奂 吻合"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "错落有致、贴合"
+      },
+      {
+        "key": "B",
+        "text": "拔地而起、契合"
+      },
+      {
+        "key": "C",
+        "text": "鳞次栉比、适合"
+      },
+      {
+        "key": "D",
+        "text": "美轮美奂、吻合"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N23-003-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N23-005",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "明显 黑白分明"
+      },
+      {
+        "key": "B",
+        "text": "突出 泾渭分明"
+      },
+      {
+        "key": "C",
+        "text": "显著 与众不同"
+      },
+      {
+        "key": "D",
+        "text": "明确 标新立异"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "明显、黑白分明"
+      },
+      {
+        "key": "B",
+        "text": "突出、泾渭分明"
+      },
+      {
+        "key": "C",
+        "text": "显著、与众不同"
+      },
+      {
+        "key": "D",
+        "text": "明确、标新立异"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N23-005-q-3.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N24-001",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "大智若愚 心中有戒"
+      },
+      {
+        "key": "B",
+        "text": "虚怀若谷 无欲无求"
+      },
+      {
+        "key": "C",
+        "text": "大道至简 心中自律"
+      },
+      {
+        "key": "D",
+        "text": "中庸无为 简单自律"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "大智若愚、心中有戒"
+      },
+      {
+        "key": "B",
+        "text": "虚怀若谷、无欲无求"
+      },
+      {
+        "key": "C",
+        "text": "大道至简、心中自律"
+      },
+      {
+        "key": "D",
+        "text": "中庸无为、简单自律"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N24-001-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N24-002",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "阻挡 缓解"
+      },
+      {
+        "key": "B",
+        "text": "隔离 解除"
+      },
+      {
+        "key": "C",
+        "text": "阻隔 纾解"
+      },
+      {
+        "key": "D",
+        "text": "隔绝 消除"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "阻挡、缓解"
+      },
+      {
+        "key": "B",
+        "text": "隔离、解除"
+      },
+      {
+        "key": "C",
+        "text": "阻隔、纾解"
+      },
+      {
+        "key": "D",
+        "text": "隔绝、消除"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N24-002-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N24-003",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "评估 恢复"
+      },
+      {
+        "key": "B",
+        "text": "测评 还原"
+      },
+      {
+        "key": "C",
+        "text": "评价 回复"
+      },
+      {
+        "key": "D",
+        "text": "测试 复原"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "评估、恢复"
+      },
+      {
+        "key": "B",
+        "text": "测评、还原"
+      },
+      {
+        "key": "C",
+        "text": "评价、回复"
+      },
+      {
+        "key": "D",
+        "text": "测试、复原"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N24-003-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N24-004",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "不可名状 体现 千方百计"
+      },
+      {
+        "key": "B",
+        "text": "不可抗拒 彰显 不遗余力"
+      },
+      {
+        "key": "C",
+        "text": "无与伦比 昭示 不惜血本"
+      },
+      {
+        "key": "D",
+        "text": "无以复加 代表 千难万险"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "不可名状、体现、千方百计"
+      },
+      {
+        "key": "B",
+        "text": "不可抗拒、彰显、不遗余力"
+      },
+      {
+        "key": "C",
+        "text": "无与伦比、昭示、不惜血本"
+      },
+      {
+        "key": "D",
+        "text": "无以复加、代表、千难万险"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N24-004-q-3.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N24-005",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "浑浑噩噩  功过得失"
+      },
+      {
+        "key": "B",
+        "text": "糊里糊涂  小恩小惠"
+      },
+      {
+        "key": "C",
+        "text": "得过且过  功名利禄"
+      },
+      {
+        "key": "D",
+        "text": "碌碌无为 蝇头小利"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "浑浑噩噩、功过得失"
+      },
+      {
+        "key": "B",
+        "text": "糊里糊涂、小恩小惠"
+      },
+      {
+        "key": "C",
+        "text": "得过且过、功名利禄"
+      },
+      {
+        "key": "D",
+        "text": "碌碌无为、蝇头小利"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N24-005-q-3.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N25-001",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "差错 延用"
+      },
+      {
+        "key": "B",
+        "text": "差错 沿用"
+      },
+      {
+        "key": "C",
+        "text": "差池 沿用"
+      },
+      {
+        "key": "D",
+        "text": "差池 延用"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "差错、延用"
+      },
+      {
+        "key": "B",
+        "text": "差错、沿用"
+      },
+      {
+        "key": "C",
+        "text": "差池、沿用"
+      },
+      {
+        "key": "D",
+        "text": "差池、延用"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N25-001-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N25-002",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "火车头 整合"
+      },
+      {
+        "key": "B",
+        "text": "马前卒 协调"
+      },
+      {
+        "key": "C",
+        "text": "多面手 兼顾"
+      },
+      {
+        "key": "D",
+        "text": "排头兵 平衡"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "火车头、整合"
+      },
+      {
+        "key": "B",
+        "text": "马前卒、协调"
+      },
+      {
+        "key": "C",
+        "text": "多面手、兼顾"
+      },
+      {
+        "key": "D",
+        "text": "排头兵、平衡"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N25-002-q-2.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N25-004",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "拘泥  着眼"
+      },
+      {
+        "key": "B",
+        "text": "醉心落脚"
+      },
+      {
+        "key": "C",
+        "text": "局限游走"
+      },
+      {
+        "key": "D",
+        "text": "固守混迹"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "拘泥、着眼"
+      },
+      {
+        "key": "B",
+        "text": "醉心、落脚"
+      },
+      {
+        "key": "C",
+        "text": "局限、游走"
+      },
+      {
+        "key": "D",
+        "text": "固守、混迹"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N25-004-q-2.jpg",
+      "practice_images/import17/N25-004-q-3.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N25-005",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "无论 或 证明"
+      },
+      {
+        "key": "B",
+        "text": "不管 还 佐证"
+      },
+      {
+        "key": "C",
+        "text": "不仅 而且 表明"
+      },
+      {
+        "key": "D",
+        "text": "或者 或者 证实"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "无论、或、证明"
+      },
+      {
+        "key": "B",
+        "text": "不管、还、佐证"
+      },
+      {
+        "key": "C",
+        "text": "不仅、而且、表明"
+      },
+      {
+        "key": "D",
+        "text": "或者、或者、证实"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N25-005-q-3.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N26-016",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "蒙蔽擦拭"
+      },
+      {
+        "key": "B",
+        "text": "遮蔽擦亮"
+      },
+      {
+        "key": "C",
+        "text": "掩饰拂拭"
+      },
+      {
+        "key": "D",
+        "text": "遮掩烛照"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "蒙蔽、擦拭"
+      },
+      {
+        "key": "B",
+        "text": "遮蔽、擦亮"
+      },
+      {
+        "key": "C",
+        "text": "掩饰、拂拭"
+      },
+      {
+        "key": "D",
+        "text": "遮掩、烛照"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N26-016-q-7.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N26-022",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "如履薄冰有的放矢"
+      },
+      {
+        "key": "B",
+        "text": "今非昔比有目共睹"
+      },
+      {
+        "key": "C",
+        "text": "举步维艰不负众望"
+      },
+      {
+        "key": "D",
+        "text": "江河日下任重道远"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "如履薄冰、有的放矢"
+      },
+      {
+        "key": "B",
+        "text": "今非昔比、有目共睹"
+      },
+      {
+        "key": "C",
+        "text": "举步维艰、不负众望"
+      },
+      {
+        "key": "D",
+        "text": "江河日下、任重道远"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N26-022-q-12.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N26-025",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "融入深度"
+      },
+      {
+        "key": "B",
+        "text": "熔化硬度"
+      },
+      {
+        "key": "C",
+        "text": "架构高度"
+      },
+      {
+        "key": "D",
+        "text": "锻造密度"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "融入、深度"
+      },
+      {
+        "key": "B",
+        "text": "熔化、硬度"
+      },
+      {
+        "key": "C",
+        "text": "架构、高度"
+      },
+      {
+        "key": "D",
+        "text": "锻造、密度"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N26-025-q-14.jpg",
+      "practice_images/import17/N26-025-q-15.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N26-027",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "保守一般"
+      },
+      {
+        "key": "B",
+        "text": "传统另类"
+      },
+      {
+        "key": "C",
+        "text": "正确反常"
+      },
+      {
+        "key": "D",
+        "text": "科学冒险"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "保守、一般"
+      },
+      {
+        "key": "B",
+        "text": "传统、另类"
+      },
+      {
+        "key": "C",
+        "text": "正确、反常"
+      },
+      {
+        "key": "D",
+        "text": "科学、冒险"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N26-027-q-16.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N27-005",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "层次泥足深陷"
+      },
+      {
+        "key": "B",
+        "text": "水平闭门造车"
+      },
+      {
+        "key": "C",
+        "text": "效率固步自封"
+      },
+      {
+        "key": "D",
+        "text": "能力一意孤行"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "层次、泥足深陷"
+      },
+      {
+        "key": "B",
+        "text": "水平、闭门造车"
+      },
+      {
+        "key": "C",
+        "text": "效率、固步自封"
+      },
+      {
+        "key": "D",
+        "text": "能力、一意孤行"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N27-005-q-4.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N27-006",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "浸润徜徉"
+      },
+      {
+        "key": "B",
+        "text": "润泽沐浴"
+      },
+      {
+        "key": "C",
+        "text": "滋养沉浸"
+      },
+      {
+        "key": "D",
+        "text": "温润洋溢"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "浸润、徜徉"
+      },
+      {
+        "key": "B",
+        "text": "润泽、沐浴"
+      },
+      {
+        "key": "C",
+        "text": "滋养、沉浸"
+      },
+      {
+        "key": "D",
+        "text": "温润、洋溢"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N27-006-q-5.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N27-014",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "提高关上"
+      },
+      {
+        "key": "B",
+        "text": "打扮拴住"
+      },
+      {
+        "key": "C",
+        "text": "武装拢住"
+      },
+      {
+        "key": "D",
+        "text": "提升守住"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "提高、关上"
+      },
+      {
+        "key": "B",
+        "text": "打扮、拴住"
+      },
+      {
+        "key": "C",
+        "text": "武装、拢住"
+      },
+      {
+        "key": "D",
+        "text": "提升、守住"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N27-014-q-11.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N27-015",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "相信朴素呈现"
+      },
+      {
+        "key": "B",
+        "text": "确认朴实传递"
+      },
+      {
+        "key": "C",
+        "text": "相信朴实呈现"
+      },
+      {
+        "key": "D",
+        "text": "确认朴素传递"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "相信、朴素、呈现"
+      },
+      {
+        "key": "B",
+        "text": "确认、朴实、传递"
+      },
+      {
+        "key": "C",
+        "text": "相信、朴实、呈现"
+      },
+      {
+        "key": "D",
+        "text": "确认、朴素、传递"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N27-015-q-12.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N27-023",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "演进描述保存"
+      },
+      {
+        "key": "B",
+        "text": "培育演绎留传"
+      },
+      {
+        "key": "C",
+        "text": "发展诠释存留"
+      },
+      {
+        "key": "D",
+        "text": "积淀阐释遗留"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "演进、描述、保存"
+      },
+      {
+        "key": "B",
+        "text": "培育、演绎、留传"
+      },
+      {
+        "key": "C",
+        "text": "发展、诠释、存留"
+      },
+      {
+        "key": "D",
+        "text": "积淀、阐释、遗留"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N27-023-q-17.jpg",
+      "practice_images/import17/N27-023-q-18.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  },
+  {
+    "id": "N27-024",
+    "beforeOptions": [
+      {
+        "key": "A",
+        "text": "坦言并驾齐驱"
+      },
+      {
+        "key": "B",
+        "text": "预言并行不悖"
+      },
+      {
+        "key": "C",
+        "text": "断言相向而行"
+      },
+      {
+        "key": "D",
+        "text": "妄言背道而驰"
+      }
+    ],
+    "options": [
+      {
+        "key": "A",
+        "text": "坦言、并驾齐驱"
+      },
+      {
+        "key": "B",
+        "text": "预言、并行不悖"
+      },
+      {
+        "key": "C",
+        "text": "断言、相向而行"
+      },
+      {
+        "key": "D",
+        "text": "妄言、背道而驰"
+      }
+    ],
+    "sourceImages": [
+      "practice_images/import17/N27-024-q-18.jpg"
+    ],
+    "note": "多空填词选项增加顿号分隔，词语及顺序保持不变。"
+  }
+]

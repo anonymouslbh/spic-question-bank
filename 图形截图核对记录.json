@@ -1,0 +1,407 @@
+{
+  "edition": "2026-10-11-cropped-figures",
+  "count": 36,
+  "crops": {
+    "P1-006-1": {
+      "source": "pages/1_006.jpg",
+      "rect": [
+        240,
+        294,
+        642,
+        490
+      ],
+      "practiceImage": "practice_images/P1-006-1.png"
+    },
+    "P1-009-3": {
+      "source": "pages/1_009.jpg",
+      "rect": [
+        282,
+        1079,
+        668,
+        1248
+      ],
+      "practiceImage": "practice_images/P1-009-3.png"
+    },
+    "P1-014-3": {
+      "source": "pages/1_014.jpg",
+      "rect": [
+        273,
+        1152,
+        653,
+        1337
+      ],
+      "practiceImage": "practice_images/P1-014-3.png"
+    },
+    "P2-008-2": {
+      "source": "pages/2_008.jpg",
+      "rect": [
+        214,
+        957,
+        632,
+        1151
+      ],
+      "practiceImage": "practice_images/P2-008-2.png"
+    },
+    "P3-003-1": {
+      "source": "pages/3_003.jpg",
+      "rect": [
+        324,
+        227,
+        907,
+        524
+      ],
+      "practiceImage": "practice_images/P3-003-1.png"
+    },
+    "P3-026-1": {
+      "source": "pages/3_026.jpg",
+      "rect": [
+        86,
+        480,
+        732,
+        845
+      ],
+      "practiceImage": "practice_images/P3-026-1.png"
+    },
+    "P4-024-1": {
+      "source": "pages/4_024.jpg",
+      "rect": [
+        160,
+        653,
+        687,
+        935
+      ],
+      "practiceImage": "practice_images/P4-024-1.png"
+    },
+    "P4-033-1": {
+      "source": "pages/4_033.jpg",
+      "rect": [
+        47,
+        532,
+        647,
+        886
+      ],
+      "practiceImage": "practice_images/P4-033-1.png"
+    },
+    "P4-043-1": {
+      "source": "pages/4_043.jpg",
+      "rect": [
+        107,
+        646,
+        737,
+        1006
+      ],
+      "practiceImage": "practice_images/P4-043-1.png"
+    },
+    "P5-005-4": {
+      "source": "pages/5_006.jpg",
+      "rect": [
+        28,
+        24,
+        723,
+        342
+      ],
+      "practiceImage": "practice_images/P5-005-4.png"
+    },
+    "P5-009-2": {
+      "source": "pages/5_009.jpg",
+      "rect": [
+        38,
+        727,
+        667,
+        970
+      ],
+      "practiceImage": "practice_images/P5-009-2.png"
+    },
+    "P6-003-3": {
+      "source": "pages/6_003.jpg",
+      "rect": [
+        81,
+        1312,
+        678,
+        1565
+      ],
+      "practiceImage": "practice_images/P6-003-3.png"
+    },
+    "P6-016-1": {
+      "source": "pages/6_016.jpg",
+      "rect": [
+        57,
+        1051,
+        646,
+        1349
+      ],
+      "practiceImage": "practice_images/P6-016-1.png"
+    },
+    "P6-016-2": {
+      "source": "pages/6_016.jpg",
+      "rect": [
+        57,
+        1051,
+        646,
+        1349
+      ],
+      "practiceImage": "practice_images/P6-016-2.png"
+    },
+    "P7-005-1": {
+      "source": "pages/7_005.jpg",
+      "rect": [
+        214,
+        341,
+        650,
+        590
+      ],
+      "practiceImage": "practice_images/P7-005-1.png"
+    },
+    "P7-020-1": {
+      "source": "pages/7_020.jpg",
+      "rect": [
+        224,
+        331,
+        585,
+        580
+      ],
+      "practiceImage": "practice_images/P7-020-1.png"
+    },
+    "P7-022-2": {
+      "source": "pages/7_022.jpg",
+      "rect": [
+        230,
+        849,
+        710,
+        1106
+      ],
+      "practiceImage": "practice_images/P7-022-2.png"
+    },
+    "P8-005-2": {
+      "source": "pages/8_005.jpg",
+      "rect": [
+        233,
+        938,
+        549,
+        1182
+      ],
+      "practiceImage": "practice_images/P8-005-2.png"
+    },
+    "P8-009-1": {
+      "source": "pages/8_009.jpg",
+      "rect": [
+        239,
+        346,
+        649,
+        531
+      ],
+      "practiceImage": "practice_images/P8-009-1.png"
+    },
+    "P8-019-2": {
+      "source": "pages/8_019.jpg",
+      "rect": [
+        232,
+        890,
+        666,
+        1098
+      ],
+      "practiceImage": "practice_images/P8-019-2.png"
+    },
+    "P9-004-1": {
+      "source": "pages/9_004.jpg",
+      "rect": [
+        234,
+        326,
+        674,
+        531
+      ],
+      "practiceImage": "practice_images/P9-004-1.png"
+    },
+    "P9-019-1": {
+      "source": "pages/9_019.jpg",
+      "rect": [
+        248,
+        354,
+        686,
+        597
+      ],
+      "practiceImage": "practice_images/P9-019-1.png"
+    },
+    "P10-002-1": {
+      "source": "pages/10_002.jpg",
+      "rect": [
+        237,
+        319,
+        665,
+        528
+      ],
+      "practiceImage": "practice_images/P10-002-1.png"
+    },
+    "P10-005-1": {
+      "source": "pages/10_005.jpg",
+      "rect": [
+        221,
+        330,
+        702,
+        558
+      ],
+      "practiceImage": "practice_images/P10-005-1.png"
+    },
+    "P10-012-2": {
+      "source": "pages/10_012.jpg",
+      "rect": [
+        223,
+        581,
+        678,
+        780
+      ],
+      "practiceImage": "practice_images/P10-012-2.png"
+    },
+    "P11-003-2": {
+      "source": "pages/11_003.jpg",
+      "rect": [
+        207,
+        733,
+        687,
+        976
+      ],
+      "practiceImage": "practice_images/P11-003-2.png"
+    },
+    "P11-005-2": {
+      "source": "pages/11_005.jpg",
+      "rect": [
+        197,
+        770,
+        696,
+        981
+      ],
+      "practiceImage": "practice_images/P11-005-2.png"
+    },
+    "P11-010-1": {
+      "source": "pages/11_010.jpg",
+      "rect": [
+        220,
+        298,
+        705,
+        501
+      ],
+      "practiceImage": "practice_images/P11-010-1.png"
+    },
+    "P12-001-3": {
+      "source": "pages/12_001.jpg",
+      "rect": [
+        217,
+        1099,
+        643,
+        1262
+      ],
+      "practiceImage": "practice_images/P12-001-3.png"
+    },
+    "P12-003-1": {
+      "source": "pages/12_003.jpg",
+      "rect": [
+        222,
+        338,
+        700,
+        541
+      ],
+      "practiceImage": "practice_images/P12-003-1.png"
+    },
+    "P12-012-2": {
+      "source": "pages/12_012.jpg",
+      "rect": [
+        219,
+        731,
+        688,
+        936
+      ],
+      "practiceImage": "practice_images/P12-012-2.png"
+    },
+    "P2-007-1": {
+      "source": "pages/2_007.jpg",
+      "rect": [
+        263,
+        421,
+        655,
+        597
+      ],
+      "practiceImage": "practice_images/P2-007-1.png"
+    },
+    "P9-026-1": {
+      "source": "pages/9_026.jpg",
+      "rect": [
+        214,
+        369,
+        674,
+        671
+      ],
+      "practiceImage": "practice_images/P9-026-1.png"
+    },
+    "P3-021-1": {
+      "source": "questions/P3-021-1.jpg",
+      "rect": [
+        250,
+        132,
+        1082,
+        403
+      ],
+      "practiceImage": "practice_images/P3-021-1.png"
+    },
+    "P11-011-3": {
+      "source": "questions/P11-011-3.jpg",
+      "rect": [
+        211,
+        84,
+        910,
+        249
+      ],
+      "practiceImage": "practice_images/P11-011-3.png"
+    },
+    "P12-011-1": {
+      "source": "questions/P12-011-1.jpg",
+      "rect": [
+        218,
+        88,
+        896,
+        188
+      ],
+      "practiceImage": "practice_images/P12-011-1.png"
+    }
+  },
+  "note": "直接裁切原卷图形，不重绘；每张裁切结果均人工查看，排除答案字母、圈选与勾选。原始图片保留。部分原卷本身存在水印或遮挡。",
+  "verifiedImageAndOptionMapping": [
+    "P1-006-1",
+    "P1-009-3",
+    "P1-014-3",
+    "P2-007-1",
+    "P2-008-2",
+    "P3-003-1",
+    "P3-021-1",
+    "P3-026-1",
+    "P4-024-1",
+    "P4-033-1",
+    "P4-043-1",
+    "P5-005-4",
+    "P5-009-2",
+    "P6-003-3",
+    "P6-016-1",
+    "P6-016-2",
+    "P7-020-1",
+    "P7-022-2",
+    "P8-005-2",
+    "P8-009-1",
+    "P8-019-2",
+    "P9-004-1",
+    "P9-019-1",
+    "P9-026-1",
+    "P10-002-1",
+    "P10-005-1",
+    "P10-012-2",
+    "P11-003-2",
+    "P11-005-2",
+    "P11-011-3",
+    "P12-003-1",
+    "P12-011-1",
+    "P12-012-2"
+  ],
+  "mappingStillUnclear": [
+    "P7-005-1",
+    "P11-010-1",
+    "P12-001-3"
+  ]
+}

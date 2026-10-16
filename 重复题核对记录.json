@@ -1,0 +1,5894 @@
+{
+  "summary": {
+    "groups": 230,
+    "redundantEntries": 491,
+    "crossFormatGroups": 175,
+    "activeQuestionCount": 1575,
+    "answerConflictCandidates": 143,
+    "round2AddedHidden": 25,
+    "energyRevolutionVersions": 11,
+    "shortCultureFamilies": 13,
+    "shortCultureAddedHidden": 19,
+    "newEnergyRankingVersions": 6,
+    "sequenceRows": 93,
+    "sequenceFamilies": 67,
+    "sequenceAddedHidden": 4,
+    "optionOrderAddedHidden": 16,
+    "emptyStemAddedHidden": 3
+  },
+  "groups": [
+    {
+      "id": "D001",
+      "representative": "N13-001-1",
+      "members": [
+        "N13-001-1",
+        "P12-001-1",
+        "P8-021-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P8-021-1"
+    },
+    {
+      "id": "D002",
+      "representative": "N13-002-2",
+      "members": [
+        "N13-002-2",
+        "P12-002-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N13-002-2"
+    },
+    {
+      "id": "D003",
+      "representative": "N13-002-3",
+      "members": [
+        "N13-002-3",
+        "P12-002-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P12-002-3"
+    },
+    {
+      "id": "D004",
+      "representative": "N13-003-2",
+      "members": [
+        "N13-003-2",
+        "P12-003-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N13-003-2"
+    },
+    {
+      "id": "D005",
+      "representative": "N13-004-1",
+      "members": [
+        "N13-004-1",
+        "P1-012-1",
+        "P12-004-1",
+        "P6-003-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P6-003-1"
+    },
+    {
+      "id": "D006",
+      "representative": "N13-004-2",
+      "members": [
+        "N13-004-2",
+        "N14-001-3",
+        "P11-001-3",
+        "P12-004-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P11-001-3"
+    },
+    {
+      "id": "D007",
+      "representative": "N13-004-3",
+      "members": [
+        "N13-004-3",
+        "P12-004-3",
+        "P8-009-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N13-004-3"
+    },
+    {
+      "id": "D008",
+      "representative": "N13-005-1",
+      "members": [
+        "N13-005-1",
+        "P12-005-1",
+        "P3-037-1",
+        "P5-008-3",
+        "P9-003-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-037-1"
+    },
+    {
+      "id": "D009",
+      "representative": "N13-005-2",
+      "members": [
+        "N13-005-2",
+        "P12-005-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N13-005-2"
+    },
+    {
+      "id": "D010",
+      "representative": "N13-006-1",
+      "members": [
+        "N13-006-1",
+        "N14-017-2",
+        "N17-013-1",
+        "P11-017-2",
+        "P12-006-1"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "P12-006-1",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "刘畅会参与新员工培训杨欢不会参与新员工培训",
+          "members": [
+            "P11-017-2",
+            "P12-006-1",
+            "N13-006-1",
+            "N14-017-2"
+          ]
+        },
+        {
+          "content": "刘畅不会参与新员工培训杨欢会参与新员工培训",
+          "members": [
+            "N17-013-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D011",
+      "representative": "N13-006-2",
+      "members": [
+        "N13-006-2",
+        "N16-002-1",
+        "P12-006-2",
+        "P5-005-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-002-1"
+    },
+    {
+      "id": "D012",
+      "representative": "N13-007-1",
+      "members": [
+        "N13-007-1",
+        "N14-014-3",
+        "P11-014-3",
+        "P12-007-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N13-007-1"
+    },
+    {
+      "id": "D013",
+      "representative": "N13-007-2",
+      "members": [
+        "N13-007-2",
+        "P12-007-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N13-007-2"
+    },
+    {
+      "id": "D014",
+      "representative": "N13-008-2",
+      "members": [
+        "N13-008-2",
+        "P12-008-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N13-008-2"
+    },
+    {
+      "id": "D015",
+      "representative": "N13-009-1",
+      "members": [
+        "N13-009-1",
+        "P1-004-1",
+        "P12-009-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N13-009-1"
+    },
+    {
+      "id": "D016",
+      "representative": "P1-016-1",
+      "members": [
+        "N13-009-2",
+        "N15-007-4",
+        "P1-016-1",
+        "P10-007-4",
+        "P12-009-2",
+        "P3-033-1"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "P3-033-1"
+    },
+    {
+      "id": "D017",
+      "representative": "N13-012-3",
+      "members": [
+        "N13-012-3",
+        "P12-012-4",
+        "P3-004-1",
+        "P6-005-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-004-1"
+    },
+    {
+      "id": "D018",
+      "representative": "P12-013-1",
+      "members": [
+        "N13-013-1",
+        "P12-013-1"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "N13-013-1"
+    },
+    {
+      "id": "D019",
+      "representative": "N13-013-2",
+      "members": [
+        "N13-013-2",
+        "N14-016-2",
+        "N15-003-1",
+        "N16-017-3",
+        "N17-002-1",
+        "P10-003-1",
+        "P11-016-2",
+        "P12-013-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-002-1"
+    },
+    {
+      "id": "D020",
+      "representative": "N29-003",
+      "members": [
+        "N13-014-1",
+        "N29-003",
+        "P12-014-1",
+        "P9-014-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-003"
+    },
+    {
+      "id": "D021",
+      "representative": "N13-014-2",
+      "members": [
+        "N13-014-2",
+        "N18-013-2",
+        "P1-007-1",
+        "P12-014-2",
+        "P6-014-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N18-013-2"
+    },
+    {
+      "id": "D022",
+      "representative": "N13-015-1",
+      "members": [
+        "N13-015-1",
+        "N15-002-3",
+        "P10-002-4",
+        "P12-015-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P10-002-4"
+    },
+    {
+      "id": "D023",
+      "representative": "N13-015-3",
+      "members": [
+        "N13-015-3",
+        "P12-015-3",
+        "P2-017-1",
+        "P3-001-1",
+        "P4-035-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-001-1"
+    },
+    {
+      "id": "D024",
+      "representative": "P3-028-1",
+      "members": [
+        "N13-016-1",
+        "N14-015-3",
+        "P11-015-3",
+        "P12-016-1",
+        "P3-028-1",
+        "P8-034-2",
+        "P9-005-2"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "P3-028-1"
+    },
+    {
+      "id": "D025",
+      "representative": "N13-016-2",
+      "members": [
+        "N13-016-2",
+        "P12-016-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P12-016-2"
+    },
+    {
+      "id": "D026",
+      "representative": "N13-016-3",
+      "members": [
+        "N13-016-3",
+        "P12-016-3",
+        "P7-017-2"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "P12-016-3",
+      "optionOrderIndependent": true
+    },
+    {
+      "id": "D027",
+      "representative": "N29-005",
+      "members": [
+        "N13-017-1",
+        "N29-005",
+        "P10-013-1",
+        "P12-017-1",
+        "P6-010-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-005"
+    },
+    {
+      "id": "D028",
+      "representative": "N13-017-2",
+      "members": [
+        "N13-017-2",
+        "N17-002-2",
+        "P12-017-2",
+        "P8-016-1",
+        "P9-020-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-002-2"
+    },
+    {
+      "id": "D029",
+      "representative": "P6-005-2",
+      "members": [
+        "N13-017-3",
+        "P12-017-3",
+        "P6-005-2",
+        "P8-036-1",
+        "P9-023-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P8-036-1"
+    },
+    {
+      "id": "D030",
+      "representative": "N13-018-1",
+      "members": [
+        "N13-018-1",
+        "P1-006-3",
+        "P12-018-1",
+        "P2-004-2",
+        "P2-012-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P2-012-1"
+    },
+    {
+      "id": "D031",
+      "representative": "N13-018-2",
+      "members": [
+        "N13-018-2",
+        "P12-018-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P12-018-2"
+    },
+    {
+      "id": "D032",
+      "representative": "N29-006",
+      "members": [
+        "N13-018-3",
+        "N29-006",
+        "P12-018-3",
+        "P9-015-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-006"
+    },
+    {
+      "id": "D033",
+      "representative": "N13-019-1",
+      "members": [
+        "N13-019-1",
+        "P12-019-1",
+        "P8-014-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P8-014-2"
+    },
+    {
+      "id": "D034",
+      "representative": "N13-019-2",
+      "members": [
+        "N13-019-2",
+        "P1-006-2",
+        "P12-019-2",
+        "P3-006-1",
+        "P8-033-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-006-1"
+    },
+    {
+      "id": "D077",
+      "representative": "P9-031-1",
+      "members": [
+        "N13-019-3",
+        "N14-022-1",
+        "N15-014-3",
+        "N18-017-2",
+        "P10-014-3",
+        "P11-022-1",
+        "P12-019-3",
+        "P6-018-3",
+        "P7-002-2",
+        "P8-026-1",
+        "P9-031-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N18-017-2"
+    },
+    {
+      "id": "D035",
+      "representative": "N13-020-1",
+      "members": [
+        "N13-020-1",
+        "P12-020-1",
+        "P7-003-2",
+        "P8-027-1"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "N13-020-1",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "正确",
+          "members": [
+            "P7-003-2",
+            "P12-020-1",
+            "N13-020-1"
+          ]
+        },
+        {
+          "content": "错误",
+          "members": [
+            "P8-027-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D036",
+      "representative": "N13-020-2",
+      "members": [
+        "N13-020-2",
+        "N14-019-3",
+        "N18-017-3",
+        "P11-019-3",
+        "P12-020-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N18-017-3"
+    },
+    {
+      "id": "D037",
+      "representative": "P8-028-2",
+      "members": [
+        "N13-020-4",
+        "N15-016-2",
+        "P10-016-2",
+        "P12-020-4",
+        "P8-028-2"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "P10-016-2"
+    },
+    {
+      "id": "D074",
+      "representative": "P11-019-1",
+      "members": [
+        "N13-021-1",
+        "N14-019-1",
+        "N16-021-1",
+        "N20-004-2",
+        "P11-019-1",
+        "P12-021-1"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "N16-021-1"
+    },
+    {
+      "id": "D038",
+      "representative": "N13-021-2",
+      "members": [
+        "N13-021-2",
+        "N14-020-3",
+        "N15-015-4",
+        "N18-017-4",
+        "P10-015-4",
+        "P11-020-3",
+        "P12-021-2",
+        "P6-018-1",
+        "P7-001-2",
+        "P8-029-1",
+        "P9-034-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N18-017-4"
+    },
+    {
+      "id": "D039",
+      "representative": "N13-021-3",
+      "members": [
+        "N13-021-3",
+        "P12-021-3",
+        "P8-029-2",
+        "P9-032-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N13-021-3"
+    },
+    {
+      "id": "D040",
+      "representative": "N13-022-1",
+      "members": [
+        "N13-022-1",
+        "N14-020-1",
+        "N15-015-1",
+        "N18-017-5",
+        "P10-015-1",
+        "P11-020-1",
+        "P12-022-1",
+        "P6-019-2",
+        "P9-033-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N18-017-5"
+    },
+    {
+      "id": "D075",
+      "representative": "P7-001-3",
+      "members": [
+        "N13-022-2",
+        "N14-020-2",
+        "N15-016-3",
+        "P10-016-3",
+        "P11-020-2",
+        "P12-022-2",
+        "P6-017-3",
+        "P7-001-3",
+        "P8-030-2",
+        "P9-033-2"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "P10-016-3"
+    },
+    {
+      "id": "D041",
+      "representative": "N13-022-3",
+      "members": [
+        "N13-022-3",
+        "N14-021-3",
+        "N15-015-3",
+        "N18-016-3",
+        "P10-015-3",
+        "P11-021-3",
+        "P12-022-3",
+        "P7-001-1",
+        "P8-026-2",
+        "P9-031-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N18-016-3"
+    },
+    {
+      "id": "D042",
+      "representative": "P10-014-2",
+      "members": [
+        "N13-023-1",
+        "N14-022-2",
+        "N15-014-2",
+        "P10-014-2",
+        "P11-022-2",
+        "P12-023-1"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "N15-014-2"
+    },
+    {
+      "id": "D043",
+      "representative": "N14-001-2",
+      "members": [
+        "N14-001-2",
+        "P11-001-2",
+        "P9-006-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P11-001-2"
+    },
+    {
+      "id": "D044",
+      "representative": "N14-002-1",
+      "members": [
+        "N14-002-1",
+        "P11-002-1",
+        "P9-001-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P9-001-1"
+    },
+    {
+      "id": "D045",
+      "representative": "N14-002-2",
+      "members": [
+        "N14-002-2",
+        "N15-005-2",
+        "P10-005-3",
+        "P11-002-2",
+        "P7-021-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-005-2"
+    },
+    {
+      "id": "D189",
+      "representative": "P5-002-1",
+      "members": [
+        "N14-003-1",
+        "P11-003-1",
+        "P5-002-1"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "P5-002-1",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "纸上谈兵循序渐进",
+          "members": [
+            "P5-002-1",
+            "P11-003-1"
+          ]
+        },
+        {
+          "content": "泛泛而谈一步一足印",
+          "members": [
+            "N14-003-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D046",
+      "representative": "N14-004-1",
+      "members": [
+        "N14-004-1",
+        "P11-004-1",
+        "P12-002-1",
+        "P9-020-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P9-020-1"
+    },
+    {
+      "id": "D047",
+      "representative": "N14-004-2",
+      "members": [
+        "N14-004-2",
+        "N15-007-3",
+        "P10-007-3",
+        "P11-004-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P10-007-3"
+    },
+    {
+      "id": "D048",
+      "representative": "N14-004-3",
+      "members": [
+        "N14-004-3",
+        "P11-004-3",
+        "P6-008-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P6-008-1"
+    },
+    {
+      "id": "D049",
+      "representative": "P11-006-1",
+      "members": [
+        "N14-006-1",
+        "P11-006-1"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "N14-006-1"
+    },
+    {
+      "id": "D050",
+      "representative": "N14-006-2",
+      "members": [
+        "N14-006-2",
+        "P11-006-2",
+        "P4-040-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-040-1"
+    },
+    {
+      "id": "D051",
+      "representative": "N14-006-3",
+      "members": [
+        "N14-006-3",
+        "P11-006-3",
+        "P7-027-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N14-006-3"
+    },
+    {
+      "id": "D052",
+      "representative": "N29-048",
+      "members": [
+        "N14-007-1",
+        "N29-048",
+        "P11-007-1",
+        "P2-011-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-048"
+    },
+    {
+      "id": "D053",
+      "representative": "N14-007-2",
+      "members": [
+        "N14-007-2",
+        "N17-004-1",
+        "P11-007-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-004-1"
+    },
+    {
+      "id": "D054",
+      "representative": "N14-007-3",
+      "members": [
+        "N14-007-3",
+        "P11-007-3",
+        "P2-019-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P2-019-1"
+    },
+    {
+      "id": "D055",
+      "representative": "N14-008-1",
+      "members": [
+        "N14-008-1",
+        "P11-008-1",
+        "P7-009-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N14-008-1"
+    },
+    {
+      "id": "D056",
+      "representative": "N14-008-2",
+      "members": [
+        "N14-008-2",
+        "P11-008-2",
+        "P9-022-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P9-022-2"
+    },
+    {
+      "id": "D190",
+      "representative": "P3-027-1",
+      "members": [
+        "N14-008-3",
+        "P11-008-3",
+        "P3-027-1"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "P3-027-1",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "了解项目进程滞后的原因找出问题的关键所在",
+          "members": [
+            "P3-027-1",
+            "P11-008-3"
+          ]
+        },
+        {
+          "content": "对项目人员进行重新梳理重新分工",
+          "members": [
+            "N14-008-3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D057",
+      "representative": "P4-013-1",
+      "members": [
+        "N14-009-1",
+        "P11-009-1",
+        "P4-013-1",
+        "P8-018-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-013-1"
+    },
+    {
+      "id": "D058",
+      "representative": "N14-009-2",
+      "members": [
+        "N14-009-2",
+        "P11-009-2",
+        "P8-001-2",
+        "P8-032-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N14-009-2"
+    },
+    {
+      "id": "D059",
+      "representative": "N14-010-2",
+      "members": [
+        "N14-010-2",
+        "N16-015-3",
+        "P11-010-3",
+        "P4-025-1",
+        "P8-011-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-015-3"
+    },
+    {
+      "id": "R001",
+      "representative": "N14-012-3",
+      "members": [
+        "N14-012-3",
+        "P11-012-3",
+        "P3-023-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-023-2"
+    },
+    {
+      "id": "D060",
+      "representative": "N14-013-1",
+      "members": [
+        "N14-013-1",
+        "P11-013-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P11-013-1"
+    },
+    {
+      "id": "D061",
+      "representative": "N14-013-2",
+      "members": [
+        "N14-013-2",
+        "P11-013-2",
+        "P4-003-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-003-1"
+    },
+    {
+      "id": "D062",
+      "representative": "P4-010-1",
+      "members": [
+        "N14-013-3",
+        "P11-013-3",
+        "P3-041-1",
+        "P4-010-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-010-1"
+    },
+    {
+      "id": "D063",
+      "representative": "N14-014-1",
+      "members": [
+        "N14-014-1",
+        "P11-014-1",
+        "P5-010-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P5-010-3"
+    },
+    {
+      "id": "D064",
+      "representative": "N29-018",
+      "members": [
+        "N14-014-2",
+        "N29-018",
+        "P11-014-2",
+        "P2-006-1",
+        "P2-015-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-018"
+    },
+    {
+      "id": "D065",
+      "representative": "N14-015-1",
+      "members": [
+        "N14-015-1",
+        "P11-015-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N14-015-1"
+    },
+    {
+      "id": "D066",
+      "representative": "N14-015-2",
+      "members": [
+        "N14-015-2",
+        "N17-007-3",
+        "P11-015-2",
+        "P3-012-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-007-3"
+    },
+    {
+      "id": "D067",
+      "representative": "N14-016-1",
+      "members": [
+        "N14-016-1",
+        "P11-016-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P11-016-1"
+    },
+    {
+      "id": "D068",
+      "representative": "P11-016-3",
+      "members": [
+        "N14-016-3",
+        "P11-016-3"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "N14-016-3"
+    },
+    {
+      "id": "D069",
+      "representative": "N14-017-1",
+      "members": [
+        "N14-017-1",
+        "P11-017-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P11-017-1"
+    },
+    {
+      "id": "D070",
+      "representative": "N14-017-3",
+      "members": [
+        "N14-017-3",
+        "P11-017-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P11-017-3"
+    },
+    {
+      "id": "D071",
+      "representative": "N14-018-1",
+      "members": [
+        "N14-018-1",
+        "P11-018-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N14-018-1"
+    },
+    {
+      "id": "D072",
+      "representative": "N14-018-2",
+      "members": [
+        "N14-018-2",
+        "P11-018-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P11-018-2"
+    },
+    {
+      "id": "D073",
+      "representative": "N14-018-3",
+      "members": [
+        "N14-018-3",
+        "N15-008-3",
+        "N17-008-3",
+        "P10-008-3",
+        "P11-018-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-008-3"
+    },
+    {
+      "id": "D098",
+      "representative": "P7-003-4",
+      "members": [
+        "N14-019-2",
+        "N15-016-1",
+        "P10-016-1",
+        "P11-019-2",
+        "P7-003-4",
+        "P9-032-1"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "P10-016-1"
+    },
+    {
+      "id": "D143",
+      "representative": "P7-003-1",
+      "members": [
+        "N14-021-1",
+        "N15-016-4",
+        "N18-016-5",
+        "P10-016-4",
+        "P11-021-1",
+        "P7-003-1",
+        "P8-027-3",
+        "P9-034-1"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "N18-016-5"
+    },
+    {
+      "id": "D076",
+      "representative": "P2-022-3",
+      "members": [
+        "N14-021-2",
+        "N15-014-4",
+        "N18-016-2",
+        "N20-001-3",
+        "P10-014-4",
+        "P11-021-2",
+        "P2-022-3",
+        "P2-025-1",
+        "P4-052-1"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "N18-016-2"
+    },
+    {
+      "id": "D078",
+      "representative": "N15-001-1",
+      "members": [
+        "N15-001-1",
+        "P10-001-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-001-1"
+    },
+    {
+      "id": "D184",
+      "representative": "P9-016-2",
+      "members": [
+        "N15-001-2",
+        "P10-001-2",
+        "P9-016-2"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "P10-001-2",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "某市启动智慧城市建设项目短时间内实现了城市信息化水平的大幅提升",
+          "members": [
+            "P9-016-2",
+            "P10-001-2"
+          ]
+        },
+        {
+          "content": "某零售企业对其销售策略进行了全面调整完全不同于过去的市场推广模式",
+          "members": [
+            "N15-001-2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D079",
+      "representative": "N29-023",
+      "members": [
+        "N15-001-3",
+        "N29-023",
+        "P10-001-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-023"
+    },
+    {
+      "id": "R002",
+      "representative": "N15-001-4",
+      "members": [
+        "N15-001-4",
+        "P10-001-4"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-001-4"
+    },
+    {
+      "id": "D080",
+      "representative": "N15-002-4",
+      "members": [
+        "N15-002-4",
+        "P10-002-5"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P10-002-5"
+    },
+    {
+      "id": "D081",
+      "representative": "N15-003-2",
+      "members": [
+        "N15-003-2",
+        "P10-003-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P10-003-2"
+    },
+    {
+      "id": "D082",
+      "representative": "N15-003-3",
+      "members": [
+        "N15-003-3",
+        "P10-003-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-003-3"
+    },
+    {
+      "id": "D083",
+      "representative": "N15-003-4",
+      "members": [
+        "N15-003-4",
+        "P10-003-4",
+        "P4-023-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-023-1"
+    },
+    {
+      "id": "D084",
+      "representative": "N15-005-3",
+      "members": [
+        "N15-005-3",
+        "P10-005-4",
+        "P4-004-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-004-1"
+    },
+    {
+      "id": "D085",
+      "representative": "N29-036",
+      "members": [
+        "N15-006-1",
+        "N17-006-2",
+        "N29-036",
+        "P10-006-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-036"
+    },
+    {
+      "id": "O001",
+      "representative": "P10-007-1",
+      "members": [
+        "N15-007-1",
+        "P10-007-1"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "人工智能可能会带来人类劳动力供大于求的后果",
+          "members": [
+            "P10-007-1"
+          ]
+        },
+        {
+          "content": "任何科技的创新突破都是把双刃剑在推动社会进步的同时也会付出一些代价",
+          "members": [
+            "N15-007-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D086",
+      "representative": "N15-007-2",
+      "members": [
+        "N15-007-2",
+        "P10-007-2",
+        "P5-004-3",
+        "P6-012-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P5-004-3"
+    },
+    {
+      "id": "D087",
+      "representative": "N15-008-1",
+      "members": [
+        "N15-008-1",
+        "N17-007-1",
+        "P10-008-1",
+        "P5-005-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-007-1"
+    },
+    {
+      "id": "D088",
+      "representative": "N15-008-2",
+      "members": [
+        "N15-008-2",
+        "P10-008-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-008-2"
+    },
+    {
+      "id": "D089",
+      "representative": "P4-008-1",
+      "members": [
+        "N15-008-4",
+        "N17-011-3",
+        "P10-008-4",
+        "P4-008-1"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "N17-011-3"
+    },
+    {
+      "id": "D090",
+      "representative": "N29-022",
+      "members": [
+        "N15-009-2",
+        "N29-022",
+        "P10-009-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-022"
+    },
+    {
+      "id": "R003",
+      "representative": "N15-010-2",
+      "members": [
+        "N15-010-2",
+        "P10-010-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-010-2"
+    },
+    {
+      "id": "R004",
+      "representative": "N15-011-1",
+      "members": [
+        "N15-011-1",
+        "P10-011-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-011-1"
+    },
+    {
+      "id": "R005",
+      "representative": "N15-011-2",
+      "members": [
+        "N15-011-2",
+        "P10-011-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-011-2"
+    },
+    {
+      "id": "D091",
+      "representative": "N15-011-3",
+      "members": [
+        "N15-011-3",
+        "P10-011-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P10-011-3"
+    },
+    {
+      "id": "D092",
+      "representative": "N15-011-4",
+      "members": [
+        "N15-011-4",
+        "P10-011-4",
+        "P8-007-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P8-007-1"
+    },
+    {
+      "id": "D093",
+      "representative": "N15-012-1",
+      "members": [
+        "N15-012-1",
+        "N16-008-3",
+        "P10-012-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-008-3"
+    },
+    {
+      "id": "D094",
+      "representative": "P10-012-4",
+      "members": [
+        "N15-012-3",
+        "P10-012-4"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "P10-012-4"
+    },
+    {
+      "id": "D095",
+      "representative": "N15-012-4",
+      "members": [
+        "N15-012-4",
+        "P10-012-5",
+        "P8-010-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-012-4"
+    },
+    {
+      "id": "O002",
+      "representative": "P10-013-2",
+      "members": [
+        "N15-013-2",
+        "P10-013-2"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "党中央坚强有力领导是我们战胜一切困难和风险的根本保证",
+          "members": [
+            "P10-013-2"
+          ]
+        },
+        {
+          "content": "党性党纪党风是有机整体党性是根本党纪是表现党风是保障",
+          "members": [
+            "N15-013-2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D096",
+      "representative": "N15-013-4",
+      "members": [
+        "N15-013-4",
+        "P10-013-4"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-013-4"
+    },
+    {
+      "id": "D097",
+      "representative": "N15-013-5",
+      "members": [
+        "N15-013-5",
+        "P10-013-5"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N15-013-5"
+    },
+    {
+      "id": "D171",
+      "representative": "P9-029-2",
+      "members": [
+        "N15-014-1",
+        "N29-049",
+        "P10-014-1",
+        "P9-029-2"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "N29-049"
+    },
+    {
+      "id": "S003",
+      "representative": "P10-015-2",
+      "members": [
+        "N15-015-2",
+        "P10-015-2",
+        "P8-028-1"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "N15-015-2",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "一",
+          "members": [
+            "P8-028-1"
+          ]
+        },
+        {
+          "content": "二",
+          "members": [
+            "P10-015-2",
+            "N15-015-2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D100",
+      "representative": "N16-001-2",
+      "members": [
+        "N16-001-2",
+        "P2-005-2",
+        "P8-023-1",
+        "P9-027-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-001-2"
+    },
+    {
+      "id": "D101",
+      "representative": "N16-009-1",
+      "members": [
+        "N16-009-1",
+        "P6-012-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-009-1"
+    },
+    {
+      "id": "D102",
+      "representative": "N16-009-2",
+      "members": [
+        "N16-009-2",
+        "N17-001-3"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-001-3"
+    },
+    {
+      "id": "D103",
+      "representative": "N16-010-2",
+      "members": [
+        "N16-010-2",
+        "P4-027-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-010-2"
+    },
+    {
+      "id": "D104",
+      "representative": "N29-017",
+      "members": [
+        "N16-011-1",
+        "N29-017",
+        "P6-017-1",
+        "P7-006-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-017"
+    },
+    {
+      "id": "D105",
+      "representative": "N16-012-1",
+      "members": [
+        "N16-012-1",
+        "P7-018-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-012-1"
+    },
+    {
+      "id": "R006",
+      "representative": "N16-013-1",
+      "members": [
+        "N16-013-1",
+        "P8-024-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-013-1"
+    },
+    {
+      "id": "D106",
+      "representative": "N16-014-1",
+      "members": [
+        "N16-014-1",
+        "P6-002-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-014-1"
+    },
+    {
+      "id": "D107",
+      "representative": "P6-009-3",
+      "members": [
+        "N16-014-2",
+        "P6-009-3",
+        "P9-024-2"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "N16-014-2"
+    },
+    {
+      "id": "D108",
+      "representative": "N16-015-2",
+      "members": [
+        "N16-015-2",
+        "P7-023-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-015-2"
+    },
+    {
+      "id": "D109",
+      "representative": "N29-004",
+      "members": [
+        "N16-017-2",
+        "N29-004"
+      ],
+      "crossFormat": false,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "N16-017-2"
+    },
+    {
+      "id": "D110",
+      "representative": "N16-018-1",
+      "members": [
+        "N16-018-1",
+        "N17-017-2",
+        "P5-009-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-017-2"
+    },
+    {
+      "id": "D111",
+      "representative": "N16-018-2",
+      "members": [
+        "N16-018-2",
+        "P5-003-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-018-2"
+    },
+    {
+      "id": "D112",
+      "representative": "N16-019-1",
+      "members": [
+        "N16-019-1",
+        "P10-006-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-019-1"
+    },
+    {
+      "id": "SEQ001",
+      "representative": "P1-003-3",
+      "members": [
+        "N16-020-2",
+        "P1-003-3"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "N16-020-2"
+    },
+    {
+      "id": "D113",
+      "representative": "N16-020-3",
+      "members": [
+        "N16-020-3",
+        "P8-001-1",
+        "P8-032-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-020-3"
+    },
+    {
+      "id": "D114",
+      "representative": "N16-021-2",
+      "members": [
+        "N16-021-2",
+        "P7-004-1",
+        "P9-030-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N16-021-2"
+    },
+    {
+      "id": "D115",
+      "representative": "N29-056",
+      "members": [
+        "N16-022-1",
+        "N29-056",
+        "P3-056-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-056"
+    },
+    {
+      "id": "D116",
+      "representative": "P1-001-2",
+      "members": [
+        "N16-022-2",
+        "N17-021-1",
+        "N29-053",
+        "P1-001-2"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "N29-053",
+      "answerVariants": [
+        {
+          "content": "正确",
+          "members": [
+            "N16-022-2",
+            "N17-021-1",
+            "P1-001-2"
+          ]
+        },
+        {
+          "content": "错误",
+          "members": [
+            "N29-053"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D174",
+      "representative": "P1-002-3",
+      "members": [
+        "N16-022-3",
+        "P1-002-3",
+        "P4-048-1"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "N16-022-3"
+    },
+    {
+      "id": "D117",
+      "representative": "N16-023-1",
+      "members": [
+        "N16-023-1",
+        "N17-020-1",
+        "N20-004-1",
+        "P1-001-4"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N20-004-1"
+    },
+    {
+      "id": "D118",
+      "representative": "P3-049-1",
+      "members": [
+        "N16-023-2",
+        "P2-024-3",
+        "P3-049-1",
+        "P4-057-1"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "P3-049-1"
+    },
+    {
+      "id": "D119",
+      "representative": "N29-057",
+      "members": [
+        "N16-023-3",
+        "N29-057",
+        "P1-002-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-057"
+    },
+    {
+      "id": "D120",
+      "representative": "N16-024-1",
+      "members": [
+        "N16-024-1",
+        "N17-019-4"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-019-4"
+    },
+    {
+      "id": "D121",
+      "representative": "N29-054",
+      "members": [
+        "N16-024-2",
+        "N29-054"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-054"
+    },
+    {
+      "id": "D122",
+      "representative": "N17-001-2",
+      "members": [
+        "N17-001-2",
+        "P8-015-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-001-2"
+    },
+    {
+      "id": "D123",
+      "representative": "N17-002-3",
+      "members": [
+        "N17-002-3",
+        "P9-018-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-002-3"
+    },
+    {
+      "id": "D124",
+      "representative": "N29-038",
+      "members": [
+        "N17-006-3",
+        "N29-038",
+        "P1-013-1",
+        "P8-024-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-038"
+    },
+    {
+      "id": "D125",
+      "representative": "N17-007-2",
+      "members": [
+        "N17-007-2",
+        "P9-017-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-007-2"
+    },
+    {
+      "id": "D126",
+      "representative": "N17-008-1",
+      "members": [
+        "N17-008-1",
+        "P9-008-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-008-1"
+    },
+    {
+      "id": "D127",
+      "representative": "N17-009-2",
+      "members": [
+        "N17-009-2",
+        "P3-036-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-009-2"
+    },
+    {
+      "id": "D128",
+      "representative": "N17-012-2",
+      "members": [
+        "N17-012-2",
+        "P5-003-2",
+        "P9-025-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-012-2"
+    },
+    {
+      "id": "D129",
+      "representative": "N29-047",
+      "members": [
+        "N17-012-3",
+        "N29-047"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-047"
+    },
+    {
+      "id": "D130",
+      "representative": "N17-013-3",
+      "members": [
+        "N17-013-3",
+        "P2-002-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-013-3"
+    },
+    {
+      "id": "D131",
+      "representative": "N17-016-1",
+      "members": [
+        "N17-016-1",
+        "P5-012-4"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-016-1"
+    },
+    {
+      "id": "D132",
+      "representative": "N17-016-3",
+      "members": [
+        "N17-016-3",
+        "P4-007-1",
+        "P5-007-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-016-3"
+    },
+    {
+      "id": "D133",
+      "representative": "P7-016-3",
+      "members": [
+        "N17-017-1",
+        "P7-016-3"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "N17-017-1"
+    },
+    {
+      "id": "D134",
+      "representative": "N17-018-2",
+      "members": [
+        "N17-018-2",
+        "P1-005-2",
+        "P2-020-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-018-2"
+    },
+    {
+      "id": "D135",
+      "representative": "N29-059",
+      "members": [
+        "N17-018-3",
+        "N20-002-1",
+        "N29-059",
+        "P2-021-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-059"
+    },
+    {
+      "id": "D136",
+      "representative": "N17-019-1",
+      "members": [
+        "N17-019-1",
+        "P2-020-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-019-1"
+    },
+    {
+      "id": "O003",
+      "representative": "P1-003-2",
+      "members": [
+        "N17-019-2",
+        "P1-003-2"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "40 / 70",
+          "members": [
+            "P1-003-2"
+          ]
+        },
+        {
+          "content": "50 / 70",
+          "members": [
+            "N17-019-2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D148",
+      "representative": "P2-023-2",
+      "members": [
+        "N17-019-3",
+        "N20-002-3",
+        "P2-023-2"
+      ],
+      "crossFormat": true,
+      "reason": "短题干已对照原图，补齐漏识别选项，按选项含义及各卷排列确认同题。",
+      "proofreadSource": "N20-002-3"
+    },
+    {
+      "id": "D137",
+      "representative": "N29-052",
+      "members": [
+        "N17-020-2",
+        "N20-003-3",
+        "N29-052"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-052"
+    },
+    {
+      "id": "D138",
+      "representative": "N29-050",
+      "members": [
+        "N17-021-2",
+        "N29-050"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-050"
+    },
+    {
+      "id": "D139",
+      "representative": "P2-023-1",
+      "members": [
+        "N17-021-4",
+        "P2-023-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N17-021-4"
+    },
+    {
+      "id": "D140",
+      "representative": "N18-016-1",
+      "members": [
+        "N18-016-1",
+        "P3-047-1",
+        "P6-018-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-047-1"
+    },
+    {
+      "id": "D142",
+      "representative": "N20-001-2",
+      "members": [
+        "N18-016-4",
+        "N20-001-2",
+        "P1-001-1",
+        "P2-024-1",
+        "P7-002-1",
+        "P8-027-2",
+        "P9-029-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N20-001-2"
+    },
+    {
+      "id": "D144",
+      "representative": "N18-017-1",
+      "members": [
+        "N13-020-3",
+        "N14-021-4",
+        "N18-017-1",
+        "N20-001-4",
+        "P11-021-4",
+        "P12-020-3",
+        "P7-002-3",
+        "P9-030-2"
+      ],
+      "crossFormat": true,
+      "reason": "逐项对照原图，补回未识别题干的截图版本；题干与选项内容相同，忽略选项排列顺序归为同题。",
+      "proofreadSource": "N20-001-4"
+    },
+    {
+      "id": "D146",
+      "representative": "N18-017-6",
+      "members": [
+        "N18-017-6",
+        "N18-017-7"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N18-017-7"
+    },
+    {
+      "id": "D147",
+      "representative": "N20-002-2",
+      "members": [
+        "N20-002-2",
+        "P3-046-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-046-1"
+    },
+    {
+      "id": "D149",
+      "representative": "N20-003-1",
+      "members": [
+        "N20-003-1",
+        "P1-003-1",
+        "P4-053-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N20-003-1"
+    },
+    {
+      "id": "D150",
+      "representative": "N21-002",
+      "members": [
+        "N21-002",
+        "N27-014"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N27-014"
+    },
+    {
+      "id": "D151",
+      "representative": "N22-010",
+      "members": [
+        "N21-009",
+        "N22-010"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N22-010"
+    },
+    {
+      "id": "D152",
+      "representative": "N21-025",
+      "members": [
+        "N21-025",
+        "N24-023"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N24-023"
+    },
+    {
+      "id": "D153",
+      "representative": "N24-014",
+      "members": [
+        "N24-014",
+        "N25-009"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N25-009"
+    },
+    {
+      "id": "D154",
+      "representative": "N26-054",
+      "members": [
+        "N26-054",
+        "N27-046"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N26-054"
+    },
+    {
+      "id": "R007",
+      "representative": "N26-065",
+      "members": [
+        "N26-065",
+        "N27-067"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N26-065"
+    },
+    {
+      "id": "R008",
+      "representative": "N26-072",
+      "members": [
+        "N26-072",
+        "N27-062"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N26-072"
+    },
+    {
+      "id": "D155",
+      "representative": "N29-001",
+      "members": [
+        "N29-001",
+        "P1-007-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-001"
+    },
+    {
+      "id": "D156",
+      "representative": "N29-002",
+      "members": [
+        "N29-002",
+        "P1-013-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-002"
+    },
+    {
+      "id": "D157",
+      "representative": "N29-007",
+      "members": [
+        "N29-007",
+        "P3-025-1",
+        "P6-004-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-007"
+    },
+    {
+      "id": "D158",
+      "representative": "N29-008",
+      "members": [
+        "N29-008",
+        "P9-021-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-008"
+    },
+    {
+      "id": "D159",
+      "representative": "N29-015",
+      "members": [
+        "N29-015",
+        "P3-044-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-015"
+    },
+    {
+      "id": "D160",
+      "representative": "N29-016",
+      "members": [
+        "N29-016",
+        "P5-012-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-016"
+    },
+    {
+      "id": "D161",
+      "representative": "N29-020",
+      "members": [
+        "N29-020",
+        "P12-005-3"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-020"
+    },
+    {
+      "id": "D162",
+      "representative": "N29-021",
+      "members": [
+        "N29-021",
+        "P7-020-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-021"
+    },
+    {
+      "id": "O004",
+      "representative": "N29-024",
+      "members": [
+        "N29-024",
+        "P4-005-1"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "严阵以待",
+          "members": [
+            "P4-005-1"
+          ]
+        },
+        {
+          "content": "精益求精",
+          "members": [
+            "N29-024"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D163",
+      "representative": "N29-025",
+      "members": [
+        "N29-025",
+        "P10-006-2",
+        "P11-005-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-025"
+    },
+    {
+      "id": "D164",
+      "representative": "N29-027",
+      "members": [
+        "N29-027",
+        "P1-004-3",
+        "P4-032-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-027"
+    },
+    {
+      "id": "D165",
+      "representative": "N29-028",
+      "members": [
+        "N29-028",
+        "P7-007-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-028"
+    },
+    {
+      "id": "SEQ008",
+      "representative": "P7-009-1",
+      "members": [
+        "N29-030",
+        "P7-009-1"
+      ],
+      "crossFormat": true,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "N29-030"
+    },
+    {
+      "id": "D166",
+      "representative": "N29-031",
+      "members": [
+        "N29-031",
+        "P5-002-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-031"
+    },
+    {
+      "id": "D167",
+      "representative": "N29-032",
+      "members": [
+        "N29-032",
+        "P3-045-1",
+        "P8-017-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-032"
+    },
+    {
+      "id": "D168",
+      "representative": "N29-033",
+      "members": [
+        "N29-033",
+        "P8-002-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-033"
+    },
+    {
+      "id": "D169",
+      "representative": "N29-037",
+      "members": [
+        "N29-037",
+        "P8-021-2"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-037"
+    },
+    {
+      "id": "D170",
+      "representative": "N29-041",
+      "members": [
+        "N29-041",
+        "P12-008-1",
+        "P9-013-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-041"
+    },
+    {
+      "id": "D172",
+      "representative": "N29-055",
+      "members": [
+        "N29-055",
+        "P3-048-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-055"
+    },
+    {
+      "id": "D173",
+      "representative": "N29-058",
+      "members": [
+        "N29-058",
+        "P1-001-3",
+        "P3-050-1",
+        "P4-050-1"
+      ],
+      "crossFormat": true,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "N29-058"
+    },
+    {
+      "id": "D198",
+      "representative": "P2-020-2",
+      "members": [
+        "N29-060",
+        "P2-020-2",
+        "P3-055-1"
+      ],
+      "crossFormat": true,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "P3-055-1",
+      "optionOrderIndependent": true
+    },
+    {
+      "id": "D175",
+      "representative": "P6-010-1",
+      "members": [
+        "P1-009-1",
+        "P6-010-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P6-010-1"
+    },
+    {
+      "id": "D176",
+      "representative": "P1-011-3",
+      "members": [
+        "P1-011-3",
+        "P6-005-3"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P6-005-3"
+    },
+    {
+      "id": "D177",
+      "representative": "P2-008-1",
+      "members": [
+        "P1-012-2",
+        "P2-008-1",
+        "P4-014-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-014-1"
+    },
+    {
+      "id": "D178",
+      "representative": "P7-025-2",
+      "members": [
+        "P1-012-3",
+        "P7-025-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P1-012-3"
+    },
+    {
+      "id": "D179",
+      "representative": "P1-013-3",
+      "members": [
+        "P1-013-3",
+        "P8-003-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P8-003-1"
+    },
+    {
+      "id": "D180",
+      "representative": "P1-014-1",
+      "members": [
+        "P1-014-1",
+        "P1-016-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P1-014-1"
+    },
+    {
+      "id": "D181",
+      "representative": "P2-013-1",
+      "members": [
+        "P1-014-2",
+        "P2-013-1",
+        "P4-039-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-039-1"
+    },
+    {
+      "id": "D182",
+      "representative": "P1-015-3",
+      "members": [
+        "P1-015-3",
+        "P8-004-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P1-015-3"
+    },
+    {
+      "id": "D183",
+      "representative": "P1-017-1",
+      "members": [
+        "P1-017-1",
+        "P9-014-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P9-014-2"
+    },
+    {
+      "id": "D185",
+      "representative": "P4-012-1",
+      "members": [
+        "P10-004-1",
+        "P4-012-1",
+        "P8-015-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-012-1"
+    },
+    {
+      "id": "D186",
+      "representative": "P8-002-1",
+      "members": [
+        "P10-004-4",
+        "P8-002-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P10-004-4"
+    },
+    {
+      "id": "D188",
+      "representative": "P5-006-3",
+      "members": [
+        "P11-001-1",
+        "P5-006-3",
+        "P7-026-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P5-006-3"
+    },
+    {
+      "id": "D202",
+      "representative": "P3-022-2",
+      "members": [
+        "P11-012-2",
+        "P3-022-2",
+        "P3-023-1"
+      ],
+      "crossFormat": false,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "P3-022-2",
+      "optionOrderIndependent": true
+    },
+    {
+      "id": "D191",
+      "representative": "P2-005-1",
+      "members": [
+        "P12-015-2",
+        "P2-005-1",
+        "P2-012-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P12-015-2"
+    },
+    {
+      "id": "D192",
+      "representative": "P2-003-1",
+      "members": [
+        "P2-003-1",
+        "P2-014-1",
+        "P8-008-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P2-003-1"
+    },
+    {
+      "id": "D193",
+      "representative": "P2-003-2",
+      "members": [
+        "P2-003-2",
+        "P2-015-1"
+      ],
+      "crossFormat": false,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "P2-015-1"
+    },
+    {
+      "id": "D194",
+      "representative": "P2-004-1",
+      "members": [
+        "P2-004-1",
+        "P6-008-3"
+      ],
+      "crossFormat": false,
+      "reason": "数列逐项一致（保留负号、小数、分数及空位）；选项换序后内容与答案对应一致。",
+      "proofreadSource": "P2-004-1"
+    },
+    {
+      "id": "D195",
+      "representative": "P2-006-2",
+      "members": [
+        "P2-006-2",
+        "P2-014-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P2-006-2"
+    },
+    {
+      "id": "D196",
+      "representative": "P3-010-1",
+      "members": [
+        "P2-007-2",
+        "P2-013-2",
+        "P3-010-1",
+        "P6-013-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-010-1"
+    },
+    {
+      "id": "D212",
+      "representative": "P8-019-1",
+      "members": [
+        "P2-018-1",
+        "P5-009-1",
+        "P8-019-1"
+      ],
+      "crossFormat": false,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "P5-009-1",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "20年",
+          "members": [
+            "P2-018-1"
+          ]
+        },
+        {
+          "content": "30年",
+          "members": [
+            "P5-009-1",
+            "P8-019-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D197",
+      "representative": "P2-018-2",
+      "members": [
+        "P2-018-2",
+        "P7-007-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P7-007-1"
+    },
+    {
+      "id": "D199",
+      "representative": "P2-021-2",
+      "members": [
+        "P2-021-2",
+        "P3-051-1",
+        "P4-056-1"
+      ],
+      "crossFormat": false,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "proofreadSource": "P4-056-1",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "创造绿色价值",
+          "members": [
+            "P2-021-2",
+            "P4-056-1"
+          ]
+        },
+        {
+          "content": "建设具有全球竞争力的世界一流清洁能源企业",
+          "members": [
+            "P3-051-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D200",
+      "representative": "P3-017-1",
+      "members": [
+        "P3-017-1",
+        "P5-011-1",
+        "P7-008-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-017-1"
+    },
+    {
+      "id": "D201",
+      "representative": "P3-021-2",
+      "members": [
+        "P3-021-2",
+        "P3-022-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-022-1"
+    },
+    {
+      "id": "D203",
+      "representative": "P3-024-1",
+      "members": [
+        "P3-024-1",
+        "P8-014-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-024-1"
+    },
+    {
+      "id": "O005",
+      "representative": "P3-029-1",
+      "members": [
+        "P3-029-1",
+        "P8-004-1"
+      ],
+      "crossFormat": false,
+      "reason": "已对照原图：题干和选项内容相同，忽略选项排列顺序归为同题；参考答案分歧单独记录，不阻止去重。",
+      "optionOrderIndependent": true,
+      "answerVariants": [
+        {
+          "content": "261354",
+          "members": [
+            "P3-029-1"
+          ]
+        },
+        {
+          "content": "634215",
+          "members": [
+            "P8-004-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D204",
+      "representative": "P7-026-2",
+      "members": [
+        "P3-031-1",
+        "P7-026-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-031-1"
+    },
+    {
+      "id": "D206",
+      "representative": "P3-043-1",
+      "members": [
+        "P3-043-1",
+        "P9-007-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P3-043-1"
+    },
+    {
+      "id": "D207",
+      "representative": "P3-054-1",
+      "members": [
+        "N17-021-3",
+        "P3-054-1",
+        "P4-055-1"
+      ],
+      "crossFormat": true,
+      "reason": "逐项对照原图，补回未识别题干的截图版本；题干与选项内容相同，忽略选项排列顺序归为同题。",
+      "proofreadSource": "P4-055-1"
+    },
+    {
+      "id": "D208",
+      "representative": "P4-009-1",
+      "members": [
+        "P4-009-1",
+        "P5-013-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-009-1"
+    },
+    {
+      "id": "D209",
+      "representative": "P7-016-1",
+      "members": [
+        "P4-026-1",
+        "P7-016-1",
+        "P7-016-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P4-026-1"
+    },
+    {
+      "id": "D210",
+      "representative": "P5-004-1",
+      "members": [
+        "P5-004-1",
+        "P8-005-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P5-004-1"
+    },
+    {
+      "id": "D211",
+      "representative": "P6-011-3",
+      "members": [
+        "P5-007-2",
+        "P5-008-1",
+        "P6-011-3"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P5-007-2"
+    },
+    {
+      "id": "D213",
+      "representative": "P5-009-4",
+      "members": [
+        "P5-009-4",
+        "P6-014-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P5-009-4"
+    },
+    {
+      "id": "D214",
+      "representative": "P6-012-2",
+      "members": [
+        "P5-010-2",
+        "P6-012-2",
+        "P7-019-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P5-010-2"
+    },
+    {
+      "id": "D215",
+      "representative": "P7-019-2",
+      "members": [
+        "P6-006-1",
+        "P7-019-2"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P7-019-2"
+    },
+    {
+      "id": "D216",
+      "representative": "P7-004-2",
+      "members": [
+        "P7-004-2",
+        "P8-030-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P8-030-1"
+    },
+    {
+      "id": "D217",
+      "representative": "P7-015-3",
+      "members": [
+        "P7-015-3",
+        "P9-024-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P9-024-1"
+    },
+    {
+      "id": "D218",
+      "representative": "P7-018-2",
+      "members": [
+        "P7-018-2",
+        "P9-016-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P9-016-1"
+    },
+    {
+      "id": "D219",
+      "representative": "P8-022-1",
+      "members": [
+        "P8-022-1",
+        "P9-028-1"
+      ],
+      "crossFormat": false,
+      "reason": "已核对题干、选项及来源；包含题干识别残缺、错字、换序和截图重复。",
+      "proofreadSource": "P9-028-1"
+    }
+  ],
+  "acceptedEdges": [
+    {
+      "a": "P1-001-1",
+      "b": "P2-024-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-1",
+      "b": "N20-001-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-002-1",
+      "b": "P8-027-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-002-1",
+      "b": "P9-029-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-002-1",
+      "b": "N18-016-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-030-2",
+      "b": "P9-033-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-030-2",
+      "b": "P11-020-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-030-2",
+      "b": "N14-020-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-2",
+      "b": "N29-053",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-2",
+      "b": "N16-022-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-3",
+      "b": "P4-050-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-3",
+      "b": "N29-058",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-4",
+      "b": "N16-023-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-4",
+      "b": "N17-020-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-4",
+      "b": "N20-004-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-002-3",
+      "b": "P4-048-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-003-1",
+      "b": "P4-053-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-003-1",
+      "b": "N20-003-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-020-2",
+      "b": "P3-055-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-021-1",
+      "b": "N29-059",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-021-1",
+      "b": "N17-018-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-021-1",
+      "b": "N20-002-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-021-2",
+      "b": "P4-056-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-022-3",
+      "b": "P4-052-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-023-2",
+      "b": "N20-002-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-046-1",
+      "b": "N20-002-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-048-1",
+      "b": "N29-055",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-054-1",
+      "b": "P4-055-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N29-050",
+      "b": "N17-021-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N29-052",
+      "b": "N17-020-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N29-052",
+      "b": "N20-003-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N29-054",
+      "b": "N16-024-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N29-056",
+      "b": "N16-022-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N29-057",
+      "b": "N16-023-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N16-024-1",
+      "b": "N17-019-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-1",
+      "b": "P8-029-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-1",
+      "b": "P9-034-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-1",
+      "b": "P10-015-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-1",
+      "b": "P11-020-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-1",
+      "b": "P12-021-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-1",
+      "b": "N14-020-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-1",
+      "b": "N15-015-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-1",
+      "b": "N18-017-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-2",
+      "b": "N18-016-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-033-1",
+      "b": "P10-015-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-033-1",
+      "b": "P11-020-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-033-1",
+      "b": "P12-022-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-033-1",
+      "b": "N13-022-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-033-1",
+      "b": "N14-020-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-033-1",
+      "b": "N15-015-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-033-1",
+      "b": "N18-017-5",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-031-1",
+      "b": "N18-017-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-019-1",
+      "b": "P12-021-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-029-2",
+      "b": "P10-014-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-004-3",
+      "b": "N14-004-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-2",
+      "b": "P12-020-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-2",
+      "b": "N13-020-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-016-1",
+      "b": "P10-007-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-016-1",
+      "b": "P12-009-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-016-1",
+      "b": "N15-007-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-003-2",
+      "b": "P2-015-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-004-1",
+      "b": "P6-008-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-009-3",
+      "b": "P9-024-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-009-3",
+      "b": "N16-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-005-2",
+      "b": "P11-015-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-005-2",
+      "b": "P12-016-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-005-2",
+      "b": "N14-015-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-008-4",
+      "b": "N15-008-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-012-4",
+      "b": "N15-012-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-006-1",
+      "b": "N14-006-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-013-1",
+      "b": "N13-013-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N29-004",
+      "b": "N16-017-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-028-2",
+      "b": "P10-016-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-028-2",
+      "b": "P12-020-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N13-020-4",
+      "b": "N15-016-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N18-017-6",
+      "b": "N18-017-7",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-005-3",
+      "b": "P11-002-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-005-3",
+      "b": "N14-002-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-005-3",
+      "b": "N15-005-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-002-2",
+      "b": "N29-031",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-013-1",
+      "b": "P12-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-013-1",
+      "b": "N29-041",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-017-1",
+      "b": "N14-017-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-008-3",
+      "b": "P9-003-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-005-1",
+      "b": "N13-005-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-019-1",
+      "b": "N13-019-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-006-2",
+      "b": "P11-005-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-006-2",
+      "b": "N29-025",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-001-1",
+      "b": "N13-001-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-004-1",
+      "b": "P12-009-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-004-1",
+      "b": "N13-009-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-008-3",
+      "b": "P11-018-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-008-3",
+      "b": "N14-018-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-008-3",
+      "b": "N15-008-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-008-3",
+      "b": "N17-008-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-009-4",
+      "b": "P6-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-011-3",
+      "b": "N15-011-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-008-2",
+      "b": "N15-008-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-002-1",
+      "b": "N14-002-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-004-3",
+      "b": "P6-012-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-004-3",
+      "b": "P10-007-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-004-3",
+      "b": "N15-007-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-045-1",
+      "b": "P8-017-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-045-1",
+      "b": "N29-032",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N14-010-2",
+      "b": "N16-015-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-012-2",
+      "b": "N29-016",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-004-2",
+      "b": "N13-004-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-004-2",
+      "b": "N14-001-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-003-2",
+      "b": "P9-025-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-003-2",
+      "b": "N17-012-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-036-1",
+      "b": "P9-023-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-013-1",
+      "b": "N14-013-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-014-2",
+      "b": "P2-013-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-014-2",
+      "b": "P4-039-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-002-1",
+      "b": "P10-004-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-002-1",
+      "b": "P11-003-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-001-2",
+      "b": "P8-032-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-001-2",
+      "b": "P11-009-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-001-2",
+      "b": "N14-009-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-005-1",
+      "b": "P12-012-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-005-1",
+      "b": "N13-012-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-013-2",
+      "b": "N14-013-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-014-1",
+      "b": "N29-003",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-014-1",
+      "b": "N13-014-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N24-014",
+      "b": "N25-009",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-019-3",
+      "b": "P12-020-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-019-3",
+      "b": "N13-020-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-019-3",
+      "b": "N14-019-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-019-3",
+      "b": "N18-017-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N21-009",
+      "b": "N22-010",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-015-3",
+      "b": "N13-015-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-026-1",
+      "b": "P7-016-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-006-1",
+      "b": "N15-006-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-006-1",
+      "b": "N17-006-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-012-1",
+      "b": "N16-008-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-001-1",
+      "b": "P8-032-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-001-1",
+      "b": "N16-020-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-018-2",
+      "b": "N13-018-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N29-047",
+      "b": "N17-012-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-015-1",
+      "b": "N17-001-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-012-5",
+      "b": "N15-012-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-007-3",
+      "b": "N14-007-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-007-2",
+      "b": "N13-007-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-012-4",
+      "b": "N17-016-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-012-3",
+      "b": "P7-025-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-015-2",
+      "b": "N14-015-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-015-2",
+      "b": "N17-007-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-021-1",
+      "b": "N29-008",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-001-1",
+      "b": "N15-001-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-018-1",
+      "b": "N14-018-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-018-3",
+      "b": "N29-006",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-018-3",
+      "b": "N13-018-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-009-1",
+      "b": "P8-019-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-005-2",
+      "b": "N17-018-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-009-3",
+      "b": "P12-004-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-009-3",
+      "b": "N13-004-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-007-3",
+      "b": "N17-016-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-012-2",
+      "b": "P7-019-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-024-2",
+      "b": "N29-038",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-024-2",
+      "b": "N17-006-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-020-1",
+      "b": "P11-004-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-020-1",
+      "b": "P12-002-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-020-1",
+      "b": "N14-004-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-1",
+      "b": "P11-016-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-1",
+      "b": "P12-013-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-1",
+      "b": "N13-013-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-1",
+      "b": "N14-016-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-1",
+      "b": "N15-003-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-1",
+      "b": "N16-017-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-1",
+      "b": "N17-002-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-3",
+      "b": "N15-003-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-016-1",
+      "b": "N14-016-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-017-3",
+      "b": "N14-017-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-016-2",
+      "b": "N13-016-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-005-1",
+      "b": "P2-012-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-005-1",
+      "b": "P12-015-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-006-1",
+      "b": "N29-018",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-006-1",
+      "b": "N14-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-013-1",
+      "b": "P8-018-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-013-1",
+      "b": "P11-009-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-2",
+      "b": "N15-003-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-006-3",
+      "b": "N16-019-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N21-002",
+      "b": "N27-014",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-007-2",
+      "b": "P5-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-002-5",
+      "b": "N15-002-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-007-2",
+      "b": "N14-007-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-018-1",
+      "b": "N13-018-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-019-2",
+      "b": "N13-019-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-005-2",
+      "b": "P8-023-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-005-2",
+      "b": "P9-027-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-005-2",
+      "b": "N16-001-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-016-2",
+      "b": "P10-001-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-006-3",
+      "b": "N14-006-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-005-3",
+      "b": "N29-020",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-007-1",
+      "b": "P10-011-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-007-1",
+      "b": "N15-011-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-017-1",
+      "b": "P7-006-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-017-1",
+      "b": "N29-017",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-017-1",
+      "b": "N16-011-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-016-3",
+      "b": "N13-016-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N26-054",
+      "b": "N27-046",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-014-2",
+      "b": "N13-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-012-1",
+      "b": "P8-015-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-012-1",
+      "b": "P10-004-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-040-1",
+      "b": "P11-006-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-040-1",
+      "b": "N14-006-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-011-1",
+      "b": "P7-008-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-008-1",
+      "b": "N17-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-013-4",
+      "b": "N15-013-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-003-2",
+      "b": "N13-003-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-010-2",
+      "b": "P10-013-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-010-2",
+      "b": "P12-017-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-010-2",
+      "b": "N29-005",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-010-2",
+      "b": "N13-017-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-003-4",
+      "b": "N15-003-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-011-2",
+      "b": "P11-007-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-011-2",
+      "b": "N29-048",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-011-2",
+      "b": "N14-007-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-015-1",
+      "b": "N14-015-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-013-5",
+      "b": "N15-013-5",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-009-2",
+      "b": "P11-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-009-2",
+      "b": "N14-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-009-3",
+      "b": "N16-018-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-009-3",
+      "b": "N17-017-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-007-3",
+      "b": "N15-007-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-004-2",
+      "b": "N14-004-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-005-2",
+      "b": "N13-005-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-022-2",
+      "b": "P3-023-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-029-2",
+      "b": "P9-032-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-029-2",
+      "b": "P12-021-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-005-3",
+      "b": "P12-006-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-005-3",
+      "b": "N13-006-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-005-3",
+      "b": "N16-002-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-002-3",
+      "b": "N13-002-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-012-1",
+      "b": "P6-003-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-012-1",
+      "b": "P12-004-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-012-1",
+      "b": "N13-004-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-025-1",
+      "b": "P6-004-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-025-1",
+      "b": "N29-007",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-008-2",
+      "b": "N14-008-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-013-3",
+      "b": "N14-013-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-4",
+      "b": "P9-032-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-4",
+      "b": "P10-016-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-4",
+      "b": "P11-019-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-4",
+      "b": "N15-016-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-017-2",
+      "b": "P12-006-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-017-2",
+      "b": "N13-006-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-017-2",
+      "b": "N14-017-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-015-3",
+      "b": "P8-004-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-007-2",
+      "b": "P2-013-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-007-2",
+      "b": "P3-010-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-007-2",
+      "b": "P6-013-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-010-3",
+      "b": "P11-014-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-010-3",
+      "b": "N14-014-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-006-2",
+      "b": "P11-001-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-006-2",
+      "b": "N14-001-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-002-4",
+      "b": "P12-015-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-002-4",
+      "b": "N13-015-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-008-2",
+      "b": "N13-008-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N21-025",
+      "b": "N24-023",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-005-2",
+      "b": "P10-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-005-2",
+      "b": "N17-007-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-002-3",
+      "b": "P9-030-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-002-3",
+      "b": "P11-021-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-002-3",
+      "b": "P12-020-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-002-3",
+      "b": "N18-017-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-004-1",
+      "b": "P9-030-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-1",
+      "b": "P8-027-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-1",
+      "b": "P9-034-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-1",
+      "b": "P10-016-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-1",
+      "b": "P11-021-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-003-1",
+      "b": "N18-016-5",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-014-4",
+      "b": "P11-021-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-014-4",
+      "b": "N18-016-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N14-021-2",
+      "b": "N15-014-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-009-2",
+      "b": "N29-022",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-009-2",
+      "b": "N15-009-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-001-3",
+      "b": "N29-023",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-001-3",
+      "b": "N15-001-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-026-2",
+      "b": "P9-031-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-026-2",
+      "b": "P10-015-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-026-2",
+      "b": "P11-021-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-026-2",
+      "b": "P12-022-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-026-2",
+      "b": "N14-021-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-026-2",
+      "b": "N15-015-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-026-2",
+      "b": "N18-016-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-016-1",
+      "b": "P9-020-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-016-1",
+      "b": "P12-017-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-016-1",
+      "b": "N13-017-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-016-1",
+      "b": "N17-002-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-014-2",
+      "b": "P11-022-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-014-2",
+      "b": "P12-023-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-014-2",
+      "b": "N13-023-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-014-2",
+      "b": "N15-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-010-2",
+      "b": "P10-012-5",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-004-1",
+      "b": "P8-005-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-021-2",
+      "b": "N29-037",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-017-3",
+      "b": "N13-017-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-027-1",
+      "b": "P11-008-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-015-2",
+      "b": "P12-018-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-019-1",
+      "b": "P11-007-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-003-3",
+      "b": "N16-018-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-004-3",
+      "b": "P4-032-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-013-1",
+      "b": "N14-009-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-006-1",
+      "b": "P12-019-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-044-1",
+      "b": "N29-015",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-007-1",
+      "b": "P12-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-014-2",
+      "b": "P12-019-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-016-3",
+      "b": "N15-016-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-049-1",
+      "b": "N16-023-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-010-3",
+      "b": "N14-010-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-036-1",
+      "b": "P12-017-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-018-2",
+      "b": "P7-007-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-018-2",
+      "b": "P9-016-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-014-1",
+      "b": "P1-016-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-018-1",
+      "b": "N16-012-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-013-1",
+      "b": "P8-024-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-022-2",
+      "b": "P11-008-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-017-1",
+      "b": "P4-035-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-017-1",
+      "b": "N17-007-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-016-3",
+      "b": "N14-016-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-011-3",
+      "b": "P6-005-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-006-3",
+      "b": "P12-018-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-014-1",
+      "b": "P12-014-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-033-1",
+      "b": "P12-019-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-002-2",
+      "b": "N29-033",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-023-1",
+      "b": "N17-021-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-006-1",
+      "b": "P7-019-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-002-1",
+      "b": "N29-057",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-001-3",
+      "b": "P12-004-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-007-2",
+      "b": "N29-028",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-007-1",
+      "b": "P5-007-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-026-2",
+      "b": "N13-022-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-005-2",
+      "b": "P8-036-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-018-1",
+      "b": "N17-002-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-007-2",
+      "b": "N29-001",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-020-2",
+      "b": "N29-021",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-031-1",
+      "b": "P7-026-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-004-1",
+      "b": "P10-005-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-006-2",
+      "b": "P12-019-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-036-1",
+      "b": "N17-009-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-006-3",
+      "b": "P11-001-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-043-1",
+      "b": "P9-007-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-003-1",
+      "b": "P8-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-027-1",
+      "b": "N16-010-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-012-2",
+      "b": "P4-014-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-032-1",
+      "b": "N29-027",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-005-2",
+      "b": "P2-020-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-005-2",
+      "b": "N15-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-006-1",
+      "b": "N29-036",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-013-2",
+      "b": "N29-002",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-027-2",
+      "b": "P11-006-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-001-1",
+      "b": "P11-002-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-012-1",
+      "b": "N15-012-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-015-3",
+      "b": "P9-024-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-004-2",
+      "b": "P12-018-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-021-1",
+      "b": "P10-005-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-008-3",
+      "b": "P12-005-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-009-1",
+      "b": "P5-013-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-011-1",
+      "b": "N14-010-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-012-1",
+      "b": "N16-009-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P12-002-2",
+      "b": "N13-002-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-014-1",
+      "b": "P8-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-014-1",
+      "b": "P12-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-022-1",
+      "b": "P9-028-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-008-1",
+      "b": "P11-004-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-002-1",
+      "b": "N16-014-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-013-3",
+      "b": "P8-003-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-006-1",
+      "b": "P2-015-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-023-3",
+      "b": "N16-015-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-004-2",
+      "b": "P2-012-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-007-2",
+      "b": "P6-011-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-037-1",
+      "b": "P5-008-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-041-1",
+      "b": "P4-010-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P6-018-1",
+      "b": "P7-001-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-003-1",
+      "b": "P11-013-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-002-2",
+      "b": "N17-013-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-023-1",
+      "b": "P10-003-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-021-2",
+      "b": "P3-022-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-009-1",
+      "b": "P6-010-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-017-1",
+      "b": "P3-001-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-026-1",
+      "b": "P11-001-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-047-1",
+      "b": "P6-018-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-004-1",
+      "b": "P6-005-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-022-3",
+      "b": "P2-025-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-012-1",
+      "b": "P11-015-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-017-1",
+      "b": "P9-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-002-4",
+      "b": "N15-002-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-004-1",
+      "b": "N16-021-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-020-3",
+      "b": "N17-019-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-016-3",
+      "b": "N17-017-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-029-2",
+      "b": "N13-021-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-056-1",
+      "b": "N29-056",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-002-3",
+      "b": "N20-001-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P5-010-2",
+      "b": "P6-012-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-022-3",
+      "b": "P10-014-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-031-1",
+      "b": "P10-014-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-1",
+      "b": "P7-002-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-025-1",
+      "b": "P8-011-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-006-1",
+      "b": "P11-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P4-008-1",
+      "b": "P10-008-4",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-024-1",
+      "b": "P8-014-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-004-2",
+      "b": "P8-030-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P9-029-2",
+      "b": "N29-049",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-006-2",
+      "b": "P2-014-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-001-3",
+      "b": "P3-050-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-017-1",
+      "b": "P5-011-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P7-001-1",
+      "b": "P8-026-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N16-009-2",
+      "b": "N17-001-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P8-021-1",
+      "b": "P12-001-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P2-017-1",
+      "b": "P12-015-3",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-016-1",
+      "b": "P3-033-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P1-012-2",
+      "b": "P2-008-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P11-007-2",
+      "b": "N17-004-1",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P3-028-1",
+      "b": "P9-005-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "P10-007-3",
+      "b": "P11-004-2",
+      "reason": "题干、选项内容及答案对应一致（含识别错字、选项换序）"
+    },
+    {
+      "a": "N13-007-1",
+      "b": "P12-007-1",
+      "reason": "同一原题截图，版面与内容对应一致"
+    },
+    {
+      "a": "N13-009-2",
+      "b": "P12-009-2",
+      "reason": "同一原题截图，版面与内容对应一致"
+    },
+    {
+      "a": "N13-016-1",
+      "b": "P12-016-1",
+      "reason": "同一原题截图，版面与内容对应一致"
+    },
+    {
+      "a": "N13-021-2",
+      "b": "P12-021-2",
+      "reason": "同一原题截图，版面与内容对应一致"
+    },
+    {
+      "a": "N14-018-2",
+      "b": "P11-018-2",
+      "reason": "同一原题截图，版面与内容对应一致"
+    },
+    {
+      "a": "N14-019-1",
+      "b": "P11-019-1",
+      "reason": "同一原题截图，版面与内容对应一致"
+    },
+    {
+      "a": "N14-022-1",
+      "b": "P11-022-1",
+      "reason": "同一原题截图，版面与内容对应一致"
+    },
+    {
+      "a": "N15-005-3",
+      "b": "P10-005-4",
+      "reason": "同一原题截图，版面与内容对应一致"
+    }
+  ],
+  "blockedJoins": [
+    {
+      "a": "P8-007-2",
+      "b": "N17-003-1",
+      "issues": [
+        [
+          "P8-007-2",
+          "N17-003-1",
+          "含未确定答案的核查说明"
+        ]
+      ]
+    }
+  ],
+  "round2": {
+    "energyQuestion": [
+      "P6-018-3",
+      "P7-002-2",
+      "P8-026-1",
+      "P9-031-1",
+      "P10-014-3",
+      "P11-022-1",
+      "P12-019-3",
+      "N13-019-3",
+      "N14-022-1",
+      "N15-014-3",
+      "N18-017-2"
+    ],
+    "answerCorrections": [
+      {
+        "id": "P8-026-1",
+        "before": "ABCD",
+        "after": "ABCE",
+        "reference": {
+          "title": "国家能源局：全面构建现代能源体系 推动新时代能源高质量发展",
+          "url": "https://www.nea.gov.cn/2022-05/18/c_1310597330.htm"
+        }
+      }
+    ],
+    "reviewedJoins": [
+      {
+        "a": "P11-012-3",
+        "b": "P3-023-2",
+        "score": 1.0,
+        "optionScore": 0.994,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N14-014-3",
+        "b": "P11-014-3",
+        "score": 1.0,
+        "optionScore": 0.958,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N16-013-1",
+        "b": "P8-024-1",
+        "score": 0.994,
+        "optionScore": 1.0,
+        "answerConflict": false,
+        "mapping": {
+          "A": "B",
+          "B": "A",
+          "C": "D",
+          "D": "C"
+        }
+      },
+      {
+        "a": "N26-072",
+        "b": "N27-062",
+        "score": 0.994,
+        "optionScore": 1.0,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N15-001-4",
+        "b": "P10-001-4",
+        "score": 0.992,
+        "optionScore": 1.0,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N13-014-2",
+        "b": "N18-013-2",
+        "score": 0.989,
+        "optionScore": 1.0,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N26-065",
+        "b": "N27-067",
+        "score": 0.982,
+        "optionScore": 1.0,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "P11-014-3",
+        "b": "P12-007-1",
+        "score": 0.98,
+        "optionScore": 1.0,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "C",
+          "C": "D",
+          "D": "B"
+        }
+      },
+      {
+        "a": "N15-011-2",
+        "b": "P10-011-2",
+        "score": 0.969,
+        "optionScore": 0.992,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N14-020-2",
+        "b": "P6-017-3",
+        "score": 0.966,
+        "optionScore": 0.981,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "C",
+          "C": "B",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N15-011-1",
+        "b": "P10-011-1",
+        "score": 0.962,
+        "optionScore": 0.985,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N13-022-1",
+        "b": "P6-019-2",
+        "score": 0.957,
+        "optionScore": 1.0,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "C",
+          "C": "D",
+          "D": "B"
+        }
+      },
+      {
+        "a": "N15-010-2",
+        "b": "P10-010-2",
+        "score": 0.933,
+        "optionScore": 0.991,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N14-012-3",
+        "b": "P11-012-3",
+        "score": 0.917,
+        "optionScore": 1.0,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N14-013-3",
+        "b": "P3-041-1",
+        "score": 0.71,
+        "optionScore": 0.95,
+        "answerConflict": false,
+        "mapping": {
+          "A": "C",
+          "B": "D",
+          "C": "B",
+          "D": "A"
+        }
+      },
+      {
+        "a": "P4-026-1",
+        "b": "P7-016-2",
+        "score": 0.709,
+        "optionScore": 0.969,
+        "answerConflict": false,
+        "mapping": {
+          "A": "A",
+          "B": "D",
+          "C": "B",
+          "D": "C"
+        }
+      },
+      {
+        "a": "N16-023-2",
+        "b": "P2-024-3",
+        "score": 0.636,
+        "optionScore": 1.0,
+        "answerConflict": false,
+        "mapping": {
+          "A": "C",
+          "B": "B",
+          "C": "A",
+          "D": "D"
+        }
+      },
+      {
+        "a": "N14-020-2",
+        "b": "P7-001-3",
+        "score": 0.596,
+        "optionScore": 0.981,
+        "answerConflict": false,
+        "mapping": {
+          "A": "C",
+          "B": "B",
+          "C": "D",
+          "D": "A"
+        }
+      }
+    ],
+    "fixedNavigation": "进入校对或查看同题来源不再关闭去重；直接打开指定来源时每组仍只显示一题"
+  },
+  "shortCultureReview": {
+    "families": [
+      [
+        "P11-019-1",
+        "P12-021-1",
+        "N14-019-1",
+        "N13-021-1",
+        "N16-021-1",
+        "N20-004-2"
+      ],
+      [
+        "P9-029-2",
+        "N15-014-1"
+      ],
+      [
+        "P10-015-2",
+        "N15-015-2"
+      ],
+      [
+        "P1-001-2",
+        "N17-021-1"
+      ],
+      [
+        "P1-002-3",
+        "N16-022-3"
+      ],
+      [
+        "P2-022-3",
+        "N14-021-2",
+        "N15-014-4",
+        "N20-001-3"
+      ],
+      [
+        "P2-023-2",
+        "N17-019-3"
+      ],
+      [
+        "P7-003-1",
+        "N14-021-1",
+        "N15-016-4"
+      ],
+      [
+        "P7-003-4",
+        "N14-019-2"
+      ],
+      [
+        "P8-028-2",
+        "N13-020-4",
+        "N15-016-2"
+      ],
+      [
+        "P10-014-2",
+        "N14-022-2"
+      ],
+      [
+        "P7-001-3",
+        "P10-016-3",
+        "N15-016-3",
+        "P12-022-2",
+        "N13-022-2"
+      ],
+      [
+        "P3-049-1",
+        "P4-057-1"
+      ]
+    ],
+    "transcribed": [
+      "P11-019-1",
+      "P12-021-1",
+      "N14-019-1",
+      "N13-021-1",
+      "N16-021-1",
+      "N20-004-2",
+      "N15-014-1",
+      "N15-015-2",
+      "N17-021-1",
+      "N16-022-3",
+      "N14-021-2",
+      "N15-014-4",
+      "N17-019-3",
+      "N14-021-1",
+      "N14-019-2",
+      "N13-020-4",
+      "N15-016-2",
+      "N14-022-2",
+      "N15-016-4",
+      "N20-001-3",
+      "P12-022-2",
+      "N13-022-2",
+      "P10-016-3",
+      "N15-016-3",
+      "P4-057-1"
+    ],
+    "notes": "判断题选项原图有正误换序，已恢复原卷顺序；未改变答案字母。新能源、清洁能源、光伏、风电分开。風电同题中一份答案与其他来源冲突，仍保留待核查。"
+  },
+  "sequenceReview": {
+    "repaired": [
+      "P1-003-3",
+      "P7-009-1",
+      "P5-012-3",
+      "P12-013-1",
+      "N13-013-1",
+      "N17-011-3",
+      "N13-009-2",
+      "N13-016-1",
+      "P3-033-1",
+      "P3-028-1",
+      "P9-024-2",
+      "N17-017-1"
+    ],
+    "checkedCount": 93,
+    "families": [
+      {
+        "sequence": "1500|750|250|?|12.5",
+        "members": [
+          "P1-003-3",
+          "N16-020-2"
+        ]
+      },
+      {
+        "sequence": "-1|2|1|8|19|?",
+        "members": [
+          "P1-016-1",
+          "P3-033-1",
+          "P10-007-4",
+          "P12-009-2",
+          "N13-009-2",
+          "N15-007-4"
+        ]
+      },
+      {
+        "sequence": "4|12|24|36|50|?",
+        "members": [
+          "P2-003-2",
+          "P2-015-1"
+        ]
+      },
+      {
+        "sequence": "1|5|20|60|?",
+        "members": [
+          "P2-004-1",
+          "P6-008-3"
+        ]
+      },
+      {
+        "sequence": "0|8|8|6|4|0|4|?",
+        "members": [
+          "P3-028-1",
+          "P8-034-2",
+          "P9-005-2",
+          "P11-015-3",
+          "P12-016-1",
+          "N13-016-1",
+          "N14-015-3"
+        ]
+      },
+      {
+        "sequence": "3|11|35|107|?",
+        "members": [
+          "P4-008-1",
+          "P10-008-4",
+          "N15-008-4",
+          "N17-011-3"
+        ]
+      },
+      {
+        "sequence": "1|2|9|64|625|?",
+        "members": [
+          "P6-009-3",
+          "P9-024-2",
+          "N16-014-2"
+        ]
+      },
+      {
+        "sequence": "20|24.2|28.8|?|39.2|45",
+        "members": [
+          "P7-009-1",
+          "N29-030"
+        ]
+      },
+      {
+        "sequence": "12|7|?|0|-2|-3",
+        "members": [
+          "P7-016-3",
+          "N17-017-1"
+        ]
+      },
+      {
+        "sequence": "-3|6|1|18|5|?|9",
+        "members": [
+          "P10-012-4",
+          "N15-012-3"
+        ]
+      },
+      {
+        "sequence": "12|12|18|36|90|?",
+        "members": [
+          "P11-006-1",
+          "N14-006-1"
+        ]
+      },
+      {
+        "sequence": "2|5|4|10|6|15|?",
+        "members": [
+          "P11-016-3",
+          "N14-016-3"
+        ]
+      },
+      {
+        "sequence": "16384|4096|?|256|64",
+        "members": [
+          "P12-013-1",
+          "N13-013-1"
+        ]
+      },
+      {
+        "sequence": "1|9|25|49|?",
+        "members": [
+          "N29-004",
+          "N16-017-2"
+        ]
+      }
+    ],
+    "unmerged": [],
+    "algorithm": "完整数列逐项比对，保留空位、符号与小数；不按共同前缀或相同规律合并。布局数阵单独保留。"
+  },
+  "textProofread": {
+    "edition": "20261012-clear-source-review",
+    "groups": 225,
+    "versions": 697,
+    "stemsChanged": 466,
+    "optionsChanged": 288,
+    "changedVersions": 545,
+    "partialGroups": [
+      "D206"
+    ],
+    "answerCorrections": [
+      "N20-002-3"
+    ]
+  },
+  "optionOrderReview": {
+    "edition": "20261012-ignore-option-order",
+    "summary": {
+      "groups": 230,
+      "redundantEntries": 488,
+      "crossFormatGroups": 174,
+      "activeQuestionCount": 1575,
+      "answerConflictCandidates": 143,
+      "round2AddedHidden": 25,
+      "energyRevolutionVersions": 11,
+      "shortCultureFamilies": 13,
+      "shortCultureAddedHidden": 19,
+      "newEnergyRankingVersions": 6,
+      "sequenceRows": 93,
+      "sequenceFamilies": 67,
+      "sequenceAddedHidden": 4,
+      "optionOrderAddedHidden": 16
+    },
+    "reviewedSets": 16,
+    "affected": [
+      {
+        "group": "D010",
+        "members": [
+          "P11-017-2",
+          "P12-006-1",
+          "N13-006-1",
+          "N14-017-2",
+          "N17-013-1"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "D026",
+        "members": [
+          "P7-017-2",
+          "P12-016-3",
+          "N13-016-3"
+        ],
+        "answerConflict": false
+      },
+      {
+        "group": "D035",
+        "members": [
+          "P7-003-2",
+          "P8-027-1",
+          "P12-020-1",
+          "N13-020-1"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "D189",
+        "members": [
+          "P5-002-1",
+          "P11-003-1",
+          "N14-003-1"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "D190",
+        "members": [
+          "P3-027-1",
+          "P11-008-3",
+          "N14-008-3"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "D184",
+        "members": [
+          "P9-016-2",
+          "P10-001-2",
+          "N15-001-2"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "O001",
+        "members": [
+          "P10-007-1",
+          "N15-007-1"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "O002",
+        "members": [
+          "P10-013-2",
+          "N15-013-2"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "S003",
+        "members": [
+          "P8-028-1",
+          "P10-015-2",
+          "N15-015-2"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "O003",
+        "members": [
+          "P1-003-2",
+          "N17-019-2"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "O004",
+        "members": [
+          "P4-005-1",
+          "N29-024"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "D198",
+        "members": [
+          "P2-020-2",
+          "P3-055-1",
+          "N29-060"
+        ],
+        "answerConflict": false
+      },
+      {
+        "group": "D202",
+        "members": [
+          "P3-022-2",
+          "P3-023-1",
+          "P11-012-2"
+        ],
+        "answerConflict": false
+      },
+      {
+        "group": "D212",
+        "members": [
+          "P2-018-1",
+          "P5-009-1",
+          "P8-019-1"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "D199",
+        "members": [
+          "P2-021-2",
+          "P3-051-1",
+          "P4-056-1"
+        ],
+        "answerConflict": true
+      },
+      {
+        "group": "O005",
+        "members": [
+          "P3-029-1",
+          "P8-004-1"
+        ],
+        "answerConflict": true
+      }
+    ],
+    "sourceCorrection": {
+      "id": "N29-060",
+      "options": [
+        {
+          "key": "A",
+          "text": "错误"
+        },
+        {
+          "key": "B",
+          "text": "正确"
+        }
+      ],
+      "answerUnchanged": "B"
+    },
+    "rules": "相同题干、相同选项内容（含图片识别文本），忽略选项字母和排列顺序。数字条件、题目问法、材料、图形仍须相同；答案分歧单独标注。"
+  },
+  "emptyStemReview": {
+    "edition": "20261012-image-stem-dedup",
+    "corrected": [
+      "N13-020-3",
+      "N14-021-4",
+      "N17-021-3",
+      "N22-026",
+      "N23-022",
+      "N23-024"
+    ],
+    "imageRestored": "N27-071",
+    "groups": [
+      {
+        "id": "D144",
+        "representative": "N18-017-1",
+        "members": [
+          "N13-020-3",
+          "N14-021-4",
+          "N18-017-1",
+          "N20-001-4",
+          "P11-021-4",
+          "P12-020-3",
+          "P7-002-3",
+          "P9-030-2"
+        ],
+        "crossFormat": true,
+        "reason": "逐项对照原图，补回未识别题干的截图版本；题干与选项内容相同，忽略选项排列顺序归为同题。",
+        "proofreadSource": "N20-001-4"
+      },
+      {
+        "id": "D207",
+        "representative": "P3-054-1",
+        "members": [
+          "N17-021-3",
+          "P3-054-1",
+          "P4-055-1"
+        ],
+        "crossFormat": true,
+        "reason": "逐项对照原图，补回未识别题干的截图版本；题干与选项内容相同，忽略选项排列顺序归为同题。",
+        "proofreadSource": "P4-055-1"
+      }
+    ],
+    "addedHidden": 3,
+    "answersUnchanged": true
+  }
+}

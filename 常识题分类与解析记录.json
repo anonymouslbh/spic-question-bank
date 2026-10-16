@@ -1,0 +1,837 @@
+{
+  "summary": {
+    "edition": "20261012-general-knowledge",
+    "questionEntries": 165,
+    "deduplicatedQuestions": 95,
+    "optionExplanations": 660,
+    "scope": "政治理论、法律、公文、历史地理、科技生活、经济常识；以阅读理解或定义推理为考点的题目不因题材相同而归入。",
+    "notes": "原卷答案及作答记录保留；争议和旧规定在逐项解析中注明。"
+  },
+  "questions": [
+    {
+      "id": "P1-003-4",
+      "source": "P1-003-4",
+      "options": 4
+    },
+    {
+      "id": "N13-009-1",
+      "source": "P1-004-1",
+      "options": 4
+    },
+    {
+      "id": "P1-004-1",
+      "source": "P1-004-1",
+      "options": 4
+    },
+    {
+      "id": "P12-009-1",
+      "source": "P1-004-1",
+      "options": 4
+    },
+    {
+      "id": "P1-004-2",
+      "source": "P1-004-2",
+      "options": 4
+    },
+    {
+      "id": "P1-008-1",
+      "source": "P1-008-1",
+      "options": 4
+    },
+    {
+      "id": "P1-009-1",
+      "source": "P1-009-1",
+      "options": 4
+    },
+    {
+      "id": "P6-010-1",
+      "source": "P1-009-1",
+      "options": 4
+    },
+    {
+      "id": "P1-010-3",
+      "source": "P1-010-3",
+      "options": 4
+    },
+    {
+      "id": "N13-004-1",
+      "source": "P1-012-1",
+      "options": 4
+    },
+    {
+      "id": "P1-012-1",
+      "source": "P1-012-1",
+      "options": 4
+    },
+    {
+      "id": "P12-004-1",
+      "source": "P1-012-1",
+      "options": 4
+    },
+    {
+      "id": "P6-003-1",
+      "source": "P1-012-1",
+      "options": 4
+    },
+    {
+      "id": "P1-014-1",
+      "source": "P1-014-1",
+      "options": 4
+    },
+    {
+      "id": "P1-016-2",
+      "source": "P1-014-1",
+      "options": 4
+    },
+    {
+      "id": "P2-002-3",
+      "source": "P2-002-3",
+      "options": 4
+    },
+    {
+      "id": "P2-010-1",
+      "source": "P2-010-1",
+      "options": 4
+    },
+    {
+      "id": "P2-018-1",
+      "source": "P2-018-1",
+      "options": 4
+    },
+    {
+      "id": "P5-009-1",
+      "source": "P2-018-1",
+      "options": 4
+    },
+    {
+      "id": "P8-019-1",
+      "source": "P2-018-1",
+      "options": 4
+    },
+    {
+      "id": "N14-007-3",
+      "source": "P2-019-1",
+      "options": 4
+    },
+    {
+      "id": "P11-007-3",
+      "source": "P2-019-1",
+      "options": 4
+    },
+    {
+      "id": "P2-019-1",
+      "source": "P2-019-1",
+      "options": 4
+    },
+    {
+      "id": "P2-022-1",
+      "source": "P2-022-1",
+      "options": 4
+    },
+    {
+      "id": "P3-007-1",
+      "source": "P3-007-1",
+      "options": 4
+    },
+    {
+      "id": "P3-024-1",
+      "source": "P3-024-1",
+      "options": 4
+    },
+    {
+      "id": "P8-014-1",
+      "source": "P3-024-1",
+      "options": 4
+    },
+    {
+      "id": "P3-031-1",
+      "source": "P3-031-1",
+      "options": 4
+    },
+    {
+      "id": "P7-026-2",
+      "source": "P3-031-1",
+      "options": 4
+    },
+    {
+      "id": "P3-040-1",
+      "source": "P3-040-1",
+      "options": 4
+    },
+    {
+      "id": "N14-013-3",
+      "source": "P3-041-1",
+      "options": 4
+    },
+    {
+      "id": "P11-013-3",
+      "source": "P3-041-1",
+      "options": 4
+    },
+    {
+      "id": "P3-041-1",
+      "source": "P3-041-1",
+      "options": 4
+    },
+    {
+      "id": "P4-010-1",
+      "source": "P3-041-1",
+      "options": 4
+    },
+    {
+      "id": "N29-015",
+      "source": "P3-044-1",
+      "options": 4
+    },
+    {
+      "id": "P3-044-1",
+      "source": "P3-044-1",
+      "options": 4
+    },
+    {
+      "id": "N29-032",
+      "source": "P3-045-1",
+      "options": 4
+    },
+    {
+      "id": "P3-045-1",
+      "source": "P3-045-1",
+      "options": 4
+    },
+    {
+      "id": "P8-017-2",
+      "source": "P3-045-1",
+      "options": 4
+    },
+    {
+      "id": "P4-002-1",
+      "source": "P4-002-1",
+      "options": 4
+    },
+    {
+      "id": "N15-005-3",
+      "source": "P4-004-1",
+      "options": 4
+    },
+    {
+      "id": "P10-005-4",
+      "source": "P4-004-1",
+      "options": 4
+    },
+    {
+      "id": "P4-004-1",
+      "source": "P4-004-1",
+      "options": 4
+    },
+    {
+      "id": "P4-011-1",
+      "source": "P4-011-1",
+      "options": 4
+    },
+    {
+      "id": "P4-018-1",
+      "source": "P4-018-1",
+      "options": 4
+    },
+    {
+      "id": "P4-021-1",
+      "source": "P4-021-1",
+      "options": 4
+    },
+    {
+      "id": "P4-034-1",
+      "source": "P4-034-1",
+      "options": 4
+    },
+    {
+      "id": "N17-012-2",
+      "source": "P5-003-2",
+      "options": 4
+    },
+    {
+      "id": "P5-003-2",
+      "source": "P5-003-2",
+      "options": 4
+    },
+    {
+      "id": "P9-025-1",
+      "source": "P5-003-2",
+      "options": 4
+    },
+    {
+      "id": "P5-009-4",
+      "source": "P5-009-4",
+      "options": 4
+    },
+    {
+      "id": "P6-014-2",
+      "source": "P5-009-4",
+      "options": 4
+    },
+    {
+      "id": "N16-018-1",
+      "source": "P5-009-3",
+      "options": 4
+    },
+    {
+      "id": "N17-017-2",
+      "source": "P5-009-3",
+      "options": 4
+    },
+    {
+      "id": "P5-009-3",
+      "source": "P5-009-3",
+      "options": 4
+    },
+    {
+      "id": "N29-016",
+      "source": "P5-012-2",
+      "options": 4
+    },
+    {
+      "id": "P5-012-2",
+      "source": "P5-012-2",
+      "options": 4
+    },
+    {
+      "id": "P6-002-3",
+      "source": "P6-002-3",
+      "options": 4
+    },
+    {
+      "id": "N13-017-3",
+      "source": "P6-005-2",
+      "options": 4
+    },
+    {
+      "id": "P12-017-3",
+      "source": "P6-005-2",
+      "options": 4
+    },
+    {
+      "id": "P6-005-2",
+      "source": "P6-005-2",
+      "options": 4
+    },
+    {
+      "id": "P8-036-1",
+      "source": "P6-005-2",
+      "options": 4
+    },
+    {
+      "id": "P9-023-1",
+      "source": "P6-005-2",
+      "options": 4
+    },
+    {
+      "id": "P6-006-1",
+      "source": "P6-006-1",
+      "options": 4
+    },
+    {
+      "id": "P7-019-2",
+      "source": "P6-006-1",
+      "options": 4
+    },
+    {
+      "id": "N13-017-1",
+      "source": "P6-010-2",
+      "options": 4
+    },
+    {
+      "id": "N29-005",
+      "source": "P6-010-2",
+      "options": 4
+    },
+    {
+      "id": "P10-013-1",
+      "source": "P6-010-2",
+      "options": 4
+    },
+    {
+      "id": "P12-017-1",
+      "source": "P6-010-2",
+      "options": 4
+    },
+    {
+      "id": "P6-010-2",
+      "source": "P6-010-2",
+      "options": 4
+    },
+    {
+      "id": "P6-011-1",
+      "source": "P6-011-1",
+      "options": 4
+    },
+    {
+      "id": "P7-004-3",
+      "source": "P7-004-3",
+      "options": 4
+    },
+    {
+      "id": "N14-008-1",
+      "source": "P7-009-2",
+      "options": 4
+    },
+    {
+      "id": "P11-008-1",
+      "source": "P7-009-2",
+      "options": 4
+    },
+    {
+      "id": "P7-009-2",
+      "source": "P7-009-2",
+      "options": 4
+    },
+    {
+      "id": "P7-012-1",
+      "source": "P7-012-1",
+      "options": 4
+    },
+    {
+      "id": "N13-016-3",
+      "source": "P7-017-2",
+      "options": 4
+    },
+    {
+      "id": "P12-016-3",
+      "source": "P7-017-2",
+      "options": 4
+    },
+    {
+      "id": "P7-017-2",
+      "source": "P7-017-2",
+      "options": 4
+    },
+    {
+      "id": "N16-015-2",
+      "source": "P7-023-3",
+      "options": 4
+    },
+    {
+      "id": "P7-023-3",
+      "source": "P7-023-3",
+      "options": 4
+    },
+    {
+      "id": "P7-024-1",
+      "source": "P7-024-1",
+      "options": 4
+    },
+    {
+      "id": "N29-033",
+      "source": "P8-002-2",
+      "options": 4
+    },
+    {
+      "id": "P8-002-2",
+      "source": "P8-002-2",
+      "options": 4
+    },
+    {
+      "id": "P8-003-2",
+      "source": "P8-003-2",
+      "options": 4
+    },
+    {
+      "id": "N15-012-4",
+      "source": "P8-010-2",
+      "options": 4
+    },
+    {
+      "id": "P10-012-5",
+      "source": "P8-010-2",
+      "options": 4
+    },
+    {
+      "id": "P8-010-2",
+      "source": "P8-010-2",
+      "options": 4
+    },
+    {
+      "id": "N13-017-2",
+      "source": "P8-016-1",
+      "options": 4
+    },
+    {
+      "id": "N17-002-2",
+      "source": "P8-016-1",
+      "options": 4
+    },
+    {
+      "id": "P12-017-2",
+      "source": "P8-016-1",
+      "options": 4
+    },
+    {
+      "id": "P8-016-1",
+      "source": "P8-016-1",
+      "options": 4
+    },
+    {
+      "id": "P9-020-2",
+      "source": "P8-016-1",
+      "options": 4
+    },
+    {
+      "id": "N29-037",
+      "source": "P8-021-2",
+      "options": 4
+    },
+    {
+      "id": "P8-021-2",
+      "source": "P8-021-2",
+      "options": 4
+    },
+    {
+      "id": "P9-004-3",
+      "source": "P9-004-3",
+      "options": 4
+    },
+    {
+      "id": "P9-007-2",
+      "source": "P9-007-2",
+      "options": 4
+    },
+    {
+      "id": "N17-002-3",
+      "source": "P9-018-1",
+      "options": 4
+    },
+    {
+      "id": "P9-018-1",
+      "source": "P9-018-1",
+      "options": 4
+    },
+    {
+      "id": "N14-008-2",
+      "source": "P9-022-2",
+      "options": 4
+    },
+    {
+      "id": "P11-008-2",
+      "source": "P9-022-2",
+      "options": 4
+    },
+    {
+      "id": "P9-022-2",
+      "source": "P9-022-2",
+      "options": 4
+    },
+    {
+      "id": "P9-027-2",
+      "source": "P9-027-2",
+      "options": 4
+    },
+    {
+      "id": "P10-002-3",
+      "source": "P10-002-3",
+      "options": 4
+    },
+    {
+      "id": "N16-019-1",
+      "source": "P10-006-3",
+      "options": 4
+    },
+    {
+      "id": "P10-006-3",
+      "source": "P10-006-3",
+      "options": 4
+    },
+    {
+      "id": "N14-018-3",
+      "source": "P10-008-3",
+      "options": 4
+    },
+    {
+      "id": "N15-008-3",
+      "source": "P10-008-3",
+      "options": 4
+    },
+    {
+      "id": "N17-008-3",
+      "source": "P10-008-3",
+      "options": 4
+    },
+    {
+      "id": "P10-008-3",
+      "source": "P10-008-3",
+      "options": 4
+    },
+    {
+      "id": "P11-018-3",
+      "source": "P10-008-3",
+      "options": 4
+    },
+    {
+      "id": "N15-013-5",
+      "source": "P10-013-5",
+      "options": 4
+    },
+    {
+      "id": "P10-013-5",
+      "source": "P10-013-5",
+      "options": 4
+    },
+    {
+      "id": "N13-004-2",
+      "source": "P11-001-3",
+      "options": 4
+    },
+    {
+      "id": "N14-001-3",
+      "source": "P11-001-3",
+      "options": 4
+    },
+    {
+      "id": "P11-001-3",
+      "source": "P11-001-3",
+      "options": 4
+    },
+    {
+      "id": "P12-004-2",
+      "source": "P11-001-3",
+      "options": 4
+    },
+    {
+      "id": "N14-013-1",
+      "source": "P11-013-1",
+      "options": 4
+    },
+    {
+      "id": "P11-013-1",
+      "source": "P11-013-1",
+      "options": 4
+    },
+    {
+      "id": "N14-018-1",
+      "source": "P11-018-1",
+      "options": 4
+    },
+    {
+      "id": "P11-018-1",
+      "source": "P11-018-1",
+      "options": 4
+    },
+    {
+      "id": "N13-020-2",
+      "source": "P11-019-3",
+      "options": 4
+    },
+    {
+      "id": "N14-019-3",
+      "source": "P11-019-3",
+      "options": 4
+    },
+    {
+      "id": "N18-017-3",
+      "source": "P11-019-3",
+      "options": 4
+    },
+    {
+      "id": "P11-019-3",
+      "source": "P11-019-3",
+      "options": 4
+    },
+    {
+      "id": "P12-020-2",
+      "source": "P11-019-3",
+      "options": 4
+    },
+    {
+      "id": "N13-002-3",
+      "source": "P12-002-3",
+      "options": 4
+    },
+    {
+      "id": "P12-002-3",
+      "source": "P12-002-3",
+      "options": 4
+    },
+    {
+      "id": "N26-048",
+      "source": "N26-048",
+      "options": 4
+    },
+    {
+      "id": "N26-049",
+      "source": "N26-049",
+      "options": 4
+    },
+    {
+      "id": "N26-050",
+      "source": "N26-050",
+      "options": 4
+    },
+    {
+      "id": "N26-051",
+      "source": "N26-051",
+      "options": 4
+    },
+    {
+      "id": "N26-052",
+      "source": "N26-052",
+      "options": 4
+    },
+    {
+      "id": "N26-053",
+      "source": "N26-053",
+      "options": 4
+    },
+    {
+      "id": "N26-054",
+      "source": "N26-054",
+      "options": 4
+    },
+    {
+      "id": "N27-046",
+      "source": "N26-054",
+      "options": 4
+    },
+    {
+      "id": "N26-055",
+      "source": "N26-055",
+      "options": 4
+    },
+    {
+      "id": "N26-056",
+      "source": "N26-056",
+      "options": 4
+    },
+    {
+      "id": "N26-057",
+      "source": "N26-057",
+      "options": 4
+    },
+    {
+      "id": "N27-041",
+      "source": "N27-041",
+      "options": 4
+    },
+    {
+      "id": "N27-042",
+      "source": "N27-042",
+      "options": 4
+    },
+    {
+      "id": "N27-043",
+      "source": "N27-043",
+      "options": 4
+    },
+    {
+      "id": "N27-044",
+      "source": "N27-044",
+      "options": 4
+    },
+    {
+      "id": "N27-045",
+      "source": "N27-045",
+      "options": 4
+    },
+    {
+      "id": "N27-047",
+      "source": "N27-047",
+      "options": 4
+    },
+    {
+      "id": "N27-048",
+      "source": "N27-048",
+      "options": 4
+    },
+    {
+      "id": "N27-049",
+      "source": "N27-049",
+      "options": 4
+    },
+    {
+      "id": "N27-050",
+      "source": "N27-050",
+      "options": 4
+    },
+    {
+      "id": "N29-009",
+      "source": "N29-009",
+      "options": 4
+    },
+    {
+      "id": "N17-012-3",
+      "source": "N29-047",
+      "options": 4
+    },
+    {
+      "id": "N29-047",
+      "source": "N29-047",
+      "options": 4
+    },
+    {
+      "id": "N16-003-2",
+      "source": "N16-003-2",
+      "options": 4
+    },
+    {
+      "id": "N16-018-3",
+      "source": "N16-018-3",
+      "options": 4
+    },
+    {
+      "id": "N17-004-2",
+      "source": "N17-004-2",
+      "options": 4
+    },
+    {
+      "id": "N17-016-2",
+      "source": "N17-016-2",
+      "options": 4
+    },
+    {
+      "id": "P3-035-1",
+      "source": "P3-035-1",
+      "options": 4
+    },
+    {
+      "id": "P4-015-1",
+      "source": "P4-015-1",
+      "options": 4
+    },
+    {
+      "id": "P4-036-1",
+      "source": "P4-036-1",
+      "options": 4
+    },
+    {
+      "id": "P8-035-2",
+      "source": "P8-035-2",
+      "options": 4
+    },
+    {
+      "id": "N15-002-2",
+      "source": "N15-002-2",
+      "options": 4
+    },
+    {
+      "id": "N15-006-3",
+      "source": "N15-006-3",
+      "options": 4
+    },
+    {
+      "id": "N15-013-1",
+      "source": "N15-013-1",
+      "options": 4
+    },
+    {
+      "id": "N16-002-3",
+      "source": "N16-002-3",
+      "options": 4
+    },
+    {
+      "id": "N16-003-1",
+      "source": "N16-003-1",
+      "options": 4
+    },
+    {
+      "id": "N16-012-2",
+      "source": "N16-012-2",
+      "options": 4
+    }
+  ]
+}

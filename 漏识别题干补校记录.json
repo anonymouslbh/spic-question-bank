@@ -1,0 +1,45 @@
+{
+  "edition": "20261012-image-stem-dedup",
+  "corrected": [
+    "N13-020-3",
+    "N14-021-4",
+    "N17-021-3",
+    "N22-026",
+    "N23-022",
+    "N23-024"
+  ],
+  "imageRestored": "N27-071",
+  "groups": [
+    {
+      "id": "D144",
+      "representative": "N18-017-1",
+      "members": [
+        "N13-020-3",
+        "N14-021-4",
+        "N18-017-1",
+        "N20-001-4",
+        "P11-021-4",
+        "P12-020-3",
+        "P7-002-3",
+        "P9-030-2"
+      ],
+      "crossFormat": true,
+      "reason": "逐项对照原图，补回未识别题干的截图版本；题干与选项内容相同，忽略选项排列顺序归为同题。",
+      "proofreadSource": "N20-001-4"
+    },
+    {
+      "id": "D207",
+      "representative": "P3-054-1",
+      "members": [
+        "N17-021-3",
+        "P3-054-1",
+        "P4-055-1"
+      ],
+      "crossFormat": true,
+      "reason": "逐项对照原图，补回未识别题干的截图版本；题干与选项内容相同，忽略选项排列顺序归为同题。",
+      "proofreadSource": "P4-055-1"
+    }
+  ],
+  "addedHidden": 3,
+  "answersUnchanged": true
+}

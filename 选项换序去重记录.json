@@ -1,0 +1,179 @@
+{
+  "edition": "20261012-ignore-option-order",
+  "summary": {
+    "groups": 230,
+    "redundantEntries": 488,
+    "crossFormatGroups": 174,
+    "activeQuestionCount": 1575,
+    "answerConflictCandidates": 143,
+    "round2AddedHidden": 25,
+    "energyRevolutionVersions": 11,
+    "shortCultureFamilies": 13,
+    "shortCultureAddedHidden": 19,
+    "newEnergyRankingVersions": 6,
+    "sequenceRows": 93,
+    "sequenceFamilies": 67,
+    "sequenceAddedHidden": 4,
+    "optionOrderAddedHidden": 16
+  },
+  "reviewedSets": 16,
+  "affected": [
+    {
+      "group": "D010",
+      "members": [
+        "P11-017-2",
+        "P12-006-1",
+        "N13-006-1",
+        "N14-017-2",
+        "N17-013-1"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "D026",
+      "members": [
+        "P7-017-2",
+        "P12-016-3",
+        "N13-016-3"
+      ],
+      "answerConflict": false
+    },
+    {
+      "group": "D035",
+      "members": [
+        "P7-003-2",
+        "P8-027-1",
+        "P12-020-1",
+        "N13-020-1"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "D189",
+      "members": [
+        "P5-002-1",
+        "P11-003-1",
+        "N14-003-1"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "D190",
+      "members": [
+        "P3-027-1",
+        "P11-008-3",
+        "N14-008-3"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "D184",
+      "members": [
+        "P9-016-2",
+        "P10-001-2",
+        "N15-001-2"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "O001",
+      "members": [
+        "P10-007-1",
+        "N15-007-1"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "O002",
+      "members": [
+        "P10-013-2",
+        "N15-013-2"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "S003",
+      "members": [
+        "P8-028-1",
+        "P10-015-2",
+        "N15-015-2"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "O003",
+      "members": [
+        "P1-003-2",
+        "N17-019-2"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "O004",
+      "members": [
+        "P4-005-1",
+        "N29-024"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "D198",
+      "members": [
+        "P2-020-2",
+        "P3-055-1",
+        "N29-060"
+      ],
+      "answerConflict": false
+    },
+    {
+      "group": "D202",
+      "members": [
+        "P3-022-2",
+        "P3-023-1",
+        "P11-012-2"
+      ],
+      "answerConflict": false
+    },
+    {
+      "group": "D212",
+      "members": [
+        "P2-018-1",
+        "P5-009-1",
+        "P8-019-1"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "D199",
+      "members": [
+        "P2-021-2",
+        "P3-051-1",
+        "P4-056-1"
+      ],
+      "answerConflict": true
+    },
+    {
+      "group": "O005",
+      "members": [
+        "P3-029-1",
+        "P8-004-1"
+      ],
+      "answerConflict": true
+    }
+  ],
+  "sourceCorrection": {
+    "id": "N29-060",
+    "options": [
+      {
+        "key": "A",
+        "text": "错误"
+      },
+      {
+        "key": "B",
+        "text": "正确"
+      }
+    ],
+    "answerUnchanged": "B"
+  },
+  "rules": "相同题干、相同选项内容（含图片识别文本），忽略选项字母和排列顺序。数字条件、题目问法、材料、图形仍须相同；答案分歧单独标注。"
+}
